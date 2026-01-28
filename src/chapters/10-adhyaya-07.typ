@@ -19,6 +19,14 @@ They called this #emph[kalos thanatos]---the beautiful death.#footnote[Greek: _k
 
 The Spartans at Thermopylae. Deaths that were, in some sense, #emph[composed].
 
+And before you say this is foreign to Bharata, remember Bhishma.
+
+Bhishma on his bed of arrows, choosing the moment of his death. #emph[Iccha-mrityu], they called it. Death by will. He could have died when the first arrow struck. Instead, he waited. He taught from his deathbed. He chose the auspicious moment, the sun's northern course, and #emph[then] he released his life.
+
+That is not acceptance. That is authorship. Bhishma composed his death as a warrior composes his final battle. He died wanting. He died teaching. He died #emph[on his terms].
+
+This is your own tradition, Govinda. The beautiful death is not Greek. It is #emph[ours]. We forgot it when the philosophers made equanimity the only virtue.
+
 #speaker[Krishna] And you think this is superior? Men clinging to glory even as they die?
 
 #speaker[Indra] I think it is more honest.
@@ -71,7 +79,7 @@ A man who dismisses beauty because "it's all illusion anyway" has missed somethi
 
 Your priests call this "tamasic." Low culture. Pollution.
 
-But when the Daiva#footnote[Daiva: Coastal Karnataka spirit-worship tradition involving trance possession, blood offering, and ecstatic performance.] dancer enters the trance, when the drumbeats match the heartbeat of the village, when the god descends into a human body and speaks, #emph[that] is closer to the Rigvedic spirit than any temple where joy is rationed and spontaneity is suspect.
+But when the Daiva#footnote[Daiva: Spirit-worship traditions of coastal Karnataka and Kerala, where local deities possess human performers. Predates Brahmanical Hinduism and preserves older ecstatic practices.] dancer enters the trance, when the drumbeats match the heartbeat of the village, when the god descends into a human body and speaks, #emph[that] is closer to the Rigvedic spirit than any temple where joy is rationed and spontaneity is suspect.
 
 The folk remembered what the philosophers forgot: that the sacred is not always pure. That the gods drink blood as well as milk. That ecstasy is as holy as equanimity.
 

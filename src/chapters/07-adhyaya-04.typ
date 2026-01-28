@@ -7,6 +7,12 @@
 
 In the beginning, a few great souls understand you truly. They achieve genuine detachment, not by lying about their desires, but by genuinely transcending them. Janaka. Perhaps Vyasa. A handful.
 
+And I will say this: the few who understood you truly are magnificent. Janaka ruled a kingdom while holding perfect equanimity. Vyasa composed the epic while standing outside it. These are diamonds, Govinda. I honor them.
+
+But notice something. Janaka was a king first, sage second. He built, ruled, conquered, and #emph[then] transcended. Vyasa was a creator first, renunciate second. He fathered dynasties, authored the longest poem in human history, and #emph[then] spoke of detachment.
+
+They fit my mold, not your teaching's. They did not start with "wanting is bondage." They started with wanting, achieved, and then moved beyond. Your teaching tells the boy to skip the achieving.
+
 But the teaching spreads. And ordinary men hear: "Desire is bondage. Attachment is ignorance. The wise man acts without wanting the fruit."
 
 Now. What does an ordinary man do with this teaching?
@@ -24,6 +30,8 @@ I have watched your businessmen, Govinda. They bargain like merchants, scheme li
 #speaker[Krishna] This is misuse. Not the teaching itself.
 
 #speaker[Indra] When every student misuses a teaching in the same way, the teaching is at fault.
+
+A teaching that only works for the exceptional is not a teaching for civilization. It is a secret for the few. Janaka could hold a kingdom and equanimity because Janaka was Janaka. But you gave his words to clerks and told them they could be kings of the spirit while remaining clerks of the flesh. They cannot. And pretending otherwise produces hypocrisy, not liberation.
 
 #speaker[Krishna] #stage[with sudden force] Every teaching is misused, Shakra. Your Greeks taught virtue and produced tyrants. Your Romans taught duty and built slave markets. Should Aristotle apologize for Alexander's massacres? Should we blame a lamp for the shadows men cast?
 

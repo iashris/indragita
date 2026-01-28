@@ -54,7 +54,11 @@ That is a different kind of death than yours, Vasudeva.
 
 But there is worse, Shakra. Your Greeks burned the library at Persepolis. Your Romans salted Carthage. Alexander wept for more worlds to conquer, then massacred the defenders of Tyre and sold thirty thousand into slavery. Is destruction the price of vitality? Is this the excellence you want me to teach?
 
-#speaker[Indra] #stage[unflinching] Yes, they had slaves. And your Bharata has caste. Yes, they burned libraries. And your priests buried knowledge in Sanskrit while the masses starved for wisdom. Every civilization has its sins. The question is not whether a people has darkness. The question is whether their philosophy helps them see it or helps them hide from it.
+#speaker[Indra] #stage[unflinching] Yes, they had slaves. And your Bharata has caste. Yes, they burned libraries. And your priests buried knowledge in Sanskrit while the masses starved for wisdom.
+
+This is Fire without Engine, Govinda. Raw vitality without wisdom burns itself out. I do not deny it. Alexander burned too bright and died at thirty-two. But Engine without Fire, your way, stagnates into comfortable decay. Both are failures. I seek the union.
+
+Every civilization has its sins. The question is not whether a people has darkness. The question is whether their philosophy helps them see it or helps them hide from it.
 
 Your teaching is excellent for hiding. "It is karma. They are working out past debts. The shudra serves because he served poorly in past lives." The confusion you create is not less cruel than the chains of the Greeks. It is more cruel, because it teaches the chained man that his chains are justice.
 

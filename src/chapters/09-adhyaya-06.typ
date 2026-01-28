@@ -107,9 +107,15 @@ And this is not wrong. For the many. For those who need rest, rest is medicine.
 
 But what of the builder who cannot sleep until the temple is perfect? What of the poet who starves to finish the verse? What of the scientist who forgets to eat because the problem has seized her mind?
 
+I see them, Govinda. The coder who stays until midnight because the bug offends her sense of order. The entrepreneur who risks everything because the vision will not let him rest. The artist who destroys canvas after canvas because "almost right" is unbearable. The student who reads until her eyes burn because she #emph[must] understand.
+
+Your philosophy whispers to them: "Why this obsession? This is attachment. This is ego. Find peace."
+
+And some of them listen. And their fire goes out. And the world loses what they might have built.
+
 Your teaching, misapplied, tells them: you are attached. You are suffering unnecessarily. Be serene. Find equanimity.
 
-And their fire goes out.
+And the temple remains unfinished. The verse unwritten. The problem unsolved.
 
 #indent-para[
 Sometimes, Govinda, greatness requires suffering. The Gita was never meant to be a manual for "stress management." It was meant to be a manual for pain management in the service of a higher goal.

@@ -41,7 +41,7 @@ The villagers who drink together after the harvest. The dancers who enter trance
 
 Your philosophers call their rituals crude. But those villagers are closer to the Rigvedic spirit than any temple where joy is rationed.
 
-When the Kola#footnote[Kola: Spirit-worship tradition from coastal Karnataka involving trance possession, ritual offering, and ecstatic performance.] performer drinks the blood offering and becomes the god, when the possession takes him and he speaks with a voice not his own---your priests say "tamasic." I say: #emph[this is what the Vedas meant]. This raw encounter with the divine. This joy that does not ask permission.
+When the Kola#footnote[Kola: A specific ritual within the Daiva tradition where the performer, through trance and blood offering, becomes the vessel for the deity to speak directly to devotees.] performer drinks the blood offering and becomes the god, when the possession takes him and he speaks with a voice not his own---your priests say "tamasic." I say: #emph[this is what the Vedas meant]. This raw encounter with the divine. This joy that does not ask permission.
 
 #section-heading[On Celebration]
 

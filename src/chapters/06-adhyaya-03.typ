@@ -25,6 +25,18 @@ Where is the karmic debt? Where is the accumulated weight? He chose. And the cho
 
 #speaker[Indra] Ah. So when a man remains a slave, it is karma. And when a man escapes slavery, that too is karma. The theory is unfalsifiable. It explains everything and therefore explains nothing.
 
+#speaker[Krishna] #stage[with sudden intensity] You misunderstand the teaching, Shakra. Karma is not moral dessert. It is not cosmic punishment. It is #emph[causal continuity]. Physics. The universe remembers what has been done, and consequences unfold according to natural law.
+
+When you drop a stone, it falls. Not because the stone "deserves" to fall. Because that is the nature of mass and gravity. Karma is the same. Actions create ripples. Ripples shape futures. This is not cruelty. This is order.
+
+#speaker[Indra] #stage[leaning forward] Then you are a determinist. If karma is physics, if every effect has a cause stretching back to the beginning of time, then where is freedom? Where is choice? Your physics leaves no room for the man who breaks the pattern.
+
+Unless... unless consciousness itself is the variable your equations cannot capture. The quantum uncertainty in your cosmic machine. The will that is not caused but #emph[causes].
+
+#speaker[Krishna] And if will is uncaused, is it not random? Is not chaos wearing the mask of freedom?
+
+#speaker[Indra] No. Will is neither determined nor random. It is a third thing. It is the self #emph[choosing] to become something new. Your teaching cannot see this because you dissolved the self into Brahman. But I kept mine. And I choose.
+
 #speaker[Krishna] It explains that there is order beneath the apparent chaos. That suffering is not random cruelty. That...
 
 #speaker[Indra] That the man born to suffer #emph[deserves] his suffering? That the child with disease has earned it through sins she cannot remember? This is not comfort, Govinda. This is cruelty wearing the mask of cosmic justice.

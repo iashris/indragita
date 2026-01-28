@@ -52,9 +52,25 @@ And the teaching at the core of all of it is: #emph[you can lose what you love, 
 
 The risk is not a flaw. The risk is the point. When I love knowing that I can lose, I love fully. When I love while telling myself "this is all maya, the soul is eternal, loss is illusion"---I have hedged. I have protected myself. And in protecting myself, I have made my love smaller.
 
-#speaker[Krishna] You would have people suffer? Attachment brings suffering. This is observable. The mother who loses her child...
+#speaker[Krishna] #stage[rising, with force] You would have people suffer? Attachment brings suffering. This is observable. The mother who loses her child...
 
-#speaker[Indra] Should suffer. Her suffering is not a mistake. It is the proof that her love was real.
+But let me ask you something, Shakra. What happens to love without wisdom? I have seen it. The lover who cannot let go becomes a stalker. The parent who loves fiercely raises a child who cannot breathe. The patriot whose love of nation becomes hatred of the other. Your Greeks loved glory and drowned the world in blood for it.
+
+Love without detachment becomes possession. Possession becomes control. Control becomes destruction of the very thing you claim to love. I have watched men kill what they loved because they could not bear to see it free.
+
+My teaching was never "do not love." It was "love, but do not strangle." Hold with open hands. The bird that stays because you left the cage open loves you. The bird that stays because you clipped its wings is a prisoner.
+
+#speaker[Indra] #stage[after a pause] That is the first thing you have said that I cannot simply dismiss.
+
+#speaker[Krishna] #stage[sitting back down] Then hear me fully. I never taught numbness. I taught the love that can survive loss. The love that does not require the beloved to be present to remain love. Radha still loves me. I still love her. The separation did not end the love. It purified it.
+
+#speaker[Indra] #stage[quietly] And did you ask her if she wanted purification? Or did you decide for her what was best?
+
+#speaker[Krishna] #stage[long silence] ...
+
+#speaker[Indra] Your silence tells me what I need to know. But I grant you this: love without wisdom is dangerous. Yet wisdom without love is dead. The question is which direction the error falls.
+
+Should she suffer? Yes. Her suffering is not a mistake. It is the proof that her love was real.
 
 What you offer is a hedge fund for the soul. "Diversify your attachments. Keep twenty percent in transcendence. That way, when the market crashes, you'll survive."
 
