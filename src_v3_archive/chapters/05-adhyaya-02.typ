@@ -50,11 +50,9 @@ Was he #emph[alive]? More alive than ten thousand of your detached karma-yogis p
 
 That is a different kind of death than yours, Vasudeva.
 
-#speaker[Krishna] #stage[leaning forward, with sudden force] And those Greeks you praise so much, they built their thinking on the backs of slaves. Half their population in chains so the other half could philosophize. Their women locked away. Their own students sold in markets.
+#speaker[Krishna] #stage[leaning forward] And those Greeks you praise so much---they built their thinking on the backs of slaves. Half their population in chains so the other half could philosophize. Their women locked away. Their own students sold in markets. Is this the excellence you want me to teach?
 
-But there is worse, Shakra. Your Greeks burned the library at Persepolis. Your Romans salted Carthage. Alexander wept for more worlds to conquer, then massacred the defenders of Tyre and sold thirty thousand into slavery. Is destruction the price of vitality? Is this the excellence you want me to teach?
-
-#speaker[Indra] #stage[unflinching] Yes, they had slaves. And your Bharata has caste. Yes, they burned libraries. And your priests buried knowledge in Sanskrit while the masses starved for wisdom. Every civilization has its sins. The question is not whether a people has darkness. The question is whether their philosophy helps them see it or helps them hide from it.
+#speaker[Indra] #stage[unflinching] Yes, they had slaves. And your Bharata has caste. Every civilization has its sins. The question is not whether a people has darkness. The question is whether their philosophy helps them see it or helps them hide from it.
 
 Your teaching is excellent for hiding. "It is karma. They are working out past debts. The shudra serves because he served poorly in past lives." The confusion you create is not less cruel than the chains of the Greeks. It is more cruel, because it teaches the chained man that his chains are justice.
 
