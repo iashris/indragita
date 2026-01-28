@@ -1,11 +1,37 @@
 // Indragita Book Template
 // ========================
 // An elegant, book-quality template for philosophical dialogue
+// Supports both light and dark modes
 
-// Color palette matching the original PDF
-#let primary-color = rgb("#D96D4B")  // Warm coral/terracotta
-#let text-color = rgb("#2D2D2D")
-#let light-text = rgb("#666666")
+// ============================================
+// COLOR SCHEMES
+// ============================================
+
+// Light mode (default)
+#let light-bg = white
+#let light-primary = rgb("#D96D4B")      // Warm coral/terracotta
+#let light-text = rgb("#2D2D2D")
+#let light-muted = rgb("#666666")
+
+// Dark mode - Night sky with golden fire
+#let dark-bg = rgb("#0D1117")            // Deep night sky
+#let dark-primary = rgb("#D4A853")        // Indra's gold/lightning
+#let dark-text = rgb("#E6DCC8")           // Warm cream
+#let dark-muted = rgb("#9CA3AF")          // Muted silver
+
+// Active color scheme (set by dark-mode variable)
+#let dark-mode = state("dark-mode", false)
+
+#let get-bg() = context { if dark-mode.get() { dark-bg } else { light-bg } }
+#let get-primary() = context { if dark-mode.get() { dark-primary } else { light-primary } }
+#let get-text() = context { if dark-mode.get() { dark-text } else { light-text } }
+#let get-muted() = context { if dark-mode.get() { dark-muted } else { light-muted } }
+
+// Static colors for immediate use (will be overridden in setup)
+#let primary-color = light-primary
+#let text-color = light-text
+#let light-text = light-muted
+#let bg-color = light-bg
 
 // Book metadata
 #let book-title = "INDRAGITA"
@@ -16,7 +42,17 @@
 // ============================================
 // BOOK SETUP
 // ============================================
-#let book-setup(doc) = {
+#let book-setup(is-dark: false, doc) = {
+  // Set the mode
+  dark-mode.update(is-dark)
+
+  // Define colors based on mode
+  let bg = if is-dark { dark-bg } else { light-bg }
+  let primary = if is-dark { dark-primary } else { light-primary }
+  let txt = if is-dark { dark-text } else { light-text }
+  let muted = if is-dark { dark-muted } else { light-muted }
+  let separator-color = if is-dark { rgb("#3D4450") } else { luma(180) }
+
   set document(
     title: book-title,
     author: author,
@@ -24,6 +60,7 @@
 
   set page(
     paper: "a5",
+    fill: bg,
     margin: (
       top: 2cm,
       bottom: 2.5cm,
@@ -32,12 +69,13 @@
     ),
   )
 
-  // Use elegant book fonts (system-available)
-  // Palatino and Georgia are excellent for book typography
+  // Modern yet ancient fonts - 2026 Indraprastha aesthetic
+  // Body: refined serif for readability
+  // Headings: geometric sans for modernity
   set text(
-    font: ("Palatino", "Georgia", "Times New Roman"),
+    font: ("Baskerville", "Georgia", "Palatino"),
     size: 10pt,
-    fill: text-color,
+    fill: txt,
   )
 
   set par(
@@ -45,13 +83,13 @@
     leading: 0.78em,
   )
 
-  // Prevent widow/orphan lines (min 2 lines at page break)
+  // Prevent widow/orphan lines
   set block(breakable: true)
   show heading: set block(breakable: false, above: 1.5em, below: 0.8em)
 
   // Footnote styling
   set footnote.entry(
-    separator: line(length: 30%, stroke: 0.5pt + luma(180)),
+    separator: line(length: 30%, stroke: 0.5pt + separator-color),
     indent: 0em,
     gap: 0.5em,
   )
@@ -59,7 +97,7 @@
   show footnote.entry: it => {
     let loc = it.note.location()
     let num = counter(footnote).at(loc).first()
-    set text(size: 8pt, fill: light-text)
+    set text(size: 8pt, fill: muted)
     set par(hanging-indent: 1em)
     super[#num]
     h(0.3em)
@@ -67,8 +105,11 @@
   }
 
   // Heading styling
-  show heading.where(level: 1): set text(fill: primary-color, weight: "bold")
-  show heading.where(level: 2): set text(fill: primary-color, weight: "bold", size: 12pt)
+  show heading.where(level: 1): set text(fill: primary, weight: "bold")
+  show heading.where(level: 2): set text(fill: primary, weight: "bold", size: 12pt)
+
+  // Emphasis styling for dark mode visibility
+  show emph: set text(fill: if is-dark { rgb("#F0E6D2") } else { txt })
 
   doc
 }
@@ -76,17 +117,22 @@
 // ============================================
 // COVER PAGE
 // ============================================
-#let cover-page() = {
-  set page(header: none, footer: none, margin: (x: 2cm, y: 2cm))
+#let cover-page(is-dark: false) = {
+  let bg = if is-dark { dark-bg } else { light-bg }
+  let primary = if is-dark { dark-primary } else { light-primary }
+  let muted = if is-dark { dark-muted } else { light-muted }
+
+  set page(header: none, footer: none, margin: (x: 2cm, y: 2cm), fill: bg)
 
   v(4fr)
 
   align(center)[
     #text(
-      size: 11pt,
-      tracking: 0.25em,
+      size: 10pt,
+      tracking: 0.3em,
       weight: "medium",
-      font: ("Helvetica Neue", "Helvetica", "Arial")
+      fill: muted,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
     )[#upper[#author]]
   ]
 
@@ -94,19 +140,19 @@
 
   align(center)[
     #text(
-      size: 52pt,
+      size: 48pt,
       weight: "bold",
-      fill: primary-color,
-      tracking: 0.02em,
-      font: ("Georgia", "Palatino", "Times New Roman")
+      fill: primary,
+      tracking: 0.2em,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
     )[INDRA]
-    #v(-0.3cm)
+    #v(-0.2cm)
     #text(
-      size: 52pt,
+      size: 48pt,
       weight: "bold",
-      fill: primary-color,
-      tracking: 0.02em,
-      font: ("Georgia", "Palatino", "Times New Roman")
+      fill: primary,
+      tracking: 0.2em,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
     )[GITA]
   ]
 
@@ -114,14 +160,23 @@
 
   align(center)[
     #text(
-      size: 10pt,
-      tracking: 0.2em,
+      size: 9pt,
+      tracking: 0.25em,
       weight: "medium",
-      font: ("Helvetica Neue", "Helvetica", "Arial")
+      fill: muted,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
     )[#upper[What Indra Taught Krishna]]
   ]
 
-  v(5fr)
+  if is-dark {
+    v(3cm)
+    align(center)[
+      #text(fill: primary, size: 24pt)[⚡]
+    ]
+    v(2fr)
+  } else {
+    v(5fr)
+  }
 
   pagebreak()
 }
@@ -129,42 +184,40 @@
 // ============================================
 // TABLE OF CONTENTS
 // ============================================
-#let toc-page(entries) = {
-  set page(header: none, footer: none)
+#let toc-page(entries, is-dark: false) = {
+  let bg = if is-dark { dark-bg } else { light-bg }
+  let primary = if is-dark { dark-primary } else { light-primary }
+  let txt = if is-dark { dark-text } else { light-text }
+  let muted = if is-dark { dark-muted } else { light-muted }
+
+  set page(header: none, footer: none, fill: bg)
 
   v(1.5cm)
 
   text(
-    size: 36pt,
+    size: 32pt,
     weight: "bold",
-    fill: primary-color,
-    tracking: 0.02em,
-    font: ("Georgia", "Palatino", "Times New Roman")
-  )[TABLE OF]
-  linebreak()
-  text(
-    size: 36pt,
-    weight: "bold",
-    fill: primary-color,
-    tracking: 0.02em,
-    font: ("Georgia", "Palatino", "Times New Roman")
+    fill: primary,
+    tracking: 0.15em,
+    font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
   )[CONTENTS]
 
   v(2cm)
 
-  set text(size: 9.5pt)
+  set text(size: 9pt, fill: txt)
 
-  // Keep all TOC entries together to avoid orphaned last entry
+  // Keep all TOC entries together
   block(breakable: false)[
     #for entry in entries {
       grid(
-        columns: (3.5cm, 1fr, auto),
-        row-gutter: 0.6em,
-        text(weight: "bold", size: 8.5pt)[#upper[#entry.label]],
-        entry.title,
-        text(fill: primary-color, weight: "bold")[#entry.page],
+        columns: (2.8cm, 1fr, 1cm),
+        column-gutter: 0.5em,
+        row-gutter: 0.3em,
+        text(weight: "semibold", size: 7.5pt, tracking: 0.08em, fill: muted, font: ("Avenir Next", "Avenir", "Futura"))[#upper[#entry.label]],
+        text(fill: txt, size: 9pt)[#entry.title],
+        align(right)[#text(fill: primary, weight: "bold")[#entry.page]],
       )
-      v(0.4em)
+      v(0.5em)
     }
   ]
 
@@ -180,30 +233,35 @@
 
   v(3cm)
 
-  if title != none and title != [] {
-    text(
-      size: 26pt,
-      weight: "bold",
-      fill: primary-color,
-      tracking: 0.02em,
-      font: ("Georgia", "Palatino", "Times New Roman")
-    )[#upper[#label]]
-    v(0.2cm)
-    text(
-      size: 22pt,
-      weight: "bold",
-      fill: primary-color,
-      tracking: 0.01em,
-      font: ("Georgia", "Palatino", "Times New Roman")
-    )[#upper[#title]]
-  } else {
-    text(
-      size: 30pt,
-      weight: "bold",
-      fill: primary-color,
-      tracking: 0.02em,
-      font: ("Georgia", "Palatino", "Times New Roman")
-    )[#upper[#label]]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+
+    if title != none and title != [] {
+      text(
+        size: 22pt,
+        weight: "bold",
+        fill: primary,
+        tracking: 0.15em,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[#upper[#label]]
+      v(0.4cm)
+      text(
+        size: 16pt,
+        weight: "medium",
+        fill: primary,
+        tracking: 0.05em,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[#title]
+    } else {
+      text(
+        size: 26pt,
+        weight: "bold",
+        fill: primary,
+        tracking: 0.15em,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[#upper[#label]]
+    }
   }
 
   v(2cm)
@@ -219,12 +277,17 @@
 // ============================================
 #let section-heading(title) = {
   v(1.5em)
-  text(
-    size: 12pt,
-    weight: "bold",
-    fill: primary-color,
-    font: ("Georgia", "Palatino", "Times New Roman")
-  )[#title]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    text(
+      size: 11pt,
+      weight: "semibold",
+      fill: primary,
+      tracking: 0.03em,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+    )[#title]
+  }
   v(0.8em)
 }
 
@@ -233,25 +296,37 @@
 // ============================================
 #let speaker(name) = {
   v(1em)
-  text(
-    weight: "bold",
-    fill: primary-color,
-    size: 9.5pt,
-    tracking: 0.05em,
-    font: ("Helvetica Neue", "Helvetica", "Arial")
-  )[#upper[#name]:]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    text(
+      weight: "bold",
+      fill: primary,
+      size: 9pt,
+      tracking: 0.1em,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+    )[#upper[#name]:]
+  }
   h(0.5em)
 }
 
 // Stage direction (inline)
 #let stage(content) = {
-  text(style: "italic")[(#content)]
+  context {
+    let is-dark = dark-mode.get()
+    let muted = if is-dark { dark-muted } else { rgb("#666666") }
+    text(style: "italic", fill: muted)[(#content)]
+  }
 }
 
 // Action/narrative description (block)
 #let action(content) = {
   v(0.8em)
-  text(style: "italic")[#content]
+  context {
+    let is-dark = dark-mode.get()
+    let muted = if is-dark { dark-muted } else { rgb("#666666") }
+    text(style: "italic", fill: muted)[#content]
+  }
   v(0.5em)
 }
 
@@ -266,15 +341,23 @@
 // LIST ITEMS
 // ============================================
 #let bullet(content) = {
-  par(hanging-indent: 1em, first-line-indent: 0em)[
-    #text(fill: primary-color, weight: "bold")[--] #content
-  ]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    par(hanging-indent: 1em, first-line-indent: 0em)[
+      #text(fill: primary, weight: "bold")[--] #content
+    ]
+  }
 }
 
 #let bullet-bold(term, desc) = {
-  par(hanging-indent: 1em, first-line-indent: 0em)[
-    #text(fill: primary-color, weight: "bold")[--] #strong[#term]: #desc
-  ]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    par(hanging-indent: 1em, first-line-indent: 0em)[
+      #text(fill: primary, weight: "bold")[--] #strong[#term]: #desc
+    ]
+  }
 }
 
 // ============================================
@@ -282,11 +365,15 @@
 // ============================================
 #let gloss-term(term, definition) = {
   v(0.5em)
-  par(first-line-indent: 0em)[
-    #text(weight: "bold", fill: primary-color)[#term]
-    #linebreak()
-    #h(1em)--- #definition
-  ]
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    par(first-line-indent: 0em)[
+      #text(weight: "bold", fill: primary)[#term]
+      #linebreak()
+      #h(1em)--- #definition
+    ]
+  }
 }
 
 // ============================================

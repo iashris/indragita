@@ -1,21 +1,22 @@
 // Indragita: What Indra Taught Krishna
 // By Ashris Choudhury
 // =====================================
-// LIGHT MODE EDITION
+// DARK MODE EDITION - Night Reading
+// The moon meets Indra's golden fire
 
 #import "template.typ": *
 
-#show: book-setup.with(is-dark: false)
+#show: book-setup.with(is-dark: true)
 
 // ============================================
 // FRONT MATTER
 // ============================================
 
 // Cover
-#cover-page(is-dark: false)
+#cover-page(is-dark: true)
 
 // Table of Contents
-#toc-page(is-dark: false, (
+#toc-page(is-dark: true, (
   (label: "Preface", title: "Preface", page: "4"),
   (label: "Introduction", title: "Introduction", page: "6"),
   (label: "Adhyaya 1", title: "The Descent", page: "9"),
@@ -33,12 +34,12 @@
 ))
 
 // Half-title page
-#set page(header: none, footer: none)
+#set page(header: none, footer: none, fill: dark-bg)
 #v(4cm)
 #align(center)[
-  #text(size: 14pt, fill: light-primary, weight: "medium")[What Indra Taught Krishna]
+  #text(size: 14pt, fill: dark-primary, weight: "medium")[What Indra Taught Krishna]
   #v(1cm)
-  #text(style: "italic", size: 10pt)[By Ashris Choudhury]
+  #text(style: "italic", size: 10pt, fill: dark-muted)[By Ashris Choudhury]
 ]
 #pagebreak()
 
@@ -92,13 +93,15 @@
 // COLOPHON
 // ============================================
 #pagebreak()
-#set page(header: none)
+#set page(header: none, fill: dark-bg)
 #v(1fr)
 #align(center)[
-  #text(style: "italic", size: 9pt)[
+  #text(style: "italic", size: 9pt, fill: dark-muted)[
     Indragita: What Indra Taught Krishna \
     By Ashris Choudhury \
-    First Edition, 2026
+    First Edition, 2026 \
+    #v(0.5cm)
+    #text(fill: dark-primary)[⚡ Night Edition ⚡]
   ]
 ]
 #v(2cm)

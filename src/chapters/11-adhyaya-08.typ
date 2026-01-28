@@ -19,26 +19,64 @@ Your teaching produces people who are suspicious of joy. Who interrogate their o
 
 This is a particular kind of cruelty---to make people ashamed of the one thing that makes existence bearable.
 
-#speaker[Krishna] I never taught shame. I taught discrimination---viveka---the ability to distinguish between---
+#speaker[Krishna] I never taught shame. I taught discrimination---viveka---the ability to distinguish between higher pleasures that build and lower pleasures that destroy.
 
-#speaker[Indra] Between higher and lower pleasures. Yes. And lo and behold, the higher pleasures are always the ones that require discipline and denial, and the lower pleasures are always the ones that feel good.
+#speaker[Indra] And notice who decides which pleasures are "higher"---the priests. The ones who live off donations. They have made a virtue of what they were doing anyway. And they have made a sin of what the people naturally enjoy.
+
+#speaker[Krishna] Some pleasures build. Some pleasures destroy. The man who drinks Soma once a season is not the man who drinks every night until his family starves. Viveka is not about shame---it is about discernment. Without it, joy becomes slavery.
+
+#speaker[Indra] Fair. But your followers heard "discernment" and became judges. They ranked pleasures like caste---this is permitted, that is forbidden, this person is pure, that person is polluted. Discernment became a weapon for the joyless to police the joyful.
+
+Between higher and lower pleasures. Yes. And lo and behold, the higher pleasures are always the ones that require discipline and denial, and the lower pleasures are always the ones that feel good.
 
 Do you see what this does? It creates a hierarchy where joy is always slightly suspect. Where the man who laughs too easily is less evolved than the man who maintains equanimity.
 
-But laughter is sacred, Vasudeva. The gods laugh. #emph[I] laugh. The universe that could have been dead matter is instead capable of comedy---and you want people to transcend it?
+But laughter is sacred, Vasudeva. The gods laugh. #emph[I] laugh. Only the priests forgot how. The universe that could have been dead matter is instead capable of comedy---and you want people to transcend it?
+
+#section-heading[On the Soma of the Folk]
+
+#speaker[Indra] And here is the irony.
+
+The villagers who drink together after the harvest. The dancers who enter trance in the firelight. The drummers who play until their hands bleed. They are drinking Soma without knowing its name.
+
+Your philosophers call their rituals crude. But those villagers are closer to the Rigvedic spirit than any temple where joy is rationed.
+
+When the Kola#footnote[Kola: Spirit-worship tradition from coastal Karnataka involving trance possession, ritual offering, and ecstatic performance.] performer drinks the blood offering and becomes the god, when the possession takes him and he speaks with a voice not his own---your priests say "tamasic." I say: #emph[this is what the Vedas meant]. This raw encounter with the divine. This joy that does not ask permission.
 
 #section-heading[On Celebration]
 
-#speaker[Indra] Your people will develop festivals. Colors thrown in the air. Dances around fires. Songs that shake the buildings. And the philosophers will say: this is for the masses. The advanced souls are beyond such things.
+#speaker[Indra] Your people will develop festivals. And I love them.
 
-But the masses are right, and the advanced souls are missing the point.
+Holi---when the colors fly and for one day no one cares about caste. When the Brahmin and the sweeper are both covered in the same powder, laughing, equal.
 
-A festival is not a distraction from spiritual life. A festival #emph[is] spiritual life---the community saying: we are alive, and this is worth celebrating, and we will not let the philosophers turn existence into a homework assignment.
+Diwali---when the crackers shake the night and the darkness is pushed back by pure human joy. Not because dharma requires it. Because the darkness should be defied.
+
+Jallikattu#footnote[Jallikattu: Tamil bull-taming tradition where young men attempt to grab a running bull. The philosophers cringe; the folk persist.]---when young men wrestle bulls and risk their bodies for glory. The philosophers cringe; the folk persist. Because some part of them knows that the men who won't wrestle bulls won't wrestle anything.
+
+These are not "for the masses." These ARE the masses saying: we will not let existence become homework.
+
+A festival is not a distraction from spiritual life. A festival #emph[is] spiritual life---the community saying: we are alive, and this is worth celebrating, and we will not let the philosophers turn joy into something to be transcended.
 
 When Rumi's Sufis spin, they are not performing a duty. They are celebrating---wildly, absurdly, with an abandon that would horrify your sthitaprajna. And in that spinning, they find God more directly than all the serene meditators combined.
 
-I am not saying meditation is wrong. I am saying meditation is not the only door. And a philosophy that privileges stillness over motion, silence over song, transcendence over celebration---that philosophy is cutting itself off from half of what makes existence worth having.
+#section-heading[On the Hierarchy of Paths]
+
+#speaker[Indra] I am not saying meditation is wrong. I am saying meditation is not the only door.
+
+The hierarchy was the mistake. Not meditation itself---but the claim that stillness is closer to God than motion. That silence is holier than song. That the meditator is more advanced than the dancer.
 
 #speaker[Krishna] You want me to say that dancing is equal to meditation?
 
-#speaker[Indra] I want you to say that dancing is not #emph[inferior] to meditation. That the man who finds God in the dance is not a beginner on the path---he may have found a shortcut.
+#speaker[Indra] I want you to say that dancing is not #emph[inferior] to meditation. That the man who finds God in the dance is not a beginner on the path---he may have found the #emph[original] path. The one the priests lost while cataloguing it.
+
+The Sufi who spins has found the same door. He just entered through a different side. And his entering shakes the walls---which maybe they need.
+
+#speaker[Krishna] #stage[slowly] You want me to bless the revelers.
+
+#speaker[Indra] I want you to stop cursing them with faint praise. To stop saying "yes, festivals are good #emph[for their level]." To stop creating hierarchies that make the joyful feel like spiritual children.
+
+The man who meditates for forty years and achieves equanimity has found something. But so has the grandmother who dances at her grandson's wedding with such abandon that for a moment everyone forgets death exists.
+
+They are both touching the divine. Neither is higher. They are different.
+
+And a teaching that cannot honor both is not complete.

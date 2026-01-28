@@ -45,11 +45,17 @@ These are different ways of being human. And you have ranked them. You have put 
 
 I am asking you to remove the ranking.
 
-#speaker[Krishna] And if I cannot?
+#speaker[Krishna] #stage[turning to face him] And if I tell you that you are blind to what I gave?
 
-#speaker[Indra] Then your teaching will do what it has already begun to do. It will produce saints---rare. And it will produce hypocrites---common. And the hypocrites will cloak themselves in the saints' words, and your civilization will slowly, beautifully, sink into a kind of sophisticated helplessness.
+The fire you love---it burns, Shakra. It consumed Vritra, yes. It also consumed half your devotees. Do you remember them? The warriors who followed your path and died screaming, wanting, unfulfilled? The kings who built empires and watched them crumble? The lovers who loved with your intensity and were destroyed by it?
 
-And other peoples---hungrier, less philosophical, less wise---will eat it alive.
+I gave them a way to live WITH the fire without being destroyed by it. You call it castration. I call it survival. You call it gray. I call it kindness.
+
+#speaker[Indra] #stage[quietly] You gave them survival. I do not dispute that. But survival is not the same as life.
+
+#speaker[Krishna] Without survival, there is no life.
+
+#speaker[Indra] Without fire, survival is merely waiting to die.
 
 #action[The sound of the sea. A bird calls.]
 
@@ -69,13 +75,49 @@ Are you going toward that arrow because it is your karma, your destined exit, th
 
 Or are you going toward it because you #emph[choose] death now, here, at the end of your era, as a statement---as the closing act of a life you authored?
 
-#speaker[Krishna] #stage[long pause] I don't know anymore.
+#speaker[Krishna] #stage[long pause] I go to the arrow because the play must end. I am the playwright, Shakra. I must exit the stage so the audience can go home.
 
-#speaker[Indra] #stage[placing a hand on his shoulder] That is the most honest thing you've said.
+#speaker[Indra] #stage[very quietly] And if some refuse to leave the theater? If they stay in their seats, wanting more, unable to accept that the story is over?
 
-When you know, you'll know whether you lived as a sage or as a man.
+#speaker[Krishna] #stage[looking at him] Those are yours, aren't they?
 
-I hope it's the second.
+#speaker[Indra] #stage[nodding slowly] They always were.
+
+#section-heading[The Final Deal]
+
+#speaker[Indra] Then let us make a bargain, you and I.
+
+Keep your Gita, Govinda. Feed it to the masses. Let them find comfort in their chains. Let them survive, since that is what they need. I do not begrudge them.
+
+But give me the mutants.
+
+When a soul is born that cannot be contained by your Dharma...
+
+When a fire burns that your water cannot quench...
+
+When a boy looks at the stars and feels the hunger...
+
+When a girl reads your scripture and feels only the cage...
+
+#indent-para[
+That one is mine.
+]
+
+#speaker[Krishna] #stage[a long silence] You want the restless ones.
+
+#speaker[Indra] I want the ones who cannot rest. The ones for whom your peace feels like suffocation. The ones who read your teaching and think: "This is not for me. There must be another way."
+
+#speaker[Krishna] #stage[slowly] There are not many such.
+
+#speaker[Indra] No. There never are. But they are the ones who change the world. They are the ones who build the empires, write the poems, break the chains.
+
+Your teaching is for the ninety-nine. Mine is for the one.
+
+Let them both exist. Let readers choose.
+
+#speaker[Krishna] #stage[placing his hand on Indra's arm] May your fire burn until the stars go dark, Sahasraksha.
+
+#speaker[Indra] And may your peace hold those who need it. We are not enemies, Govinda. We are brothers who serve different children.
 
 #action[Indra walks back toward the forest. At the edge, he turns.]
 
@@ -83,8 +125,30 @@ I hope it's the second.
 
 #speaker[Krishna] Indragita.
 
-#speaker[Indra] Good. Let them read it alongside yours. Let them choose.
+#speaker[Indra] Good. Let this dialogue be my ashwamedha#footnote[The ashwamedha horse runs wherever it will, and where it runs becomes the king's domain.]---these words will run through minds I will never meet, and where they land, I will have kingdom.
+
+Let them read it alongside yours. Let them choose.
 
 #action[He disappears into the trees. Moments later, the thunder rolls, far away, as if laughing.]
 
 #action[Krishna waits for the arrow.]
+
+#v(2em)
+
+#align(center)[
+#text(style: "italic", size: 10pt)[
+#box(width: 80%)[
+If you have read this far and felt fear---go back to Krishna. He loves you. He will keep you safe.
+
+#v(0.5em)
+
+If you have read this far and felt relief...
+
+Then the arrow was not meant for you.
+
+#v(0.5em)
+
+Wake up.
+]
+]
+]

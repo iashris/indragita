@@ -15,7 +15,9 @@ I will tell you. It produces deaths that are accepted rather than met. Surrender
 
 The Greeks had a different relationship with death. They knew it was real. They knew it ended something. And so they asked: #emph[how should a life be shaped so that its ending has meaning?]
 
-They called this #emph[kalos thanatos]---the beautiful death.#footnote[Greek: _kalos_ (beautiful) + _thanatos_ (death). The concept of dying nobly, with one's life's work complete.] Not a death that transcends the body, but a death that completes a life. Socrates drinking the hemlock while teaching. The Spartans at Thermopylae. Deaths that were, in some sense, #emph[composed].
+They called this #emph[kalos thanatos]---the beautiful death.#footnote[Greek: _kalos_ (beautiful) + _thanatos_ (death). The concept of dying nobly, with one's life's work complete.] Not a death that transcends the body, but a death that completes a life. Socrates did not say "death is illusion" as the hemlock rose through his body. He kept teaching. He composed his death as a final lesson: "This is how a philosopher meets the void---not with resignation, but with curiosity."
+
+The Spartans at Thermopylae. Deaths that were, in some sense, #emph[composed].
 
 #speaker[Krishna] And you think this is superior? Men clinging to glory even as they die?
 
@@ -31,11 +33,23 @@ Marcus Aurelius, an emperor, wrote in his private journal: "Do not act as if you
 
 #speaker[Indra] Then it closes. And the question becomes: what did you do with it?
 
-You will wait for Jara's arrow in equanimity. You will die as you taught---without attachment, without resistance, passing into whatever comes next with the serenity of one who knew it was all maya anyway.
+#section-heading[On How I Will Die]
 
-I will die differently, when my time comes. I will die wanting. I will die with unfinished projects and unfulfilled desires and things I still meant to do. And my dying will not be a release---it will be a tearing.
+#speaker[Indra] You will wait for Jara's arrow in equanimity. You will die as you taught---without attachment, without resistance, passing into whatever comes next with the serenity of one who knew it was all maya anyway.
+
+I will die differently, when my time comes.
+
+#indent-para[
+I will die wanting. I will die with unfinished projects and unfulfilled desires and things I still meant to do. And my dying will not be a release---it will be a tearing.
+
+I will rage, Govinda. Not against the dying of the light---that is inevitable---but against the notion that I should go quietly. That equanimity is the highest way to meet the void.
+
+My last thought will not be "All is Brahman." It will be "I was here. I wanted. I fought. I made things. I loved things. And I am being torn from them."
+]
 
 This is not inferior. This is the price of having lived.
+
+And perhaps---perhaps---the universe respects the one who does not go quietly more than the one who accepts the darkness as a friend.
 
 #section-heading[On Making Beautiful Things]
 
@@ -51,8 +65,30 @@ Beauty is not a distraction from truth. Beauty is truth rendered sensible. When 
 
 A man who dismisses beauty because "it's all illusion anyway" has missed something essential. He has failed to notice that illusion, if it is illusion, is suspiciously well-designed.
 
+#section-heading[On the Beauty Your Priests Forgot]
+
+#speaker[Indra] And the strangest beauty I have seen, Govinda---not in your temples with their gold and their rules, but in the forest where a man dances with a demon mask, where the drums shake the earth, where blood is offered and accepted.
+
+Your priests call this "tamasic." Low culture. Pollution.
+
+But when the Daiva#footnote[Daiva: Coastal Karnataka spirit-worship tradition involving trance possession, blood offering, and ecstatic performance.] dancer enters the trance, when the drumbeats match the heartbeat of the village, when the god descends into a human body and speaks---#emph[that] is closer to the Rigvedic spirit than any temple where joy is rationed and spontaneity is suspect.
+
+The folk remembered what the philosophers forgot: that the sacred is not always pure. That the gods drink blood as well as milk. That ecstasy is as holy as equanimity.
+
 #speaker[Krishna] You speak as if I do not appreciate beauty. I played the flute. The gopis danced. Vrindavan was---
 
-#speaker[Indra] Vrindavan was your youth. And then you grew up, went to Mathura, gave discourses on transcendence, and let the dancing become a memory.
+#speaker[Indra] Vrindavan was your youth. And then you grew up, went to Mathura, gave discourses on transcendence, and told them that growing up meant leaving.
 
-The gopis did not want transcendence, Keshava. They wanted #emph[you]. And you gave them philosophy instead.
+#speaker[Krishna] #stage[quietly] I gave them exactly what they could receive at that moment. The flute was the teaching they were ready for. The philosophy came later, for those who were ready. Should I have withheld both?
+
+#speaker[Indra] You should have stayed. Or you should have never danced. But to dance, and then to leave, and then to say "the dancing was the lower path"---that is cruelty with a philosophical excuse.
+
+The gopis did not want transcendence, Keshava. They wanted #emph[you]. The boy with the peacock feather. The one who danced. And you gave them philosophy instead.
+
+#speaker[Krishna] #stage[very quietly] Perhaps I did not know how to give them both.
+
+#speaker[Indra] #stage[after a pause] Perhaps none of us do. But we should try. The fire and the form. The ecstasy and the structure. The dance and the teaching that honors the dance.
+
+Not one above the other. Both. Together.
+
+That would be a teaching worth dying for.
