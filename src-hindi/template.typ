@@ -1,7 +1,7 @@
-// Indragita Book Template
-// ========================
-// An elegant, book-quality template for philosophical dialogue
-// Supports both light and dark modes
+// Indragita Book Template - Hindi Edition
+// ========================================
+// इंद्रगीता - हिंदी संस्करण
+// Supports Devanagari script with elegant typography
 
 // ============================================
 // COLOR SCHEMES
@@ -22,22 +22,11 @@
 // Active color scheme (set by dark-mode variable)
 #let dark-mode = state("dark-mode", false)
 
-#let get-bg() = context { if dark-mode.get() { dark-bg } else { light-bg } }
-#let get-primary() = context { if dark-mode.get() { dark-primary } else { light-primary } }
-#let get-text() = context { if dark-mode.get() { dark-text } else { light-text } }
-#let get-muted() = context { if dark-mode.get() { dark-muted } else { light-muted } }
-
-// Static colors for immediate use (will be overridden in setup)
-#let primary-color = light-primary
-#let text-color = light-text
-#let light-text = light-muted
-#let bg-color = light-bg
-
 // Book metadata
-#let book-title = "INDRAGITA"
-#let book-subtitle = "What Indra Taught Krishna"
-#let author = "Ashris Choudhury"
-#let year = "2026"
+#let book-title = "इंद्रगीता"
+#let book-subtitle = "इंद्र ने कृष्ण को क्या सिखाया"
+#let author = "आश्रिस चौधरी"
+#let year = "२०२६"
 
 // ============================================
 // BOOK SETUP
@@ -55,7 +44,7 @@
 
   set document(
     title: book-title,
-    author: author,
+    author: "Ashris Choudhury",
   )
 
   set page(
@@ -69,20 +58,21 @@
     ),
   )
 
-  // Modern yet ancient fonts - 2026 Indraprastha aesthetic
-  // Body: refined serif for readability
-  // Headings: geometric sans for modernity
-  // HYPHENATION OFF - prevents broken artifacts like "con￾sciousness"
+  // Hindi/Devanagari fonts
+  // Body: Elegant Devanagari serif
+  // Headings: Clean Devanagari sans
+  // HYPHENATION OFF
   set text(
-    font: ("Palatino", "Times New Roman", "Georgia", "Charter", "Baskerville"),
-    size: 10pt,
+    font: ("Kohinoor Devanagari", "Noto Serif Devanagari", "Devanagari MT", "Noto Sans Devanagari"),
+    size: 11pt,
     fill: txt,
     hyphenate: false,
+    lang: "hi",
   )
 
   set par(
     justify: true,
-    leading: 0.78em,
+    leading: 0.85em,
   )
 
   // Prevent widow/orphan lines
@@ -99,7 +89,7 @@
   show footnote.entry: it => {
     let loc = it.note.location()
     let num = counter(footnote).at(loc).first()
-    set text(size: 8pt, fill: muted)
+    set text(size: 9pt, fill: muted)
     set par(hanging-indent: 1em)
     super[#num]
     h(0.3em)
@@ -108,7 +98,7 @@
 
   // Heading styling
   show heading.where(level: 1): set text(fill: primary, weight: "bold")
-  show heading.where(level: 2): set text(fill: primary, weight: "bold", size: 12pt)
+  show heading.where(level: 2): set text(fill: primary, weight: "bold", size: 13pt)
 
   // Emphasis styling for dark mode visibility
   show emph: set text(fill: if is-dark { rgb("#F0E6D2") } else { txt })
@@ -130,44 +120,40 @@
 
   align(center)[
     #text(
+      size: 11pt,
+      tracking: 0.2em,
+      weight: "medium",
+      fill: muted,
+    )[आश्रिस चौधरी]
+  ]
+
+  v(1.5cm)
+
+  align(center)[
+    #text(
+      size: 52pt,
+      weight: "bold",
+      fill: primary,
+      tracking: 0.1em,
+    )[इंद्र]
+    #v(-0.3cm)
+    #text(
+      size: 52pt,
+      weight: "bold",
+      fill: primary,
+      tracking: 0.1em,
+    )[गीता]
+  ]
+
+  v(1.5cm)
+
+  align(center)[
+    #text(
       size: 10pt,
-      tracking: 0.3em,
+      tracking: 0.15em,
       weight: "medium",
       fill: muted,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-    )[#upper[#author]]
-  ]
-
-  v(1.5cm)
-
-  align(center)[
-    #text(
-      size: 48pt,
-      weight: "bold",
-      fill: primary,
-      tracking: 0.2em,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-    )[INDRA]
-    #v(-0.2cm)
-    #text(
-      size: 48pt,
-      weight: "bold",
-      fill: primary,
-      tracking: 0.2em,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-    )[GITA]
-  ]
-
-  v(1.5cm)
-
-  align(center)[
-    #text(
-      size: 9pt,
-      tracking: 0.25em,
-      weight: "medium",
-      fill: muted,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-    )[#upper[What Indra Taught Krishna]]
+    )[इंद्र ने कृष्ण को क्या सिखाया]
   ]
 
   if is-dark {
@@ -200,23 +186,21 @@
     size: 32pt,
     weight: "bold",
     fill: primary,
-    tracking: 0.15em,
-    font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-  )[CONTENTS]
+    tracking: 0.1em,
+  )[विषय-सूची]
 
   v(2cm)
 
-  set text(size: 9pt, fill: txt)
+  set text(size: 10pt, fill: txt)
 
-  // Keep all TOC entries together
   block(breakable: false)[
     #for entry in entries {
       grid(
-        columns: (2.8cm, 1fr, 1cm),
+        columns: (3cm, 1fr, 1cm),
         column-gutter: 0.5em,
         row-gutter: 0.3em,
-        text(weight: "semibold", size: 7.5pt, tracking: 0.08em, fill: muted, font: ("Avenir Next", "Avenir", "Futura"))[#upper[#entry.label]],
-        text(fill: txt, size: 9pt)[#entry.title],
+        text(weight: "semibold", size: 8pt, fill: muted)[#entry.label],
+        text(fill: txt, size: 10pt)[#entry.title],
         align(right)[#text(fill: primary, weight: "bold")[#entry.page]],
       )
       v(0.5em)
@@ -241,28 +225,24 @@
 
     if title != none and title != [] {
       text(
-        size: 22pt,
+        size: 24pt,
         weight: "bold",
         fill: primary,
-        tracking: 0.15em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-      )[#upper[#label]]
+        tracking: 0.1em,
+      )[#label]
       v(0.4cm)
       text(
-        size: 16pt,
+        size: 17pt,
         weight: "medium",
         fill: primary,
-        tracking: 0.05em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
       )[#title]
     } else {
       text(
-        size: 26pt,
+        size: 28pt,
         weight: "bold",
         fill: primary,
-        tracking: 0.15em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-      )[#upper[#label]]
+        tracking: 0.1em,
+      )[#label]
     }
   }
 
@@ -271,7 +251,7 @@
 
 // Adhyaya (chapter) title
 #let adhyaya(num, title) = {
-  chapter-title([Adhyaya #num:], title)
+  chapter-title([अध्याय #num:], title)
 }
 
 // ============================================
@@ -283,11 +263,9 @@
     let is-dark = dark-mode.get()
     let primary = if is-dark { dark-primary } else { light-primary }
     text(
-      size: 11pt,
+      size: 12pt,
       weight: "semibold",
       fill: primary,
-      tracking: 0.03em,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
     )[#title]
   }
   v(0.8em)
@@ -304,10 +282,8 @@
     text(
       weight: "bold",
       fill: primary,
-      size: 9pt,
-      tracking: 0.1em,
-      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-    )[#upper[#name]:]
+      size: 10pt,
+    )[#name:]
   }
   h(0.5em)
 }
@@ -347,7 +323,7 @@
     let is-dark = dark-mode.get()
     let primary = if is-dark { dark-primary } else { light-primary }
     par(hanging-indent: 1em, first-line-indent: 0em)[
-      #text(fill: primary, weight: "bold")[--] #content
+      #text(fill: primary, weight: "bold")[—] #content
     ]
   }
 }
@@ -357,7 +333,7 @@
     let is-dark = dark-mode.get()
     let primary = if is-dark { dark-primary } else { light-primary }
     par(hanging-indent: 1em, first-line-indent: 0em)[
-      #text(fill: primary, weight: "bold")[--] #strong[#term]: #desc
+      #text(fill: primary, weight: "bold")[—] #strong[#term]: #desc
     ]
   }
 }
@@ -373,7 +349,7 @@
     par(first-line-indent: 0em)[
       #text(weight: "bold", fill: primary)[#term]
       #linebreak()
-      #h(1em)--- #definition
+      #h(1em)— #definition
     ]
   }
 }
