@@ -51,7 +51,7 @@ Marcus Aurelius, an emperor, wrote in his private journal: "Do not act as if you
 
 I will die differently, when my time comes.
 
-#action[For a moment, something flickered behind Indra's eyes, a glimpse of a future even he could not fully see.]
+#action[For a moment, something flickered behind Indra's eyes. A glimpse of a future even he could not fully see.]
 
 I do not know when. I do not know how. But I know #emph[how] I will face it.
 
@@ -89,19 +89,17 @@ A man who dismisses beauty because "it's all illusion anyway" has missed somethi
 
 #speaker[Indra] And the strangest beauty I have seen, Govinda: not in your temples with their gold and their rules, but in the forest at midnight.
 
-#action[A vision opened. Drums. Torchlight. A figure in a demon mask, body slick with sweat, moving in ways no waking man should move.]
+I have spoken before of the Daiva#footnote[Daiva: Spirit-worship traditions of coastal Karnataka and Kerala, where local deities possess human performers. Predates Brahmanical Hinduism and preserves older ecstatic practices.] dancer, the possession, the drums, the god descending. You know the image.
 
-#speaker[Indra] #stage[narrating] The Daiva#footnote[Daiva: Spirit-worship traditions of coastal Karnataka and Kerala, where local deities possess human performers. Predates Brahmanical Hinduism and preserves older ecstatic practices.] dancer has entered the trance. The drums are matching his heartbeat, or his heartbeat is matching the drums, it is no longer clear. The god is descending.
+But I have not told you the part that matters most.
 
-The villagers are not watching a performance. They are witnessing a possession. When the dancer speaks, it is not his voice. When he points at a man in the crowd and names his secret sin, it is not theatre.
+#action[A vision opened. Not the dancer this time, but the crowd around him. Their faces.]
 
-#action[The vision sharpened. A woman kneeling before the possessed dancer, weeping. The dancer-god placing a hand on her head.]
-
-This is closer to what the Vedas meant than anything happening in your purified temples. This raw encounter with the divine. This joy that does not ask permission. This terror that is also ecstasy.
+It is not the dancer who interests me now. It is the woman kneeling before him, weeping. She has carried something for years, some grief, some wrong done to her that she could not name in daylight. And the dancer-god sees it. He places a hand on her head and speaks it aloud, the thing no one would say. And she breaks open. And she is healed. Not by philosophy. By being #emph[seen].
 
 #action[The vision faded. The beach returned.]
 
-Your priests call this "tamasic." Low culture. Pollution. But when the god descends into a human body and speaks, #emph[that] is the Rigvedic spirit. The folk remembered what the philosophers forgot: that the sacred is not always pure. That the gods drink blood as well as milk. That ecstasy is as holy as equanimity.
+That is what beauty does when it is not tamed. It does not decorate. It ruptures. It names what polite religion will not name. Your priests call this "tamasic," low culture, pollution. But the woman who knelt before that dancer-god walked home lighter than any meditator I have seen. The folk remembered what the philosophers forgot: that the sacred is not always pure. That healing sometimes looks like blood and firelight. That ecstasy is as holy as equanimity.
 
 #speaker[Krishna] #stage[slowly] I have seen such things. In Vrindavan, before I became... this.
 
@@ -113,7 +111,7 @@ Your priests call this "tamasic." Low culture. Pollution. But when the god desce
 
 The gopis did not want transcendence, Keshava. They wanted #emph[you]. The boy with the peacock feather. The one who danced.
 
-#action[A long silence. The sea was very loud. Somewhere in the forest behind them, a peacock called, once, twice, and then was silent.]
+#action[Neither spoke. The sea was very loud. Somewhere in the forest behind them, a peacock called, once, twice, and then was silent.]
 
 #speaker[Krishna] #stage[very quietly] Perhaps I did not know how to give them both.
 

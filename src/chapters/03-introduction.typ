@@ -23,7 +23,7 @@ But what if we read this differently?
 
 What if Indra's submission was strategic patience? What if he looked at the long arc of what Krishna's philosophy would produce: millennia of performed detachment, civilizational passivity, sophisticated hypocrisy. And waited for the right moment to speak?
 
-Indra, unlike mortal philosophers, is not bound by time's arrow. The Devas see what was, what is, and what will be as a single landscape. What Indra speaks of in this dialogue, peoples not yet born, empires not yet risen, he sees not as prophecy but as observation. To him, the Tang and the Cholas are as present as the Yadavas dying on this beach. This is his authority: not argument, but witness.
+Indra, unlike mortal philosophers, is not bound by time's arrow. The Devas see what was, what is, and what will be as a single landscape. What Indra speaks of in this dialogue (peoples not yet born, empires not yet risen) he sees not as prophecy but as observation. To him, the Tang and the Cholas are as present as the Yadavas dying on this beach. This is his authority: not argument, but witness.
 
 And Indra's spirit did not die with his temples. It lived in Chandragupta, the Vratya who built an empire from nothing. It lived in Rajendra Chola, whose ships conquered the sea. It lived in Karna, who refused to be defined by his birth. These are Indra's children, whether they called on him or not.
 

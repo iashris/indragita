@@ -31,7 +31,7 @@ I have watched your businessmen, Govinda. They bargain like merchants, scheme li
 
 #speaker[Krishna] This is misuse. Not the teaching itself.
 
-#speaker[Indra] When every student misuses a teaching in the same way, the teaching is at fault.
+#speaker[Indra] You know this, Govinda. We have spoken of this pattern. The question is no longer whether the teaching fails most men. The question is what to replace it with.
 
 A teaching that only works for the exceptional is not a teaching for civilization. It is a secret for the few. Janaka could hold a kingdom and equanimity because Janaka was Janaka. But you gave his words to clerks and told them they could be kings of the spirit while remaining clerks of the flesh. They cannot. And pretending otherwise produces hypocrisy, not liberation.
 
@@ -63,7 +63,7 @@ Draupadi took sides. She demanded justice. She was the most spiritually alive pe
 
 #speaker[Indra] No. You were not. And if you had been?
 
-#action[A long silence. The waves answered their own questions.]
+#action[A long silence. The wind stirred the leaves of the banyan above them.]
 
 #speaker[Indra] The Greeks have a word for what Draupadi did: #emph[parrhesia]. Fearless speech. The obligation to speak truth plainly, even to power.
 
@@ -85,33 +85,15 @@ Your Kauravas and Pandavas, did your teaching prevent their war? Or did it merel
 
 #speaker[Indra] And there is another poison in your philosophy. The dissolution of the individual.
 
-You teach that the atman is the same in all beings. That the wise man sees no difference between a brahmin and a dog. That all distinctions are maya.
-
-#speaker[Krishna] This is the highest truth.
-
-#speaker[Indra] It is a truth that destroys individual excellence.
-
-And there is no better example of what you destroy than Karna.
+You teach that the atman is the same in all beings. That all distinctions are maya. We have spoken of Karna before. You remember what he chose.
 
 #action[Krishna's expression flickered. The name still carried weight.]
 
-You told Arjuna that the wise man sees no difference between a Brahmin and a dog. That all distinctions are maya. That the atman is the same in all beings.
+He said: "My atman may be the same. But #emph[I] am Karna. And I will not be dissolved." You offered him absorption. He chose to remain himself. That refusal is what individuality looks like when it will not kneel.
 
-Karna refused this. He was told: "You are a sutaputra. Your atman is the same as everyone else's. Why struggle?"
+If I am the same as everyone, why should I strive to be #emph[more] than I am? Why should I develop my particular gifts, cultivate my particular vision, leave my particular mark? It is all the same Brahman anyway.
 
-And he said: "My atman may be the same. But #emph[I] am Karna. And I will not be dissolved."
-
-His individuality was not ego, Govinda. It was the refusal to let your philosophy erase him.
-
-#speaker[Krishna] #stage[quietly] He could have been a Pandava. I offered him the truth of his birth, a kingdom, brotherhood.
-
-#speaker[Indra] You offered him absorption into your order. A place in your structure. He would have been the sixth Pandava. He chose to remain Karna.
-
-#emph[That] is individuality. Not the ego you warn against. The irreducible core that says: I am not just Brahman wearing a costume. I am #emph[this]. And I will not dissolve.
-
-If I am the same as everyone, why should I strive to be #emph[more] than I am? Why should I develop my particular gifts, cultivate my particular vision, leave my particular mark? It's all the same Brahman anyway.
-
-A civilization of people who believe they are all the same Brahman is a civilization where no one feels the obligation to be #emph[exceptional]. Why bother? It's all illusion anyway.
+A civilization of people who believe they are all the same Brahman is a civilization where no one feels the obligation to be #emph[exceptional]. Why bother? It is all illusion anyway.
 
 #speaker[Krishna] #stage[after a long pause] You mistake the teaching. The wise man sees unity but still acts with full engagement in his particular dharma.
 

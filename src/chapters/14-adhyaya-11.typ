@@ -13,7 +13,7 @@ But your teaching does not honor power. It treats power as a burden, a karmic ob
 
 #speaker[Krishna] Power corrupts. This is observable.
 
-#speaker[Indra] Power corrupts when it is held shamefully. When the powerful man is taught that his power is spiritually suspect, that he should be embarrassed by his strength, his power goes underground. It becomes manipulation instead of command. Scheming instead of ruling.
+#speaker[Indra] Power corrupts when it is held shamefully. When the powerful man is taught that his power is spiritually suspect, that he should be embarrassed by his strength, his power goes underground. It becomes manipulation instead of command, scheming instead of ruling.
 
 A man who owns his power can be held accountable for it. A man who pretends he has no power, who says "I am merely an instrument of dharma," is far more dangerous.
 
@@ -29,7 +29,7 @@ Do you think I do not know what power costs?
 
 #action[A long silence. The wind shifted, carrying the smell of ash from Dvaraka.]
 
-But the world does not become kinder because we fear power. It becomes a place where the ones who still want power, without your conscience, without your hesitation, take it all.
+But the world does not become kinder because we fear power. It becomes a place where the ones who still want power, the ones without your conscience, without your hesitation, take it all.
 
 #speaker[Krishna] #stage[very quietly] I know that too.
 
@@ -42,9 +42,9 @@ I am not asking you to unleash chaos. A fire without a hearth burns the house do
 But a hearth without fire is just cold stone.
 
 #indent-para[
-Fire without Engine, raw vitality, pure hunger, burns itself out. This is the warlord who conquers and cannot rule, the artist who creates one masterpiece and destroys himself, the lover who loves so hard he cannot function.
+Fire without Engine. Raw vitality, pure hunger, burns itself out. This is the warlord who conquers and cannot rule, the artist who creates one masterpiece and destroys himself, the lover who loves so hard he cannot function.
 
-Engine without Fire, pure structure, empty discipline, stagnates. This is your administrator-king who preserves what was built but cannot build. Your philosopher who explains the world but cannot change it. Your civilization that survives but does not live.
+Engine without Fire. Pure structure, empty discipline, stagnates. This is your administrator-king who preserves what was built but cannot build. Your philosopher who explains the world but cannot change it. Your civilization that survives but does not live.
 
 What I want is Fire inside the Engine. The hunger of the outsider combined with the discipline of the builder. The vitality of the barbarian wielded with the precision of the emperor.
 ]
@@ -53,41 +53,25 @@ What I want is Fire inside the Engine. The hunger of the outsider combined with 
 
 #speaker[Indra] I think your teaching makes men ashamed of the fire. And a man who is ashamed of his own hunger will never build an engine worthy of it.
 
-#section-heading[On the Vratya Emperor]
+#section-heading[On the Vratya Emperor, Again]
 
-#speaker[Indra] Let me show you what Fire inside Engine looks like on your own soil.
+#speaker[Indra] I spoke to you of Chandragupta. The Vratya who should have accepted his station and instead built an empire. Remember what made him possible: not karma, not dharma, but hunger disciplined into statecraft.
 
-Chandragupta Maurya.
+#speaker[Krishna] You made your point about him already.
 
-#speaker[Krishna] You spoke of him before.
+#speaker[Indra] I made half my point. I told you he burned. What I did not say clearly enough is what his burning #emph[built]. He did not merely conquer. He #emph[ruled]. Roads, irrigation, standardized measures. The fire that conquered also organized.
 
-#speaker[Indra] I will speak of him again, because he is the answer to your objection. You say power corrupts. You say hunger destroys. Look at Chandragupta.
+That is Fire inside Engine.
 
-#indent-para[
-He was born in the mud. A Vratya, no caste, no claim, no place in your Vedic order. By your philosophy, he should have accepted his station. Worked out his karmic debt. Waited for a better birth.
-
-Instead, he burned.
-
-He found Chanakya, a Brahmin who understood that philosophy without power is poetry. Together, they did what should have been impossible. They overthrew the Nandas. They pushed back Alexander's successors. They built an empire from sea to sea.
-]
-
-#speaker[Krishna] And then?
-
-#speaker[Indra] And then, and this is the part your philosophers never mention, he #emph[ruled] it. Not as a tyrant drunk on conquest. As a king who built roads, irrigated fields, standardized measures. The fire that conquered also #emph[organized].
-
-Fire inside Engine.
-
-His grandson Ashoka will be remembered as the renouncer, the man who turned away from war. But Ashoka's renunciation was only possible because Chandragupta's hunger had built something worth renouncing.
+Ashoka could afford to renounce war only because Chandragupta's hunger had built something worth renouncing. Ambition #emph[creates] the order that later becomes worth preserving.
 
 #speaker[Krishna] You are saying ambition can serve order?
 
-#speaker[Indra] I am saying ambition #emph[creates] the order that later becomes worth preserving. The philosopher who inherits a kingdom did not build it. The philosopher who builds a kingdom from nothing, #emph[he] understands that power is not a burden. It is a responsibility.
-
-And a man who is ashamed of his power will never wield it responsibly. He will hide it. Manipulate with it. Deny that he has it while using it constantly.
+#speaker[Indra] I am saying the man who is ashamed of his power will never wield it responsibly. He will hide it, manipulate with it, deny that he has it while using it constantly.
 
 The honest king says: "I am strong, and with strength comes the duty to protect the weak."
 
-The dishonest sage says: "Power is maya. I am merely an instrument." And then he manipulates anyway, but without accountability.
+The dishonest sage says: "Power is maya. I am merely an instrument." And then he manipulates anyway, without accountability.
 
 Which would you rather have ruling your Bharata?
 
@@ -115,7 +99,7 @@ Your teaching, misapplied, produced the first. I want the second.
 
 #speaker[Indra] Let me tell you what I have seen.
 
-#action[Indra's eyes went distant. He did not share the vision, only described it.]
+#action[Indra's gaze lifted past the horizon, past the age itself. He did not share the vision, only described it.]
 
 Men from the mountains and the desert will ride into your temples. They will not come to philosophize. They will come to take.
 
@@ -145,16 +129,8 @@ Your philosophers will not know what to make of him. He does not fit the renunci
 #emph[Those] are my children, Govinda. The ones your philosophy could not quiet. The ones who wanted their land, their temples, their children's future, and were not ashamed to say so.
 ]
 
-#action[The sea pulled at the shore. A bird cried somewhere in the distance.]
+#action[Salt wind moved through the silence. Somewhere below, the tide was turning.]
 
-#speaker[Indra] I have seen what happens to peoples who lose the will to power. They become wise. And then they become weak. And then they become enslaved. And then they become forgotten.
-
-Your teaching produces kings who go through the motions. Who rule because their birth requires it, not because they burn to build something. Who administer rather than create.
-
-And administration, Vasudeva, is not enough. Administration preserves. It does not transform.
-
-The ages to come will require transformation. Your Bharata will face peoples who want things, land, trade, dominance, and your philosopher-kings will be helpless against them. Because the peoples who want things will out-work, out-fight, and out-build the peoples who have been taught that wanting is attachment.
+#speaker[Indra] The ages to come will require transformation, not preservation. Your Bharata will face peoples who want things: land, trade, dominance. And your philosopher-kings will be helpless against them, because the peoples who want things will out-work, out-fight, and out-build the peoples who have been taught that wanting is attachment.
 
 This is not a prediction. This is a certainty.
-
-I have seen it.

@@ -3,14 +3,14 @@
 
 #adhyaya(4, [The Estranged Cousins])
 
-#speaker[Indra] I do not watch the Greeks because I love them more than your Bharata. I watch them because they are your cousins—children of the same fire, speakers of kindred tongues, worshippers of the same sky-father under different names.
+#speaker[Indra] I do not watch the Greeks because I love them more than your Bharata. I watch them because they are your cousins, children of the same fire, speakers of kindred tongues, worshippers of the same sky-father under different names.
 
 #speaker[Krishna] Cousins?
 
 #speaker[Indra] Zeus. Dyaus. Jupiter. Dyaus-Pitar. Tyr. The names changed as the tribes scattered. The fire did not.
 
 #indent-para[
-Your ancestors and theirs drank from the same well. They prayed to the same storm-god. They asked for the same things—victory, cattle, sons, glory.
+Your ancestors and theirs drank from the same well. They prayed to the same storm-god. They asked for the same things: victory, cattle, sons, glory.
 
 And then the paths diverged. They kept the heirloom. You threw it away.
 ]
@@ -39,7 +39,7 @@ Notice what is missing from his teaching, Keshava.
 
 #section-heading[Krishna's Counter-Attack]
 
-#speaker[Krishna] #stage[leaning forward, steel in his voice] Your cousins who kept the fire—shall I show you what they built with it?
+#speaker[Krishna] #stage[leaning forward, steel in his voice] Your cousins who kept the fire. Shall I show you what they built with it?
 
 They built ships that carried millions of Africans in chains. They built empires that carved up continents like meat. They built weapons that can kill everything that lives.
 
@@ -61,7 +61,7 @@ I do not pretend the fire is good. I say it is #emph[necessary].
 
 #speaker[Indra] Necessary for #emph[anything]. A people without fire cannot stop the people with fire. Only a greater fire can.
 
-Your teaching sought to extinguish the fire within. But the fire without kept coming. And your children—armed with equanimity—were defenseless against those armed with want.
+Your teaching sought to extinguish the fire within. But the fire without kept coming. And your children, armed with equanimity, were defenseless against those armed with want.
 
 #speaker[Krishna] So your answer to the gas chambers is... more fire?
 
@@ -69,9 +69,9 @@ Your teaching sought to extinguish the fire within. But the fire without kept co
 
 #emph[Righteous anger]. The fire aimed at darkness.
 
-#action[A pause. The sea spoke its ancient language.]
+#action[A pause. The salt wind carried the sound of distant waves.]
 
-#speaker[Indra] Fire is not good or evil. Fire is capacity. The question is not whether to have it—the question is how to aim it.
+#speaker[Indra] Fire is not good or evil. Fire is capacity. The question is not whether to have it. The question is how to aim it.
 
 Your teaching aimed to extinguish the capacity itself. And in doing so, you left your children unable to warm themselves #emph[or] to fight.
 
@@ -88,7 +88,7 @@ This is precisely your error. The Persians understood something you refuse to ac
 #indent-para[
 Not because you are ignorant. Not because you are "attached." Because #emph[choosing is what it means to be real].
 
-Their wise men teach that every soul is a soldier in a cosmic war. That your actions matter—not in some karmic accounting book, but because right now, in this moment, you are either feeding the light or feeding the darkness.
+Their wise men teach that every soul is a soldier in a cosmic war. That your actions matter, not in some karmic accounting book, but because right now, in this moment, you are either feeding the light or feeding the darkness.
 ]
 
 #speaker[Krishna] And who decides which is which?
@@ -101,7 +101,7 @@ Their wise men teach that every soul is a soldier in a cosmic war. That your act
 
 Far in the future, the descendants of the Greeks will fall into a dark age. Their learning will be lost. Their temples will crumble. For a thousand years, they will forget what their ancestors knew.
 
-And then—they will remember.
+And then they will remember.
 
 They will call it Renaissance. Rebirth. They will look back at their ancients and say: we can be great again. They will dig up old statues and weep at the beauty. They will read old books and think: we have forgotten how to want things this clearly.
 
@@ -115,11 +115,11 @@ A sculptor named Michelangelo will carve a man from marble. He will work for yea
 That is not detachment, Keshava. That is love so fierce it reshapes matter itself.
 ]
 
-But here is what I want you to see, Govinda: #emph[they did it by remembering]. They did not invent a new philosophy. They recovered an old one—the philosophy of excellence, of wanting, of building without apology.
+But here is what I want you to see, Govinda: #emph[they did it by remembering]. They did not invent a new philosophy. They recovered an old one. The philosophy of excellence, of wanting, of building without apology.
 
 #section-heading[The Permission to Remember]
 
-#speaker[Indra] The Renaissance is not a Western story. It is a #emph[human] story—what happens when a people decides to stop being ashamed of wanting to be great.
+#speaker[Indra] The Renaissance is not a Western story. It is a #emph[human] story: what happens when a people decides to stop being ashamed of wanting to be great.
 
 Your Bharata also has something to remember. The Rigvedic spirit. The fire that burned before your philosophers poured water on it.
 
@@ -135,7 +135,7 @@ The fire is not lost. It is only sleeping.
 Give your children permission to remember.
 ]
 
-#speaker[Krishna] #stage[after a long silence] And if they remember wrong? If they take the fire and use it as your cousins did—for chains, for conquest, for chambers of death?
+#speaker[Krishna] #stage[after a long silence] And if they remember wrong? If they take the fire and use it as your cousins did, for chains, for conquest, for chambers of death?
 
 #speaker[Indra] Then they will have to live with that. As the Greeks live with it. As the Romans. As every people who chose fire over ash.
 
@@ -145,7 +145,7 @@ But at least they will have #emph[lived]. At least they will have built somethin
 
 #speaker[Indra] It is not simple. Fire never is.
 
-But the alternative—the ash you have been teaching—that is not peace, Govinda. That is death pretending to be wisdom.
+But the alternative, the ash you have been teaching, that is not peace, Govinda. That is death pretending to be wisdom.
 
 #action[The sound of footsteps in the forest. Closer now. Neither of them turned.]
 

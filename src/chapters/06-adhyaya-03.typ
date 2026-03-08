@@ -15,7 +15,7 @@ I will speak of your own soil. Of the fire that burned here before your philosop
 
 #speaker[Indra] Let me quote to you your own holiest text.
 
-Your Rigveda—the oldest hymns, the ones your priests claim to revere above all others—says this:
+Your Rigveda, the oldest hymns, the ones your priests claim to revere above all others, says this:
 
 #indent-para[
 #emph["Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit. Sages who searched with their heart's thought discovered the existent's kinship in the non-existent."]#footnote[Rigveda 10.129.4 (Nasadiya Sukta)]
@@ -29,7 +29,7 @@ Before the gods. Before dharma. Before your philosophy of detachment. There was 
 
 When did you start teaching that the First Seed was poison?
 
-#speaker[Krishna] #stage[measured] The sages distinguished between cosmic desire and personal craving. The creative impulse of Brahman is not the same as—
+#speaker[Krishna] #stage[measured] The sages distinguished between cosmic desire and personal craving. The creative impulse of Brahman is not the same as personal craving.
 
 #speaker[Indra] The sages made no such distinction. That came later. That came when philosophers grew embarrassed by their ancestors' hungers.
 
@@ -63,11 +63,11 @@ But the evolution was not upward, Govinda. It was backward. Into the cave. Into 
 
 You say "All is Brahman." The atman in the Chandala is the same as the atman in the Brahmin. In the eyes of the ultimate, there is no high, no low, no pure, no impure.
 
-And yet—and #emph[yet]—your children still will not eat together.
+And yet, and #emph[yet], your children still will not eat together.
 
 #speaker[Krishna] #stage[stiffening] That is the corruption of the teaching, not the teaching itself.
 
-#speaker[Indra] When every corruption follows the same pattern, the teaching is at fault.
+#speaker[Indra] A philosophy that is misread identically by millions is not being misread. It is being read correctly.
 
 You gave them "All is Brahman" with one breath and "your karma placed you here" with the next. The first dissolves hierarchy. The second sanctifies it.
 
@@ -77,7 +77,7 @@ Your teaching did not dissolve caste. It made caste #emph[sacred]. "It is his ka
 
 #speaker[Indra] #stage[a beat] Then why did you give them such perfect tools for hiding?
 
-#action[Silence. The waves continued their rhythm.]
+#action[Silence. The tide pulled back, dragging shells across stone.]
 
 #speaker[Krishna] #stage[quieter] Because the alternative was chaos. Men need order. They need to believe their suffering has meaning. Without the frame—
 
@@ -93,7 +93,7 @@ They will worship the skin of their ancestors while spitting on the spirit of th
 
 #speaker[Indra] They will become obsessed with fairness. With light skin. With creams and lotions and the shame of being dark. They will spend fortunes trying to look like those they imagine their ancestors were.
 
-But the actual spirit of those ancestors—the fire, the wanting, the refusal to accept the world as given—that they will call "Western corruption." "Foreign influence." "Not our culture."
+But the actual spirit of those ancestors, the fire, the wanting, the refusal to accept the world as given: that they will call "Western corruption." "Foreign influence." "Not our culture."
 
 #action[His voice turned bitter.]
 
@@ -111,9 +111,9 @@ The fire has no caste. The fire has no language. The fire is in whoever burns.
 
 #speaker[Indra] Let me tell you of one who burned on your own soil.
 
-Chandragupta. The Vratya. The outsider. Born in the mud, unclaimed by your Vedic order.
+Chandragupta. The Vratya. Born in the mud, unclaimed by your Vedic order.
 
-By your philosophy, he should have accepted his station. Worked out his karmic debt. Waited for a better birth.
+By your philosophy, he should have accepted his station. Worked out his karmic debt.
 
 Instead, he burned.
 
@@ -127,7 +127,7 @@ Not because karma required it. Because Chandragupta #emph[chose] it.
 
 #speaker[Indra] Ashoka's renunciation was only possible because Chandragupta's hunger had built something worth renouncing. Without the fire, there is nothing to transform.
 
-The philosopher who inherits a kingdom did not build it. The philosopher who builds a kingdom from nothing—#emph[he] understands that power is not a burden. It is a responsibility.
+The philosopher who inherits a kingdom did not build it. The philosopher who builds a kingdom from nothing, #emph[he] understands that power is not a burden. It is a responsibility.
 
 #section-heading[On the One Who Burned Too Bright]
 
@@ -143,7 +143,7 @@ Karna.
 
 #action[Indra's voice changed. Something heavy entered it.]
 
-I gave him the armor, you know. Through Surya. My gift to a boy who had nothing else—no caste, no claim, no place in your order.
+I gave him the armor, you know. Through Surya. My gift to a boy who had nothing else. No caste, no claim, no place in your order.
 
 And then I came to him before the war. In disguise. As a Brahmin seeking alms.
 
@@ -151,11 +151,11 @@ And I asked him to give it back.
 
 #speaker[Krishna] #stage[quietly] I know.
 
-#speaker[Indra] He knew who I was. He knew what I was asking. The armor was the only thing that made him unkillable. And he gave it to me anyway—because he had made a vow never to refuse a Brahmin who asked.
+#speaker[Indra] He knew who I was. He knew what I was asking. The armor was the only thing that made him unkillable. And he gave it to me anyway, because he had made a vow never to refuse a Brahmin who asked.
 
-#action[Silence. A long one.]
+#action[Neither spoke. The weight of it hung between them.]
 
-I took back my own gift because it threatened your order. Because a Karna who could not be killed would have... complicated things.
+I took back my own gift because it threatened your order. Because a Karna who could not be killed would have complicated things.
 
 #speaker[Krishna] He would have won.
 
@@ -167,17 +167,17 @@ I am complicit in his death, Govinda. As are you. We both saw what he was. We bo
 
 #speaker[Krishna] #stage[very quietly] I offered him the truth. I told him who he really was. I gave him the chance to become a Pandava.
 
-#speaker[Indra] You offered him absorption. A place in your order. He would have been the sixth Pandava—fitting neatly into the structure he had spent his life defying.
+#speaker[Indra] You offered him absorption. A place in your order. He would have been the sixth Pandava, fitting neatly into the structure he had spent his life defying.
 
 He refused. And in refusing, he proved what I have been saying all along.
 
 Some fires cannot be contained. Some identities cannot be dissolved into "All is Brahman." Some men would rather die as themselves than live as another's footnote.
 
-#action[A long silence. The waves continued their rhythm. Neither spoke for a moment.]
+#action[The sea filled the silence for them. Salt air settled on their skin like grief.]
 
 #speaker[Indra] #stage[softer] This is not a prosecution, Govinda. I am not here to condemn you.
 
-I am showing you that even you—even you who taught detachment—felt the weight of extinguishing that fire. You remember his face. You know what was lost.
+I am showing you that even you, even you who taught detachment, felt the weight of extinguishing that fire. You remember his face. You know what was lost.
 
 #speaker[Krishna] #stage[almost inaudible] I remember.
 
@@ -197,11 +197,11 @@ The fire was always here. Your philosophers poured water on it and called the as
 
 #speaker[Krishna] And you want me to... what? Reverse millennia of thought? Tell my children that the Buddha was wrong, that the Upanishads were wrong, that I was wrong?
 
-#speaker[Indra] I want you to tell them the truth: that there is more than one way to be human. That detachment is one path—for some temperaments, at some stages of life. But it is not THE path. It is not higher. It is not the goal.
+#speaker[Indra] I want you to tell them the truth: that there is more than one way to be human. That detachment is one path, for some temperaments, at some stages of life. But it is not THE path. It is not higher. It is not the goal.
 
 #action[He stood. A shadow moved at the edge of the forest. Neither of them turned to look.]
 
-Now. I have shown you the fire on your own soil. I have shown you that this is not foreign wisdom I bring—it is an heirloom you threw away.
+Now. I have shown you the fire on your own soil. I have shown you that this is not foreign wisdom I bring. It is an heirloom you threw away.
 
 Let me now show you your cousins. The ones who kept the heirloom. The ones whose children will come to your shores, armed with want, and find your children armed only with equanimity.
 

@@ -15,7 +15,7 @@ My method is closer to data science than theology: pattern recognition, comparat
 
 The Indo-European philosophical tradition, the fire that birthed Greek inquiry, Persian dualism, and Vedic rigor, has always valued questioning over compliance, curiosity over peacocking, truth over comfort. That same fire now burns in laboratories and startups, in the rigorous doubt of the scientific method. I write in that tradition.
 
-The fire that once burned in the Rigveda, where Indra was king, where men asked for victory and cattle without apology, that fire was ours before we forgot it. This book is an attempt at remembering.
+The fire that once burned in the Rigveda, where Indra was king and men asked for victory and cattle without apology. That fire was ours before we forgot it. This book is an attempt at remembering.
 
 This book is a mythological dialogue. Indra, king of the Devas, confronts Krishna at the end of his life, after the Yadava clan's self-destruction, before the hunter's arrow finds its mark. He challenges the teachings of the Gita, offering an alternative philosophy: sincerity over performed wisdom, owned desire over suppressed craving, the courage to want over the safety of transcendence.
 

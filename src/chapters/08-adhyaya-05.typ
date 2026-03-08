@@ -23,19 +23,15 @@ But he #emph[wanted] it. He wanted it so fiercely that he performed austerities 
 
 #speaker[Indra] There it is. The move your philosophy always makes. When someone breaks the pattern, you say "the pattern was always larger than we thought." You never let the pattern be #emph[broken].
 
-Karna did not accept his karma either. He was born a sutaputra, a charioteer's son. By your system, he should have remained one. Instead, he #emph[chose] to become the greatest archer of his age. Not through cosmic permission. Through #emph[will].
+And Karna. Born a sutaputra, yet he #emph[chose] to become the greatest archer of his age. Not through cosmic permission. Through will.
 
-Your philosophy said: you are where you are because of what you were.
-
-Karna said: I am what I decide to be.
-
-And for a moment, before you killed him, he was right.
+He said: I am what I decide to be. And for a moment, he was right.
 
 #speaker[Krishna] #stage[quietly] You keep returning to Karna.
 
-#speaker[Indra] Because you keep avoiding him.
+#speaker[Indra] Because you have never answered him.
 
-#action[A silence. The waves continued their ancient rhythm.]
+#action[Neither spoke. The wind shifted, carrying the smell of salt and smoke from Dvaraka's dying pyres.]
 
 #speaker[Indra] Let me tell you of another man who broke the pattern. Not a Bharatiya, but listen anyway.
 
@@ -51,9 +47,13 @@ Where is the karmic debt? Where is the accumulated weight? He chose. And the cho
 
 #speaker[Indra] Ah. So when a man remains a slave, it is karma. And when a man escapes slavery, that too is karma. The theory is unfalsifiable. It explains everything and therefore explains nothing.
 
-#speaker[Krishna] #stage[with sudden intensity] You misunderstand the teaching, Shakra. Karma is not moral dessert. It is not cosmic punishment. It is #emph[causal continuity]. Physics. The universe remembers what has been done, and consequences unfold according to natural law.
+#speaker[Krishna] #stage[with sudden intensity] You misunderstand the teaching, Shakra. Karma is not moral dessert. It is not cosmic punishment. It is #emph[causal continuity]. Physics. There is order beneath the apparent chaos. Suffering is not random cruelty. Everything connects across lifetimes in ways we cannot always see.
+
+The universe remembers what has been done, and consequences unfold according to natural law.
 
 When you drop a stone, it falls. Not because the stone "deserves" to fall. Because that is the nature of mass and gravity. Karma is the same. Actions create ripples. Ripples shape futures. This is not cruelty. This is order.
+
+Consider it further: a river does not punish the land it floods. It follows contour, gradient, the memory of rainfall. Karma is the same. It is not a judge. It is a current. And those who understand the current can learn to navigate it.
 
 #speaker[Indra] #stage[leaning forward] Then you are a determinist. If karma is physics, if every effect has a cause stretching back to the beginning of time, then where is freedom? Where is choice? Your physics leaves no room for the man who breaks the pattern.
 
@@ -63,7 +63,7 @@ Unless... unless consciousness itself is the variable your equations cannot capt
 
 #speaker[Indra] No. Will is neither determined nor random. It is a third thing. It is the self #emph[choosing] to become something new. Your teaching cannot see this because you dissolved the self into Brahman. But I kept mine. And I choose.
 
-#speaker[Krishna] It explains that there is order beneath the apparent chaos. That suffering is not random cruelty. That everything connects across lifetimes in ways we cannot always see.
+#speaker[Krishna] #stage[pressing] And I say your "choice" is the current, felt from the inside. The river does not know it follows gravity. It simply flows and calls itself free.
 
 #speaker[Indra] And so the man born to suffer #emph[deserves] his suffering? The child with disease has earned it through sins she cannot remember? This is cruelty wearing the mask of cosmic justice, Govinda.
 
@@ -101,21 +101,11 @@ But I am NOT a leaf. I am Indra. I lift the vajra. I do not merely "express the 
 
 #speaker[Krishna] You mock. But the teaching was never meant to paralyze. It was meant to free men from the tyranny of outcome.
 
-#speaker[Indra] And yet it paralyzes. Let me show you something.
+#speaker[Indra] And yet it paralyzes. I showed you the boy, Govinda. The one with Chanakya's mind. You saw what your teaching made of him. A clerk who calls his defeat wisdom.
 
-#action[The scene shifted. A village somewhere in the plains. A boy, perhaps fourteen, staring at the stars. His eyes held a hunger that frightened his parents.]
+#action[Krishna's jaw tightened. He remembered the vision.]
 
-#speaker[Indra] #stage[narrating] This boy is dreaming of something his birth does not permit. A throne. A name that will be remembered. A life larger than the one his father lived.
-
-#action[The scene shifted again. The same boy, older now, sitting in a temple. A pundit speaking softly. The boy's eyes, once bright, now dull.]
-
-#speaker[Indra] And now he has learned. He has been taught that his wanting is bondage. That ambition is ego. That the wise man accepts his station.
-
-#action[The vision faded. Krishna looked away.]
-
-#speaker[Indra] That boy could have been Chandragupta. Instead, he will be a clerk. And he will call his defeat wisdom.
-
-When a girl imagines becoming a scholar, your system asks: "Why this discontent? The wise accept their lot. Ambition is a form of spiritual immaturity."
+#speaker[Indra] And it is not only boys. When a girl imagines becoming a scholar, your system asks: "Why this discontent? The wise accept their lot. Ambition is a form of spiritual immaturity."
 
 And she learns to call her hunger "ego" and her vision "attachment."
 

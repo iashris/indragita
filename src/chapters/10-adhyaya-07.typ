@@ -72,9 +72,9 @@ The risk is not a flaw. The risk is the point. When I love knowing that I can lo
 
 #speaker[Krishna] #stage[rising, with force] You would have people suffer? Attachment brings suffering. This is observable. The mother who loses her child is destroyed by her love.
 
-But let me ask you something, Shakra. What happens to love without wisdom? I have seen it. The lover who cannot let go becomes a stalker. The parent who loves fiercely raises a child who cannot breathe. The patriot whose love of nation becomes hatred of the other.
+But let me ask you something, Shakra. What happens to love without wisdom? I have seen it. The lover who cannot release becomes a jailer. The parent who loves fiercely raises a child who cannot breathe. The patriot whose love of nation curdles into hatred of the stranger.
 
-Love without detachment becomes possession. Possession becomes control. Control becomes destruction of the very thing you claim to love. I have watched men kill what they loved because they could not bear to see it free.
+Love without detachment becomes possession. Possession becomes control. Control becomes the destruction of the very thing you claim to love. I have watched men strangle what they loved because they could not bear to see it free. Every one of them called it devotion.
 
 My teaching was never "do not love." It was "love, but do not strangle." Hold with open hands. The bird that stays because you left the cage open loves you. The bird that stays because you clipped its wings is a prisoner.
 
@@ -182,13 +182,13 @@ What she felt was real. What she lost was real. And the teaching that told her o
 
 Cruelty with a philosophical excuse.
 
-#action[A long silence. The waves spoke their ancient language.]
+#action[Neither spoke. The wind moved through the palms above them, restless and low.]
 
 #speaker[Krishna] #stage[very quietly] I remember her face when I left. I have remembered it for a hundred years.
 
 #speaker[Indra] #stage[also quiet] I know. That is why I can speak to you at all. A man who had truly transcended would not remember.
 
-#action[They sat with that for a moment. Two old gods. Both carrying things.]
+#action[They sat with that for a moment. Two old gods, sitting with the weight of what they had both done.]
 
 #speaker[Indra] #stage[finally] Shall I speak of other things? Or do you need silence?
 

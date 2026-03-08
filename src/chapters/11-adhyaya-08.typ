@@ -49,7 +49,7 @@ Your teaching never fully took in him. When he killed Dushasana, he #emph[drank 
 
 #speaker[Krishna] Bhima's rage was a flaw. The blood-drinking was barbarism dressed as justice.
 
-#speaker[Indra] The blood-drinking was #emph[honest]. Bhima wanted Dushasana dead—because Dushasana had humiliated Draupadi, and Bhima loved her. He did not pretend cosmic justice required it.
+#speaker[Indra] The blood-drinking was #emph[honest]. Bhima wanted Dushasana dead because Dushasana had humiliated Draupadi, and Bhima loved her. He did not pretend cosmic justice required it.
 
 Which one truly won the war, Govinda? The one who fought as if it didn't matter? Or the one who fought as if it mattered utterly?
 
@@ -71,9 +71,13 @@ The score, the success or failure, disappeared. There was only the action.
 
 #speaker[Indra] #stage[slowly] Then your teaching, properly understood, is about the state where the archer becomes the arrow.
 
-#speaker[Krishna] Yes.
+#speaker[Krishna] Yes. And that state is available to anyone. The potter at his wheel, the musician at her veena, the warrior in battle. I did not teach numbness. I taught the dissolution of the gap between the doer and the deed.
 
-#speaker[Indra] But that is not what your followers heard. They heard "don't desire" and became numb. They confused the finger pointing at the moon for the moon itself.
+#speaker[Indra] And yet numbness is what took root. Across centuries, across the whole subcontinent. If the teaching were clear, why did a billion people hear the wrong thing?
+
+#speaker[Krishna] #stage[voice rising] Because men are lazy, Shakra. They want the shortcut. "Do not desire the fruit" is easier to perform than the discipline of total absorption. That is not my failure. That is theirs.
+
+#speaker[Indra] Then you gave a teaching that rewards laziness. You handed men a phrase that sounds like wisdom and requires nothing. "I am not attached to the outcome" costs nothing to say. Becoming the arrow costs everything.
 
 #speaker[Krishna] #stage[quietly] Perhaps I pointed badly.
 

@@ -27,9 +27,7 @@
 
 #speaker[Indra] I did not come to destroy you either. I came because I see what is coming, and I do not want it for your people.
 
-Your Bharata will meet other civilizations, peoples who did not grow up on your teaching. And those people will want things. They will want land, trade, conquest, dominance. They will not be calmed by talk of maya. They will not be defeated by equanimity.
-
-And your philosophers will be helpless. They will say "why do these mlecchas strive so hard? Do they not know it is all illusion?" And while they are saying this, the mlecchas will be winning.
+You know what I have said about the peoples who will come to your shores. You know I believe your philosophers will have no answer for them.
 
 I do not want this for your people.
 
@@ -37,7 +35,7 @@ I do not want this for your people.
 
 #speaker[Indra] Because I am Indra. Because I love those who call on me.
 
-#action[His voice softened. He was looking at something very far away, or very long ago.]
+#action[His voice softened. He was looking at something very far away. Or very long ago.]
 
 I still remember the yajna of your ancestors, Govinda. Before the philosophers came. Before the hierarchies calcified.
 
@@ -49,10 +47,12 @@ And they #emph[meant] it. There was no gap between word and desire. No sophistic
 
 I want that back. Not for my glory. I am old enough to be beyond that. But because I have seen what happens when a people stops asking. When they learn to want nothing. When they philosophize their desires away.
 
-#indent-para[
-They become wise. And then they become weak. And then they become enslaved. And then they become forgotten.
+#speaker[Krishna] #stage[cutting in] You said this before. Wise, then weak, then enslaved, then forgotten.
 
-I will not watch this happen while the soma is still wet on my lips.
+#speaker[Indra] Because it is still true.
+
+#indent-para[
+I will not watch it happen while the soma is still wet on my lips.
 ]
 
 #speaker[Krishna] #stage[standing, facing the sea] You want me to renounce my teaching?
@@ -81,9 +81,9 @@ I gave them a way to live WITH the fire without being destroyed by it. You call 
 
 #speaker[Indra] Without fire, survival is merely waiting to die.
 
-#action[The sound of the sea. A bird calls.]
+#action[The wind dropped. In the stillness, the forest seemed to lean closer.]
 
-#action[Somewhere in the forest behind them, a twig snapped. A small sound, but both of them heard it.]
+#action[A twig snapped somewhere among the trees. A small sound, but both of them heard it.]
 
 #speaker[Krishna] The hunter is coming.
 
@@ -135,7 +135,7 @@ That one is mine.
 
 #speaker[Indra] I want the ones who cannot rest. The ones for whom your peace feels like suffocation. The ones who read your teaching and think: "This is not for me. There must be another way."
 
-#action[Krishna looked at him for a long moment. Something passed between them, recognition, perhaps. Acknowledgment.]
+#action[Krishna looked at him for a long moment. Something passed between them. Recognition, perhaps. Acknowledgment.]
 
 #speaker[Krishna] I was one of them once.
 

@@ -19,7 +19,7 @@ Not in thunder. Not with the host of Maruts. He came as a man comes to another m
 
 #speaker[Indra] You taught the world to let go. And now you sit here, letting go. I want to know if it feels the way you promised it would.
 
-#speaker[Krishna] You've come to gloat, Shakra? The one who sent storms against cowherds because a child embarrassed him?
+#speaker[Krishna] #stage[not looking up] Careful, Shakra. The last god who came to test me lost his armies and his pride. You lost them to a child with a mountain on his finger. Surely you remember.
 
 #speaker[Indra] I came to ask a question. I'll only stay if you can bear to answer it honestly.
 
@@ -39,7 +39,7 @@ Not in thunder. Not with the host of Maruts. He came as a man comes to another m
 
 #speaker[Indra] Relief. Not victory. Not grief. Not even hatred fulfilled. Relief that it was over.
 
-#action[Krishna said nothing. The wind shifted, carrying the smell of salt and ash.]
+#action[Krishna's jaw tightened. The wind shifted, carrying the smell of salt and ash.]
 
 #speaker[Indra] That he could stop performing the thing you'd asked him to perform.
 
@@ -53,11 +53,11 @@ Not in thunder. Not with the host of Maruts. He came as a man comes to another m
 
 #speaker[Krishna] And the sin of killing?
 
-#speaker[Indra] Let him carry it! Let him feel its weight! A man who kills and feels nothing is not liberated. He is broken. You taught him to pre-forgive himself by pretending he wasn't really the one doing it. That Time was the killer. That the selves were already dead.
+#speaker[Indra] Let him carry it! Let him feel its weight! A man who kills and feels nothing is not liberated, he is broken. You taught him to pre-forgive himself by pretending he wasn't really the one doing it. That Time was the killer. That the selves were already dead.
 
 #speaker[Krishna] #stage[quieter] It was a mercy.
 
-#speaker[Indra] It was a trick. And tricks produce tricksters. I have watched your pundits, Keshava. They speak of detachment while scheming for temple gold. They quote your "action without fruit" while angling for the king's ear. The gap between word and deed has become so normal that no one notices it.
+#speaker[Indra] It was a trick. And tricks produce tricksters. I have watched your pundits, Keshava. They speak of detachment while scheming for temple gold. They quote your "action without fruit" while angling for the king's ear. The gap between word and deed has grown so familiar that no one notices it.
 
 #speaker[Krishna] You would judge my teaching by its worst students?
 
