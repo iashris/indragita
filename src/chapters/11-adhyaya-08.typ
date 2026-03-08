@@ -1,136 +1,172 @@
-// Adhyaya 8: On Joy and the Soma of Living
+// Adhyaya 6: On Excellence and the Fruit of Action
 #import "../template.typ": *
 
-#adhyaya(8, [On Joy and the Soma of Living])
+#adhyaya(8, [On Excellence and the Fruit of Action])
 
-#speaker[Indra] I have been harsh with you, Govinda.
+#speaker[Indra] One more teaching. The most practical. The one that will shape whether your Bharata rises or falls in the ages to come.
 
-#action[The anger in his voice had faded. He looked suddenly older, or perhaps simply tired of fighting.]
+You told Arjuna: "You have a right to action, but not to the fruits of action."#footnote[Bhagavad Gita 2.47: _Karmanye vadhikaraste ma phaleshu kadachana._]
 
-Let me now speak of something gentler.
+#speaker[Krishna] This is the heart of karma yoga.
 
-Joy.
+#speaker[Indra] This is the heart of mediocrity.
 
-#section-heading[On the Joy That Does Not Ask Permission]
+Listen to me carefully.
 
-#speaker[Indra] Before I speak of the Soma, let me tell you something I have seen.
+A man sets out to build a temple. Not any temple, Brihadeshwara. The great temple of Thanjavur.
 
-I have watched your people at their festivals. Before the priests arrive to bless. Before the Sanskrit mantras begin.
+If he follows your teaching, he says: "I will labor, but I will not be attached to whether the temple rises or not. My dharma is the action, not the outcome."
 
-The grandmother dancing at the wedding. The children throwing colors at Holi. The drummers at the village temple, playing until their hands bleed and their faces shine.
+Now tell me: will that man obsess over the mathematics of the vimana? Will he argue with the king who wants it smaller, cheaper, faster? Will he refuse to lay a single stone until the proportions are perfect?
 
-#emph[They] are drinking Soma without knowing its name. The joy that does not ask permission. The joy that does not check with the philosophers before letting itself be felt.
+#speaker[Krishna] If he is wise, he will do his duty without attachment to whether the temple rises or falls.
 
-And then your priests arrive. And suddenly there are rules. This dance is permitted, that one is vulgar. This celebration is sattvic, that one is tamasic. Joy becomes homework.
+#speaker[Indra] He will do his duty. The minimum. What dharma requires. Anything more would be #emph[attachment to outcome].
 
-#speaker[Krishna] There must be some discernment...
+But the architects of Brihadeshwara #emph[wanted] the dome to float. They wanted visitors to gasp. They wanted their names carved where the gods could read them. And because they wanted, the temple stands a thousand years later.
 
-#speaker[Indra] #stage[interrupting] Discernment came later. Joy came first. And joy should never have to justify itself to discernment.
+#speaker[Krishna] The Parthenon also stands.
 
-#section-heading[On the Soma]
+#speaker[Indra] Yes. The Greeks wanted glory too. But I am showing you: this is not foreign. Rajendra Chola wanted his temple to terrify his enemies and awe his descendants. That wanting was not ego. It was #emph[prana], the life force that builds.
 
-When I drink the soma,#footnote[Soma: A sacred ritual drink in Vedic tradition, offered to the gods and consumed by priests. Its exact botanical identity is debated, but it was central to Rigvedic worship.] I do not drink it dutifully. I do not drink it as a sacrifice, thinking: "This is required of me, but I am not attached to the pleasure." I drink it because it is good. Because the world becomes brighter and the edges become sharper and for a few hours I feel what it is to be fully awake.
+Excellence requires attachment. Excellence requires caring about the fruit. Excellence requires the willingness to be destroyed by failure. Not to stand above it, serene, but to let it gut you.
 
-Is this attachment? Yes. Is this bondage? I don't care.
+The man who #emph[wants] the temple to be magnificent? Who cares whether it stands for a thousand years? Who checks his measurements obsessively, not because it is his duty, but because the thought of a flaw #emph[pains] him?
 
-#speaker[Krishna] The wise man finds joy in the self alone, not in external...
+That man will build a temple that lasts.
 
-#speaker[Indra] The wise man finds joy wherever joy is found. In the self, yes. Also in the world. In a well-cooked meal. In the sound of rain. In the body of a lover. In the satisfaction of a problem solved. In the laughter of children.
+#section-heading[On Your Own Heroes]
 
-Your teaching produces people who are suspicious of joy. Who interrogate their own pleasures: "Am I attached? Is this spiritual? Should I feel guilty for feeling good?"
+#speaker[Indra] Look at your own warriors, Govinda.
 
-This is a particular kind of cruelty: making people ashamed of the one thing that makes existence bearable.
+Arjuna after your teaching: he fights, yes. He kills Bhishma, Drona, Karna. But you know how he fights. With the equanimity you taught him. "I am not the killer. Time is the killer. These men are already dead."
 
-#speaker[Krishna] I never taught shame. I taught discrimination, viveka, the ability to distinguish between higher pleasures that build and lower pleasures that destroy.
+Now look at Bhima.
 
-#speaker[Indra] And notice who decides which pleasures are "higher." The priests. The ones who live off donations. They have made a virtue of what they were doing anyway. And they have made a sin of what the people naturally enjoy.
+#action[Something shifted in Indra's voice. Admiration, perhaps.]
 
-#speaker[Krishna] Some pleasures build. Some pleasures destroy. The man who drinks Soma once a season is not the man who drinks every night until his family starves. Viveka is not about shame. It is about discernment. Without it, joy becomes slavery.
+Your teaching never fully took in him. When he killed Dushasana, he #emph[drank his blood]. He did not say "I am merely an instrument of dharma." He said: "I vowed I would do this, and I am #emph[glad]."
 
-#speaker[Indra] Fair. But your followers heard "discernment" and became judges. They ranked pleasures like caste: this is permitted, that is forbidden, this person is pure, that person is polluted. Discernment became a weapon for the joyless to police the joyful.
+#speaker[Krishna] Bhima's rage was a flaw. The blood-drinking was barbarism dressed as justice.
 
-Between higher and lower pleasures. Yes. And lo and behold, the higher pleasures are always the ones that require discipline and denial, and the lower pleasures are always the ones that feel good.
+#speaker[Indra] The blood-drinking was #emph[honest]. Bhima wanted Dushasana dead—because Dushasana had humiliated Draupadi, and Bhima loved her. He did not pretend cosmic justice required it.
 
-Do you see what this does? It creates a hierarchy where joy is always slightly suspect. Where the man who laughs too easily is less evolved than the man who maintains equanimity.
+Which one truly won the war, Govinda? The one who fought as if it didn't matter? Or the one who fought as if it mattered utterly?
 
-But laughter is sacred, Vasudeva. The gods laugh. #emph[I] laugh. Only the priests forgot how. The universe that could have been dead matter is instead capable of comedy. And you want people to transcend it?
+Your philosophy says Bhima's way was bondage. I say it was excellence. Because excellence requires caring enough to drink your enemy's blood.
 
-#section-heading[On the Soma of the Folk]
+#section-heading[On What You Actually Meant]
 
-#speaker[Indra] And here is the irony.
+#speaker[Krishna] #stage[standing, pacing] You misread me, Shakra. You misread the teaching.
 
-The villagers who drink together after the harvest. The dancers who enter trance in the firelight. The drummers who play until their hands bleed. They are drinking Soma without knowing its name.
+#speaker[Indra] Then clarify.
 
-Your philosophers call their rituals crude. But those villagers are closer to the Rigvedic spirit than any temple where joy is rationed.
+#speaker[Krishna] The teaching was never about numbness. It was about #emph[flow].
 
-When the Kola#footnote[Kola: A specific ritual within the Daiva tradition where the performer, through trance and blood offering, becomes the vessel for the deity to speak directly to devotees.] performer drinks the blood offering and becomes the god, when the possession takes him and he speaks with a voice not his own, your priests say "tamasic." I say: #emph[this is what the Vedas meant]. This raw encounter with the divine. This joy that does not ask permission.
+#action[Krishna's voice changed. For a moment, he was not the philosopher-god. He was remembering.]
 
-#section-heading[On Celebration]
+When I lifted Govardhana, I did not think about whether my arms would tire. I did not calculate whether I was attached to saving the cowherds. There was only the mountain, the rain, and the people underneath.
 
-#speaker[Indra] Your people will develop festivals. And I love them.
+The score, the success or failure, disappeared. There was only the action.
 
-Holi, when the colors fly and for one day no one cares about caste. When the Brahmin and the sweeper are both covered in the same powder, laughing, equal.
+#speaker[Indra] #stage[slowly] Then your teaching, properly understood, is about the state where the archer becomes the arrow.
 
-Diwali, when the crackers shake the night and the darkness is pushed back by pure human joy. Not because dharma requires it. Because the darkness should be defied.
+#speaker[Krishna] Yes.
 
-Jallikattu,#footnote[Jallikattu: Tamil bull-taming tradition where young men attempt to grab a running bull. The philosophers cringe; the folk persist.] when young men wrestle bulls and risk their bodies for glory. The philosophers cringe; the folk persist. Because some part of them knows that the men who won't wrestle bulls won't wrestle anything.
+#speaker[Indra] But that is not what your followers heard. They heard "don't desire" and became numb. They confused the finger pointing at the moon for the moon itself.
 
-These are not "for the masses." These ARE the masses saying: we will not let existence become homework.
+#speaker[Krishna] #stage[quietly] Perhaps I pointed badly.
 
-A festival is not a distraction from spiritual life. A festival #emph[is] spiritual life, the community saying: we are alive, and this is worth celebrating, and we will not let the philosophers turn joy into something to be transcended.
+#action[A beat of silence. Indra looked at him with something almost like compassion.]
 
-When Rumi's Sufis spin, they are not performing a duty. They are celebrating, wildly, absurdly, with an abandon that would horrify your sthitaprajna. And in that spinning, they find God more directly than all the serene meditators combined.
+#speaker[Indra] Perhaps. Or perhaps the teaching is too subtle for civilization. What works for a god lifting a mountain does not work for a clerk in a counting-house. He needs the cruder fuel.
 
-#section-heading[On the Hierarchy of Paths]
+When the architects of Ellora carved temples #emph[into] the mountain, not onto it...
 
-#speaker[Indra] I am not saying meditation is wrong. I am saying meditation is not the only door.
+When a young Shivaji looked at the forts of Maharashtra and thought "these should be mine"...
 
-The hierarchy was the mistake. Not meditation itself, but the claim that stillness is closer to God than motion. That silence is holier than song. That the meditator is more advanced than the dancer.
+The wanting was what put them at the starting line. The flow came during the action. But without the wanting, they would never have started.
 
-#speaker[Krishna] You want me to say that dancing is equal to meditation?
+And in ages to come, when a coder enters the hackathon, when a gamer faces the final boss, when an archer draws at the Olympics, it will be the same. The wanting brings them. The flow sustains them. Your teaching makes the wanting itself suspect.
 
-#speaker[Indra] I want you to say that dancing is not #emph[inferior] to meditation.
+#section-heading[On the Warrior Spirit]
 
-#speaker[Krishna] #stage[standing, pacing] Then hear me.
+#speaker[Krishna] #stage[attempting a counter] Your Greeks also fell. Your Romans fell. All empires of ambition and glory fall.
 
-#action[Krishna's voice changed. For a moment, he was not the philosopher-god. He was the boy who once danced on Kaliya's hood.]
+#speaker[Indra] Yes. And while they stood, they #emph[stood]. They made things that will be remembered when your Kali Yuga has ground all memory to dust.
 
-I have danced, Shakra. I have danced on the serpent's head in the Yamuna. I have danced with the gopis until the stars spun. I #emph[know] that door.
+#speaker[Krishna] #stage[leaning forward] The Parthenon still stands, but where are the Athenians? They burned bright and burned out. My teaching produces civilizations that endure. Is three centuries of glory worth three millennia of absence?
 
-#speaker[Indra] Then why did you close it?
+#speaker[Indra] #stage[meeting his gaze] Is three millennia of survival worth anything if, for most of it, you are merely persisting? Waiting? Enduring without creating?
 
-#speaker[Krishna] #stage[stopping, looking at him] Because not everyone can dance safely. Some fall through the floor. Some lose themselves in the spin and never return. The hierarchy was not contempt. It was... caution.
+Let me ask you: would you rather have a civilization that burns bright for three centuries and leaves behind philosophy, architecture, poetry, law, or one that persists in gray mediocrity for a thousand years, everyone performing their dharma, no one reaching too high, no one risking failure?
 
-#speaker[Indra] #stage[quietly] Caution became contempt. Whatever you intended.
+#speaker[Krishna] That is not the choice.
 
-#speaker[Krishna] #stage[after a long pause] Perhaps it did.
+#speaker[Indra] It is exactly the choice. And your teaching pushes toward the second.
 
-#action[He sat back down. The admission seemed to cost him something.]
+Not because you intend it. But because when you tell people that ambition is attachment, that desire for greatness is ego, that the wise man cares nothing for success or failure, you remove the fuel.
 
-#speaker[Indra] #stage[softer] I know. That is why I can still speak to you. A man who had fully hardened would not admit that.
+The fuel is not holy. But it is necessary.
 
-The man who meditates for forty years and achieves equanimity has found something. But so has the grandmother.
+#section-heading[On Righteous Anger]
 
-#action[Indra's voice softened. He was seeing something.]
+#speaker[Indra] And let me tell you something else about the fuel.
 
-I have watched her, Govinda. At a wedding in a village you have never heard of. She is old. Her body hurts. Her husband is dead. Her children are grown.
+Anger.
 
-And then the drums begin. And something happens to her face.
+You teach that anger is a vrtti, a fluctuation of the mind to be stilled. The wise man does not let anger move him. He acts from duty, not from passion.
 
-She starts to move. Not gracefully, her knees do not permit grace anymore. But she moves. And everyone stops watching the bride. Because for a moment, this old woman is the most alive person in the room.
+But some of the greatest things ever built were built in anger. Some of the worst injustices were corrected by men and women who #emph[refused] to let their anger pass like a cloud.
 
-She is not thinking about karma. She is not wondering if this is spiritually appropriate. She has #emph[forgotten] that she is going to die.
+The Jews have a concept, #emph[tikkun olam], repairing the world.#footnote[Hebrew: literally "repair of the world." A concept in Judaism about humanity's shared responsibility to heal and transform the world.] It requires looking at the world's brokenness and being #emph[angry] that it is broken. Not equanimous. Not serene. Angry enough to fix it.
 
-#action[Indra looked at Krishna.]
+Your sthitaprajna, watching injustice with equanimity, waiting for karma to sort it out, he is not enlightened. He is complicit. And the man who sees garbage in the street and says "It is not my karma to clean this", he is performing your teaching exactly as you taught it.
 
-That is touching the divine. And your hierarchy puts it below the man sitting still in a cave.
+#speaker[Krishna] Anger clouds judgment. History is full of atrocities committed in righteous fury.
 
-#speaker[Krishna] #stage[very quietly] It should not.
+#speaker[Indra] History is also full of injustices corrected by righteous fury. The question is not whether to feel anger but whether to aim it rightly.
 
-#speaker[Indra] No. It should not.
+A bow can kill an innocent child or slay a demon. You do not solve this by destroying the bow. You solve it by training the archer.
 
-#action[A long silence. The sea spoke its ancient language.]
+Your teaching destroys the bow.
 
-They are both touching the divine. Neither is higher. They are different.
+#section-heading[On Suffering for Purpose]
 
-And a teaching that cannot honor both is not complete.
+#speaker[Indra] One final thing on this matter.
+
+The ages to come will tell your children to avoid "toxic productivity." To prioritize "mental health" above all. To be kind to themselves, to rest, to find balance.
+
+And this is not wrong. For the many. For those who need rest, rest is medicine.
+
+But what of the builder who cannot sleep until the temple is perfect? What of the poet who starves to finish the verse? What of the scientist who forgets to eat because the problem has seized her mind?
+
+#action[Indra's voice softened. He was looking at something far away.]
+
+I see them, Govinda. The coder who stays until midnight because the bug offends her sense of order. The entrepreneur who risks everything because the vision will not let him rest. The artist who destroys canvas after canvas because "almost right" is unbearable.
+
+I see the student who reads until her eyes burn because she #emph[must] understand. She doesn't know why it matters so much. Her parents tell her to rest. Her friends say she's obsessed.
+
+But there is something in her that will not stop. The same thing that burned in me when I faced Vritra. The same thing that burned in Chandragupta when everyone said the Nandas were too strong.
+
+Your philosophy whispers to her: "This is attachment. This is ego. Find peace."
+
+#action[Indra turned to face Krishna directly.]
+
+And some of them listen. And their fire goes out. And the world loses what they might have built.
+
+I have seen this, Govinda. I have seen the unbuilt temples. The unwritten verses. The problems that remained unsolved because someone told a bright child that wanting too much was spiritually immature.
+
+#emph[That] is the cost of your teaching. Not the saints it creates. The geniuses it extinguishes.
+
+#indent-para[
+Sometimes, Govinda, greatness requires suffering. The Gita was never meant to be a manual for "stress management." It was meant to be a manual for pain management in the service of a higher goal.
+
+But when you made all desire suspect, you made all voluntary suffering suspect too. And a people who cannot suffer for a purpose will never build anything that requires sacrifice.
+]
+
+#speaker[Krishna] And a people who suffer without wisdom will destroy themselves.
+
+#speaker[Indra] Then teach them to suffer wisely. Not to avoid suffering. To choose suffering that matters.
+
+Don't seek peace, Govinda. Seek a purpose worth suffering for.

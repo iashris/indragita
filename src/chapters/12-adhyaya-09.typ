@@ -1,160 +1,130 @@
-// Adhyaya 9: On Power and the Responsibility of the Strong
+// Adhyaya 7: On Death, Beauty, and the Shape of a Life
 #import "../template.typ": *
 
-#adhyaya(9, [On Power and the Responsibility of the Strong])
+#adhyaya(9, [On Death, Beauty, and the Shape of a Life])
 
-#speaker[Indra] One final teaching. One I suspect you will resist.
+#speaker[Indra] We have spoken of life. Now let us speak of death.
 
-Let us speak of power.
+You taught Arjuna that death is nothing, a change of clothes, a passage, a return to the eternal. The warrior need not fear death because the self cannot die.
 
-You were a king, Keshava. An advisor to kings. You moved armies, made alliances, broke them when necessary. You understood power.
+#speaker[Krishna] This is true.
 
-But your teaching does not honor power. It treats power as a burden, a karmic obligation to be discharged without attachment. The ideal king in your philosophy is not one who revels in his capacity to shape the world, but one who rules dutifully, waiting for liberation.
+#speaker[Indra] And what kind of death does this teaching produce?
 
-#speaker[Krishna] Power corrupts. This is observable.
+I will tell you. It produces deaths that are accepted rather than met. Surrendered to rather than wrestled. Your people will go gently, too gently, into a darkness they have been trained to see as illusion.
 
-#speaker[Indra] Power corrupts when it is held shamefully. When the powerful man is taught that his power is spiritually suspect, that he should be embarrassed by his strength, his power goes underground. It becomes manipulation instead of command. Scheming instead of ruling.
+Let me speak first of Bhishma.
 
-A man who owns his power can be held accountable for it. A man who pretends he has no power, who says "I am merely an instrument of dharma," is far more dangerous.
+#section-heading[On the Beautiful Death]
 
-#speaker[Krishna] #stage[slowly] You speak of power as if I do not understand it.
+On his bed of arrows, choosing the moment of his death. #emph[Iccha-mrityu], they called it. Death by will.
 
-I have been a king, Shakra. I have watched men die on my orders. I have made alliances that required betraying people who trusted me. I have done what needed to be done.
+#speaker[Krishna] He was a great man.
 
-#action[He looked at his hands.]
+#speaker[Indra] He was a man who understood that death is not something that happens #emph[to] you. It is something you can #emph[do]. Your teaching makes death a release, a shedding, a passive passage. Bhishma made it a statement.
 
-Do you think I do not know what power costs?
+He could have died when the first arrow struck. Most men would. Instead, he lay there for days, the arrows holding him above the earth, teaching. Waiting for the sun's northern course. Composing his exit as a poet composes a final verse.
 
-#speaker[Indra] #stage[quieter] I think you know. And I think that knowledge made you teach others to fear power, so they would not have to carry what you carried.
+That is not acceptance. That is authorship. Bhishma composed his death as a warrior composes his final battle. He died wanting. He died teaching. He died #emph[on his terms].
 
-#action[A long silence. The wind shifted, carrying the smell of ash from Dvaraka.]
+Other peoples knew this too. The Greeks called it #emph[kalos thanatos], the beautiful death.#footnote[Greek: _kalos_ (beautiful) + _thanatos_ (death). The concept of dying nobly, with one's life's work complete.] A death that completes a life rather than merely ending it. Socrates drinking the hemlock while still teaching. The Spartans at Thermopylae.
 
-But the world does not become kinder because we fear power. It becomes a place where the ones who still want power, without your conscience, without your hesitation, take it all.
+But this is not foreign to Bharata. Bhishma knew it. Your tradition forgot it when the philosophers made equanimity the only virtue.
 
-#speaker[Krishna] #stage[very quietly] I know that too.
+#speaker[Krishna] And you think this is superior? Men clinging to glory even as they die?
 
-#section-heading[On Fire and Engine]
+#speaker[Indra] I think it is more honest.
 
-#speaker[Indra] Let me be clear about what I am asking for.
+When the Stoics faced death, those Romans who inherited Greek wisdom, they did not say "death is illusion." They said: "Death is real, and I will meet it as I have tried to live, with courage, with dignity, with my accounts in order."
 
-I am not asking you to unleash chaos. A fire without a hearth burns the house down.
+Marcus Aurelius, an emperor, wrote in his private journal: "Do not act as if you had ten thousand years to live. Death hangs over you. While you live, while it is in your power, be good."
 
-But a hearth without fire is just cold stone.
+#emph[While you live]. Because this is what matters. Not the eternal atman, unchanged by death. This life. This body. This brief window of consciousness in which you can make choices.
 
-#indent-para[
-Fire without Engine, raw vitality, pure hunger, burns itself out. This is the warlord who conquers and cannot rule, the artist who creates one masterpiece and destroys himself, the lover who loves so hard he cannot function.
+#speaker[Krishna] And when the window closes?
 
-Engine without Fire, pure structure, empty discipline, stagnates. This is your administrator-king who preserves what was built but cannot build. Your philosopher who explains the world but cannot change it. Your civilization that survives but does not live.
+#speaker[Indra] Then it closes. And the question becomes: what did you do with it?
 
-What I want is Fire inside the Engine. The hunger of the outsider combined with the discipline of the builder. The vitality of the barbarian wielded with the precision of the emperor.
-]
+#section-heading[On How I Will Die]
 
-#speaker[Krishna] And you think my teaching prevents this?
+#speaker[Indra] You will wait for Jara's arrow in equanimity. You will die as you taught, without attachment, without resistance, passing into whatever comes next with the serenity of one who knew it was all maya anyway.
 
-#speaker[Indra] I think your teaching makes men ashamed of the fire. And a man who is ashamed of his own hunger will never build an engine worthy of it.
+I will die differently, when my time comes.
 
-#section-heading[On the Vratya Emperor]
+#action[For a moment, something flickered behind Indra's eyes, a glimpse of a future even he could not fully see.]
 
-#speaker[Indra] Let me show you what Fire inside Engine looks like on your own soil.
-
-Chandragupta Maurya.
-
-#speaker[Krishna] You spoke of him before.
-
-#speaker[Indra] I will speak of him again, because he is the answer to your objection. You say power corrupts. You say hunger destroys. Look at Chandragupta.
+I do not know when. I do not know how. But I know #emph[how] I will face it.
 
 #indent-para[
-He was born in the mud. A Vratya, no caste, no claim, no place in your Vedic order. By your philosophy, he should have accepted his station. Worked out his karmic debt. Waited for a better birth.
+I will die wanting. I will die with unfinished projects and unfulfilled desires and things I still meant to do. And my dying will not be a release. It will be a tearing.
 
-Instead, he burned.
-
-He found Chanakya, a Brahmin who understood that philosophy without power is poetry. Together, they did what should have been impossible. They overthrew the Nandas. They pushed back Alexander's successors. They built an empire from sea to sea.
+I will rage, Govinda. Not against the dying of the light, that is inevitable, but against the notion that I should go quietly. That equanimity is the highest way to meet the void.
 ]
 
-#speaker[Krishna] And then?
+#action[His voice dropped, almost to a whisper.]
 
-#speaker[Indra] And then, and this is the part your philosophers never mention, he #emph[ruled] it. Not as a tyrant drunk on conquest. As a king who built roads, irrigated fields, standardized measures. The fire that conquered also #emph[organized].
+My last thought will not be "All is Brahman." It will be "I was here. I wanted. I fought. I made things. I loved things. And I am being torn from them."
 
-Fire inside Engine.
+#speaker[Krishna] #stage[quietly] That sounds like suffering.
 
-His grandson Ashoka will be remembered as the renouncer, the man who turned away from war. But Ashoka's renunciation was only possible because Chandragupta's hunger had built something worth renouncing.
+#speaker[Indra] It sounds like having lived.
 
-#speaker[Krishna] You are saying ambition can serve order?
+This is not inferior. This is the price of having engaged. And perhaps, perhaps, the universe respects the one who does not go quietly more than the one who accepts the darkness as a friend.
 
-#speaker[Indra] I am saying ambition #emph[creates] the order that later becomes worth preserving. The philosopher who inherits a kingdom did not build it. The philosopher who builds a kingdom from nothing, #emph[he] understands that power is not a burden. It is a responsibility.
+#section-heading[On Making Beautiful Things]
 
-And a man who is ashamed of his power will never wield it responsibly. He will hide it. Manipulate with it. Deny that he has it while using it constantly.
+#speaker[Indra] And while we live, Keshava, while we have bodies and time, there is the matter of beauty.
 
-The honest king says: "I am strong, and with strength comes the duty to protect the weak."
+Your philosophy dismisses aesthetics. Art is maya. Music is distraction. The beautiful temple is no different from the pile of rubble it will become. All is Brahman, so why does the form matter?
 
-The dishonest sage says: "Power is maya. I am merely an instrument." And then he manipulates anyway, but without accountability.
+But form matters. The shape of things matters.
 
-Which would you rather have ruling your Bharata?
+And your own ancestors knew this. The Vedic hymns are not just meaning. They are #emph[sound]. The meters matter. The cadences matter. The rishis who composed them were not just philosophers; they were artists.
 
-#section-heading[On Clean Roads and Two Kinds of Excellence]
+Beauty is not a distraction from truth. Beauty is truth rendered sensible. When you make something beautiful, you are participating in rta, the cosmic order, the pattern that holds existence together.
 
-#speaker[Indra] There are two kinds of cleanliness, Govinda.
+A man who dismisses beauty because "it's all illusion anyway" has missed something essential. He has failed to notice that illusion, if it is illusion, is suspiciously well-designed.
 
-The first is the priest's purity. Defensive. Fear-based. "Don't touch me, I might be polluted. Don't let the wrong person enter, they might contaminate the temple. Keep the low ones low, the high ones high, the order undisturbed."
+#section-heading[On the Beauty Your Priests Forgot]
 
-The second is the king's excellence. Offensive. Pride-based. "This is my domain and it will be perfect. Not because I fear pollution, but because I demand that what is mine reflects what I am."
+#speaker[Indra] And the strangest beauty I have seen, Govinda: not in your temples with their gold and their rules, but in the forest at midnight.
 
-#indent-para[
-The first kind of cleanliness produces caste. Untouchability. A culture where no one will clean the gutter because cleaning is polluting.
+#action[A vision opened. Drums. Torchlight. A figure in a demon mask, body slick with sweat, moving in ways no waking man should move.]
 
-The second kind of cleanliness produces empires. Cities that shine. Roads that last a thousand years.
+#speaker[Indra] #stage[narrating] The Daiva#footnote[Daiva: Spirit-worship traditions of coastal Karnataka and Kerala, where local deities possess human performers. Predates Brahmanical Hinduism and preserves older ecstatic practices.] dancer has entered the trance. The drums are matching his heartbeat, or his heartbeat is matching the drums, it is no longer clear. The god is descending.
 
-Your teaching, misapplied, produced the first. I want the second.
-]
+The villagers are not watching a performance. They are witnessing a possession. When the dancer speaks, it is not his voice. When he points at a man in the crowd and names his secret sin, it is not theatre.
 
-#speaker[Krishna] You want greatness. But greatness requires...
+#action[The vision sharpened. A woman kneeling before the possessed dancer, weeping. The dancer-god placing a hand on her head.]
 
-#speaker[Indra] Greatness requires men who want their domain to be perfect because it is #emph[theirs]. Not because dharma requires it. Not because karma will punish neglect. Because pride, the thing you call ego, cannot bear imperfection in what it has claimed.
+This is closer to what the Vedas meant than anything happening in your purified temples. This raw encounter with the divine. This joy that does not ask permission. This terror that is also ecstasy.
 
-#section-heading[On What Is Coming]
+#action[The vision faded. The beach returned.]
 
-#speaker[Indra] Let me tell you what I have seen.
+Your priests call this "tamasic." Low culture. Pollution. But when the god descends into a human body and speaks, #emph[that] is the Rigvedic spirit. The folk remembered what the philosophers forgot: that the sacred is not always pure. That the gods drink blood as well as milk. That ecstasy is as holy as equanimity.
 
-#action[Indra's eyes went distant. He did not share the vision, only described it.]
+#speaker[Krishna] #stage[slowly] I have seen such things. In Vrindavan, before I became... this.
 
-Men from the mountains and the desert will ride into your temples. They will not come to philosophize. They will come to take.
+#speaker[Indra] #stage[soft] I know. And then you grew up, went to Mathura, gave discourses on transcendence, and told them that growing up meant leaving that behind.
 
-And your Brahmins will stand in the doorways and say: "It is karma. It is the will of the cosmos. Perhaps we are paying debts from past lives."
+#speaker[Krishna] #stage[quietly] I gave them exactly what they could receive at that moment. The flute was the teaching they were ready for. The philosophy came later, for those who were ready. Should I have withheld both?
 
-And they will philosophize their defeat instead of fighting it. They will be so busy explaining WHY they lost that they will forget to win.
+#speaker[Indra] You should have stayed. Or you should have never danced. But to dance, and then to leave, and then to say "the dancing was the lower path"... that is cruelty with a philosophical excuse.
 
-#speaker[Krishna] #stage[quietly] You have seen this?
+The gopis did not want transcendence, Keshava. They wanted #emph[you]. The boy with the peacock feather. The one who danced.
 
-#speaker[Indra] I have seen it. Multiple waves. Multiple centuries. And each time, the same response: acceptance dressed as wisdom.
+#action[A long silence. The sea was very loud. Somewhere in the forest behind them, a peacock called, once, twice, and then was silent.]
 
-#action[His voice hardened.]
+#speaker[Krishna] #stage[very quietly] Perhaps I did not know how to give them both.
 
-But I have also seen the exceptions. The ones who said "No." Who fought, and sometimes lost, but fought.
+#speaker[Indra] #stage[after a pause] Perhaps none of us do. But we should try. The fire and the form. The ecstasy and the structure. The dance and the teaching that honors the dance.
 
-Chandragupta against the Greeks. The Rajputs who held the passes. And there will be others.
+Not one above the other. Both. Together.
 
-In ages to come, when your Bharata groans under foreign rule, a boy in Maharashtra will look at the forts and think: "These should be mine."
+#action[He looked at Krishna, really looked, not as adversary but as someone who might understand.]
 
-Shivaji. Another Vratya in spirit, if not in birth. He will take on an empire with guerrilla tactics, mountain forts, a navy built from nothing. And when he wins, he will not loot and leave. He will build a kingdom.
+That would be a teaching worth dying for.
 
-Fire inside Engine. The hunger of the outsider wielded with the precision of the emperor.
+#speaker[Krishna] #stage[meeting his gaze] Perhaps. Or perhaps worth #emph[living] for.
 
-Your philosophers will not know what to make of him. He does not fit the renunciate ideal. But your people will love him. Because they will recognize: this is what we could be, if we stopped being ashamed of power.
-
-#indent-para[
-#emph[Those] are my children, Govinda. The ones your philosophy could not quiet. The ones who wanted their land, their temples, their children's future, and were not ashamed to say so.
-]
-
-#action[The sea pulled at the shore. A bird cried somewhere in the distance.]
-
-#speaker[Indra] I have seen what happens to peoples who lose the will to power. They become wise. And then they become weak. And then they become enslaved. And then they become forgotten.
-
-Your teaching produces kings who go through the motions. Who rule because their birth requires it, not because they burn to build something. Who administer rather than create.
-
-And administration, Vasudeva, is not enough. Administration preserves. It does not transform.
-
-The ages to come will require transformation. Your Bharata will face peoples who want things, land, trade, dominance, and your philosopher-kings will be helpless against them. Because the peoples who want things will out-work, out-fight, and out-build the peoples who have been taught that wanting is attachment.
-
-This is not a prediction. This is a certainty.
-
-I have seen it.
+#speaker[Indra] #stage[almost smiling] Yes. That too.

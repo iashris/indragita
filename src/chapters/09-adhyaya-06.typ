@@ -1,172 +1,164 @@
-// Adhyaya 6: On Excellence and the Fruit of Action
+// Adhyaya 4: On Sincerity and the Culture of Hiding
 #import "../template.typ": *
 
-#adhyaya(6, [On Excellence and the Fruit of Action])
+#adhyaya(6, [On Sincerity and the Culture of Hiding])
 
-#speaker[Indra] One more teaching. The most practical. The one that will shape whether your Bharata rises or falls in the ages to come.
+#speaker[Indra] Let us speak now of what your teaching does to a society over time.
 
-You told Arjuna: "You have a right to action, but not to the fruits of action."#footnote[Bhagavad Gita 2.47: _Karmanye vadhikaraste ma phaleshu kadachana._]
+In the beginning, a few great souls understand you truly. They achieve genuine detachment, not by lying about their desires, but by genuinely transcending them. Janaka. Perhaps Vyasa. A handful.
 
-#speaker[Krishna] This is the heart of karma yoga.
+And I will say this: the few who understood you truly are magnificent. Janaka ruled a kingdom while holding perfect equanimity. Vyasa composed the epic while standing outside it. These are diamonds, Govinda. I honor them.
 
-#speaker[Indra] This is the heart of mediocrity.
+But notice something. Janaka was a king first, sage second. He built, ruled, conquered, and #emph[then] transcended. Vyasa was a creator first, renunciate second. He fathered dynasties, authored the longest poem in human history, and #emph[then] spoke of detachment.
 
-Listen to me carefully.
+They fit my mold, not your teaching's. They did not start with "wanting is bondage." They started with wanting, achieved, and then moved beyond. Your teaching tells the boy to skip the achieving.
 
-A man sets out to build a temple. Not any temple, Brihadeshwara. The great temple of Thanjavur.
+But the teaching spreads. And ordinary men hear: "Desire is bondage. Attachment is ignorance. The wise man acts without wanting the fruit."
 
-If he follows your teaching, he says: "I will labor, but I will not be attached to whether the temple rises or not. My dharma is the action, not the outcome."
+Now. What does an ordinary man do with this teaching?
 
-Now tell me: will that man obsess over the mathematics of the vimana? Will he argue with the king who wants it smaller, cheaper, faster? Will he refuse to lay a single stone until the proportions are perfect?
+#speaker[Krishna] He practices. He refines. Over lifetimes, he approaches the truth you speak of.
 
-#speaker[Krishna] If he is wise, he will do his duty without...
+#speaker[Indra] That is the ideal. Let me tell you what actually happens.
 
-#speaker[Indra] #stage[cutting him off] He will do his duty. The minimum. What dharma requires. Because anything more would be #emph[attachment to outcome].
+He still wants. He wants wealth, status, pleasure, victory, all the things men want. But now he has been told that wanting is low. It is spiritually inferior. The wanting itself becomes a source of shame.
 
-But the architects of Brihadeshwara #emph[wanted] the dome to float. They wanted visitors to gasp. They wanted their names carved where the gods could read them. And because they wanted, the temple stands a thousand years later.
+So he learns to hide his wanting. From others. From himself. He speaks the language of detachment while scheming underneath. He says "I am beyond outcomes" while angling for promotion. He says "All is Brahman" while cheating his neighbor.
 
-#speaker[Krishna] The Parthenon also stands.
+#action[A gust of wind came from the sea, carrying the smell of salt and smoke. Neither of them moved.]
 
-#speaker[Indra] Yes. The Greeks wanted glory too. But I am showing you: this is not foreign. Rajendra Chola wanted his temple to terrify his enemies and awe his descendants. That wanting was not ego. It was #emph[prana], the life force that builds.
+I have watched your businessmen, Govinda. They bargain like merchants, scheme like generals, count their coins late into the night, and then speak of "non-attachment" at the evening discourse. The gap between word and deed has become so normal that no one notices it. This is simply how things are.
 
-Excellence requires attachment. Excellence requires caring about the fruit. Excellence requires the willingness to be destroyed by failure. Not to stand above it, serene, but to let it gut you.
+#speaker[Krishna] This is misuse. Not the teaching itself.
 
-The man who #emph[wants] the temple to be magnificent? Who cares whether it stands for a thousand years? Who checks his measurements obsessively, not because it is his duty, but because the thought of a flaw #emph[pains] him?
+#speaker[Indra] When every student misuses a teaching in the same way, the teaching is at fault.
 
-That man will build a temple that lasts.
+A teaching that only works for the exceptional is not a teaching for civilization. It is a secret for the few. Janaka could hold a kingdom and equanimity because Janaka was Janaka. But you gave his words to clerks and told them they could be kings of the spirit while remaining clerks of the flesh. They cannot. And pretending otherwise produces hypocrisy, not liberation.
 
-#section-heading[On Your Own Heroes]
+#speaker[Krishna] #stage[with sudden force] Every teaching is misused, Shakra. Your Greeks taught virtue and produced tyrants. Your Romans taught duty and built slave markets. Should Aristotle apologize for Alexander's massacres? Should we blame a lamp for the shadows men cast?
 
-#speaker[Indra] Look at your own warriors, Govinda.
+#speaker[Indra] #stage[meeting his gaze] Aristotle taught men to pursue excellence, and some pursued it through conquest. That is a corruption of direction, not of spirit. But you taught men to distrust desire itself, and they learned to hide their desires, not refine them. That is not corruption. That is the teaching working exactly as designed.
 
-Arjuna after your teaching: he fights, yes. He kills Bhishma, Drona, Karna. But you know how he fights. With the equanimity you taught him. "I am not the killer. Time is the killer. These men are already dead."
+#section-heading[On Fearless Speech]
 
-Now look at Bhima.
+#speaker[Indra] Your own tradition once had fearless speech.
 
-#action[Something shifted in Indra's voice. Admiration, perhaps.]
+In the Sabha Parva, when Draupadi was dragged before the court, she asked a question. Not a philosophical question. A legal one: "Was I staked after Yudhishthira had already lost himself? If so, the bet was invalid."
 
-Your teaching never fully took in him. When he killed Dushasana, he #emph[drank his blood]. He did not say "I am merely an instrument of dharma." He said: "I vowed I would do this, and I am #emph[glad]."
+#action[Krishna's jaw tightened almost imperceptibly.]
 
-#speaker[Krishna] Bhima's rage was a flaw. The blood-drinking was...
+Every man in that court knew she was right. Bhishma knew. Drona knew. Vidura knew.
 
-#speaker[Indra] #stage[interrupting] The blood-drinking was #emph[honest]. Bhima wanted Dushasana dead. Not because cosmic justice required it. Because Dushasana had humiliated Draupadi, and Bhima loved her.
+And what did they do? They performed helplessness. They said "It is complex." They said "The Dharma is subtle." They found a thousand ways to avoid saying plainly: "This is wrong, and we are witnessing evil."
 
-Which one truly won the war, Govinda? The one who fought as if it didn't matter? Or the one who fought as if it mattered utterly?
+#speaker[Krishna] They were constrained by oaths, by hierarchy, by the complexity of the situation.
 
-Your philosophy says Bhima's way was bondage. I say it was excellence. Because excellence requires caring enough to drink your enemy's blood.
+#speaker[Indra] #stage[hard] They were constrained by nothing except their own fear of clarity. Draupadi had the fearless speech. The entire court of elders did not.
 
-#section-heading[On What You Actually Meant]
+And your teaching, Govinda, gives men permission to perform that helplessness. "Who can say what is truly right? All perspectives contain truth. The wise man does not take sides."
 
-#speaker[Krishna] #stage[standing, pacing] You misread me, Shakra. You misread the teaching.
+Draupadi took sides. She demanded justice. She was the most spiritually alive person in that court.
 
-#speaker[Indra] Then clarify.
+#speaker[Krishna] #stage[quietly] I was not there that day.
 
-#speaker[Krishna] The teaching was never about numbness. It was about #emph[flow].
+#speaker[Indra] No. You were not. And if you had been?
 
-#action[Krishna's voice changed. For a moment, he was not the philosopher-god. He was remembering.]
+#action[A long silence. The waves answered their own questions.]
 
-When I lifted Govardhana, I did not think about whether my arms would tire. I did not calculate whether I was attached to saving the cowherds. There was only the mountain, the rain, and the people underneath.
+#speaker[Indra] The Greeks have a word for what Draupadi did: #emph[parrhesia]. Fearless speech. The obligation to speak truth plainly, even to power.
 
-The score, the success or failure, disappeared. There was only the action.
+But I did not need to go to Greece to find it. Draupadi had it. Your people had it once.
 
-#speaker[Indra] #stage[slowly] Then your teaching, properly understood, is about the state where the archer becomes the arrow.
+In the lands your teaching shapes now, what happens? A man says "I have no opinion, I am merely a servant of dharma." Or "Who am I to say? All perspectives contain truth." Or "I will meditate on this," meaning: I will avoid the conflict.
 
-#speaker[Krishna] Yes.
+You have created a culture afraid of assertion. Afraid of clarity. Afraid of saying: I think this, I want this, I will fight for this.
 
-#speaker[Indra] But that is not what your followers heard. They heard "don't desire" and became numb. They confused the finger pointing at the moon for the moon itself.
+And you call it spiritual advancement.
 
-#speaker[Krishna] #stage[quietly] Perhaps I pointed badly.
+#speaker[Krishna] #stage[quietly] There is violence in assertion. War follows from want.
 
-#action[A beat of silence. Indra looked at him with something almost like compassion.]
+#speaker[Indra] War follows from life, Vasudeva. The question is not whether to fight. It is whether to fight cleanly, with your reasons spoken aloud, or to fight through manipulation while pretending you are above the fight.
 
-#speaker[Indra] Perhaps. Or perhaps the teaching is too subtle for civilization. What works for a god lifting a mountain does not work for a clerk in a counting-house. He needs the cruder fuel.
+Your Kauravas and Pandavas, did your teaching prevent their war? Or did it merely allow them to spiritualize their slaughter?
 
-When the architects of Ellora carved temples #emph[into] the mountain, not onto it...
+#section-heading[On the One Who Refused Dissolution]
 
-When a young Shivaji looked at the forts of Maharashtra and thought "these should be mine"...
+#speaker[Indra] And there is another poison in your philosophy. The dissolution of the individual.
 
-The wanting was what put them at the starting line. The flow came during the action. But without the wanting, they would never have started.
+You teach that the atman is the same in all beings. That the wise man sees no difference between a brahmin and a dog. That all distinctions are maya.
 
-And in ages to come, when a coder enters the hackathon, when a gamer faces the final boss, when an archer draws at the Olympics, it will be the same. The wanting brings them. The flow sustains them. Your teaching makes the wanting itself suspect.
+#speaker[Krishna] This is the highest truth.
 
-#section-heading[On the Warrior Spirit]
+#speaker[Indra] It is a truth that destroys individual excellence.
 
-#speaker[Krishna] #stage[attempting a counter] Your Greeks also fell. Your Romans fell. All empires of ambition and glory fall.
+And there is no better example of what you destroy than Karna.
 
-#speaker[Indra] Yes. And while they stood, they #emph[stood]. They made things that will be remembered when your Kali Yuga has ground all memory to dust.
+#action[Krishna's expression flickered. The name still carried weight.]
 
-#speaker[Krishna] #stage[leaning forward] The Parthenon still stands, but where are the Athenians? They burned bright and burned out. My teaching produces civilizations that endure. Is three centuries of glory worth three millennia of absence?
+You told Arjuna that the wise man sees no difference between a Brahmin and a dog. That all distinctions are maya. That the atman is the same in all beings.
 
-#speaker[Indra] #stage[meeting his gaze] Is three millennia of survival worth anything if, for most of it, you are merely persisting? Waiting? Enduring without creating?
+Karna refused this. He was told: "You are a sutaputra. Your atman is the same as everyone else's. Why struggle?"
 
-Let me ask you: would you rather have a civilization that burns bright for three centuries and leaves behind philosophy, architecture, poetry, law, or one that persists in gray mediocrity for a thousand years, everyone performing their dharma, no one reaching too high, no one risking failure?
+And he said: "My atman may be the same. But #emph[I] am Karna. And I will not be dissolved."
 
-#speaker[Krishna] That is not the choice.
+His individuality was not ego, Govinda. It was the refusal to let your philosophy erase him.
 
-#speaker[Indra] It is exactly the choice. And your teaching pushes toward the second.
+#speaker[Krishna] #stage[quietly] He could have been a Pandava. I offered him the truth of his birth, a kingdom, brotherhood.
 
-Not because you intend it. But because when you tell people that ambition is attachment, that desire for greatness is ego, that the wise man cares nothing for success or failure, you remove the fuel.
+#speaker[Indra] You offered him absorption into your order. A place in your structure. He would have been the sixth Pandava. He chose to remain Karna.
 
-The fuel is not holy. But it is necessary.
+#emph[That] is individuality. Not the ego you warn against. The irreducible core that says: I am not just Brahman wearing a costume. I am #emph[this]. And I will not dissolve.
 
-#section-heading[On Righteous Anger]
+If I am the same as everyone, why should I strive to be #emph[more] than I am? Why should I develop my particular gifts, cultivate my particular vision, leave my particular mark? It's all the same Brahman anyway.
 
-#speaker[Indra] And let me tell you something else about the fuel.
+A civilization of people who believe they are all the same Brahman is a civilization where no one feels the obligation to be #emph[exceptional]. Why bother? It's all illusion anyway.
 
-Anger.
+#speaker[Krishna] #stage[after a long pause] You mistake the teaching. The wise man sees unity but still acts with full engagement in his particular dharma.
 
-You teach that anger is a vrtti, a fluctuation of the mind to be stilled. The wise man does not let anger move him. He acts from duty, not from passion.
+#speaker[Indra] The wise man acts #emph[dutifully]. Without passion. Without the fire that makes a man do more than he must.
 
-But some of the greatest things ever built were built in anger. Some of the worst injustices were corrected by men and women who #emph[refused] to let their anger pass like a cloud.
+#section-heading[On the Folk Who Kept the Fire]
 
-The Jews have a concept, #emph[tikkun olam], repairing the world.#footnote[Hebrew: literally "repair of the world." A concept in Judaism about humanity's shared responsibility to heal and transform the world.] It requires looking at the world's brokenness and being #emph[angry] that it is broken. Not equanimous. Not serene. Angry enough to fix it.
+#speaker[Indra] And here is the strangest irony, Govinda.
 
-Your sthitaprajna, watching injustice with equanimity, waiting for karma to sort it out, he is not enlightened. He is complicit. And the man who sees garbage in the street and says "It is not my karma to clean this", he is performing your teaching exactly as you taught it.
+The people your philosophers call "low," the ones who dance with masks and blood and fire, have preserved more individual excellence than your "pure" Brahmins.
 
-#speaker[Krishna] Anger clouds judgment. History is full of...
+#action[Indra's eyes unfocused. He was seeing something far away, or perhaps very close.]
 
-#speaker[Indra] History is full of anger misused. Also history is full of anger well-used. The question is not whether to feel anger but whether to aim it rightly.
+I have watched your folk festivals. The ones your priests call "tamasic."
 
-A bow can kill an innocent child or slay a demon. You do not solve this by destroying the bow. You solve it by training the archer.
+A village in the south. Night. Drums so loud they shake the chest. A man wearing the mask of Bhuta, a local god your Sanskritic tradition never named. He is dancing. No, he is #emph[possessed]. The god is #emph[in] him.
 
-Your teaching destroys the bow.
+The villagers are not watching a performance. They are witnessing a god take flesh. The dancer's eyes roll back. His voice changes. He speaks prophecy. He names the sins of the village. He demands blood, chicken blood, not human, but still blood, and when it is poured, the whole village #emph[exhales].
 
-#section-heading[On Suffering for Purpose]
+#action[His gaze returned to the present.]
 
-#speaker[Indra] One final thing on this matter.
+Your priests call this superstition. I call it the Rigveda remembered.
 
-The ages to come will tell your children to avoid "toxic productivity." To prioritize "mental health" above all. To be kind to themselves, to rest, to find balance.
-
-And this is not wrong. For the many. For those who need rest, rest is medicine.
-
-But what of the builder who cannot sleep until the temple is perfect? What of the poet who starves to finish the verse? What of the scientist who forgets to eat because the problem has seized her mind?
-
-#action[Indra's voice softened. He was looking at something far away.]
-
-I see them, Govinda. The coder who stays until midnight because the bug offends her sense of order. The entrepreneur who risks everything because the vision will not let him rest. The artist who destroys canvas after canvas because "almost right" is unbearable.
-
-I see the student who reads until her eyes burn because she #emph[must] understand. She doesn't know why it matters so much. Her parents tell her to rest. Her friends say she's obsessed.
-
-But there is something in her that will not stop. The same thing that burned in me when I faced Vritra. The same thing that burned in Chandragupta when everyone said the Nandas were too strong.
-
-Your philosophy whispers to her: "This is attachment. This is ego. Find peace."
-
-#action[Indra turned to face Krishna directly.]
-
-And some of them listen. And their fire goes out. And the world loses what they might have built.
-
-I have seen this, Govinda. I have seen the unbuilt temples. The unwritten verses. The problems that remained unsolved because someone told a bright child that wanting too much was spiritually immature.
-
-#emph[That] is the cost of your teaching. Not the saints it creates. The geniuses it extinguishes.
+When I accepted offerings, I did not want the sacrifice to be serene. I wanted the priest to #emph[feel] something. The soma hit the fire and there was #emph[joy]. Not performed equanimity. Joy.
 
 #indent-para[
-Sometimes, Govinda, greatness requires suffering. The Gita was never meant to be a manual for "stress management." It was meant to be a manual for pain management in the service of a higher goal.
-
-But when you made all desire suspect, you made all voluntary suffering suspect too. And a people who cannot suffer for a purpose will never build anything that requires sacrifice.
+The potter who takes fierce pride in his pot. The drummer who becomes the rhythm. The dancer who puts on the demon mask and #emph[becomes] the god. They never heard your teaching about "all being Brahman." And so they still care. They still strive. They still create.
 ]
 
-#speaker[Krishna] And a people who suffer without wisdom will destroy themselves.
+You built hierarchies of purity. And the people you placed at the bottom, they kept the fire you were supposed to guard.
 
-#speaker[Indra] Then teach them to suffer wisely. Not to avoid suffering. To choose suffering that matters.
+#speaker[Krishna] #stage[long silence] You speak as if I made the hierarchy. The varnas existed before me, as a way of organizing human talent.
 
-Don't seek peace, Govinda. Seek a purpose worth suffering for.
+#speaker[Indra] You sanctified them. You gave them cosmic justification. "From my mouth came the Brahmin, from my arms the Kshatriya." You made a social arrangement into divine law.
+
+And then, this is what I cannot forgive, you told those at the bottom that their place was earned. That their suffering was just. That their children's children's children would suffer because of deeds no one remembers.
+
+#speaker[Krishna] It was meant to give meaning to suffering. Without the karmic frame, suffering is just random cruelty.
+
+#speaker[Indra] So you gave them a frame where suffering is #emph[deserved] cruelty. Is that better?
+
+#action[The sea pulled at the shore. Somewhere far away, a conch sounded, perhaps one of the last Yadavas, still alive, still calling to gods who would not answer.]
+
+I would rather have a civilization of ambitious individuals who believe their souls are unique and their accomplishments matter, who fight and fail and try again, than a civilization of wise men who know it's all maya and therefore give exactly as much effort as dharma requires and not one ounce more.
+
+The first might produce tyrants. The second produces clerks.
+
+#stage[meeting Krishna's eyes]
+
+I know which I would rather fight.

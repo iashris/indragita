@@ -1,164 +1,154 @@
-// Adhyaya 4: On Sincerity and the Culture of Hiding
+// Adhyaya 4: The Estranged Cousins
 #import "../template.typ": *
 
-#adhyaya(4, [On Sincerity and the Culture of Hiding])
+#adhyaya(4, [The Estranged Cousins])
 
-#speaker[Indra] Let us speak now of what your teaching does to a society over time.
+#speaker[Indra] I do not watch the Greeks because I love them more than your Bharata. I watch them because they are your cousins—children of the same fire, speakers of kindred tongues, worshippers of the same sky-father under different names.
 
-In the beginning, a few great souls understand you truly. They achieve genuine detachment, not by lying about their desires, but by genuinely transcending them. Janaka. Perhaps Vyasa. A handful.
+#speaker[Krishna] Cousins?
 
-And I will say this: the few who understood you truly are magnificent. Janaka ruled a kingdom while holding perfect equanimity. Vyasa composed the epic while standing outside it. These are diamonds, Govinda. I honor them.
-
-But notice something. Janaka was a king first, sage second. He built, ruled, conquered, and #emph[then] transcended. Vyasa was a creator first, renunciate second. He fathered dynasties, authored the longest poem in human history, and #emph[then] spoke of detachment.
-
-They fit my mold, not your teaching's. They did not start with "wanting is bondage." They started with wanting, achieved, and then moved beyond. Your teaching tells the boy to skip the achieving.
-
-But the teaching spreads. And ordinary men hear: "Desire is bondage. Attachment is ignorance. The wise man acts without wanting the fruit."
-
-Now. What does an ordinary man do with this teaching?
-
-#speaker[Krishna] He practices. He refines. Over lifetimes, he approaches...
-
-#speaker[Indra] #stage[cutting him off] No. I will tell you what he does.
-
-He still wants. He wants wealth, status, pleasure, victory, all the things men want. But now he has been told that wanting is low. It is spiritually inferior. The wanting itself becomes a source of shame.
-
-So he learns to hide his wanting. From others. From himself. He speaks the language of detachment while scheming underneath. He says "I am beyond outcomes" while angling for promotion. He says "All is Brahman" while cheating his neighbor.
-
-#action[A gust of wind came from the sea, carrying the smell of salt and smoke. Neither of them moved.]
-
-I have watched your businessmen, Govinda. They bargain like merchants, scheme like generals, count their coins late into the night, and then speak of "non-attachment" at the evening discourse. The gap between word and deed has become so normal that no one notices it. This is simply how things are.
-
-#speaker[Krishna] This is misuse. Not the teaching itself.
-
-#speaker[Indra] When every student misuses a teaching in the same way, the teaching is at fault.
-
-A teaching that only works for the exceptional is not a teaching for civilization. It is a secret for the few. Janaka could hold a kingdom and equanimity because Janaka was Janaka. But you gave his words to clerks and told them they could be kings of the spirit while remaining clerks of the flesh. They cannot. And pretending otherwise produces hypocrisy, not liberation.
-
-#speaker[Krishna] #stage[with sudden force] Every teaching is misused, Shakra. Your Greeks taught virtue and produced tyrants. Your Romans taught duty and built slave markets. Should Aristotle apologize for Alexander's massacres? Should we blame a lamp for the shadows men cast?
-
-#speaker[Indra] #stage[meeting his gaze] Aristotle taught men to pursue excellence, and some pursued it through conquest. That is a corruption of direction, not of spirit. But you taught men to distrust desire itself, and they learned to hide their desires, not refine them. That is not corruption. That is the teaching working exactly as designed.
-
-#section-heading[On Fearless Speech]
-
-#speaker[Indra] Your own tradition once had fearless speech.
-
-In the Sabha Parva, when Draupadi was dragged before the court, she asked a question. Not a philosophical question. A legal one: "Was I staked after Yudhishthira had already lost himself? If so, the bet was invalid."
-
-#action[Krishna's jaw tightened almost imperceptibly.]
-
-Every man in that court knew she was right. Bhishma knew. Drona knew. Vidura knew.
-
-And what did they do? They performed helplessness. They said "It is complex." They said "The Dharma is subtle." They found a thousand ways to avoid saying plainly: "This is wrong, and we are witnessing evil."
-
-#speaker[Krishna] They were constrained by...
-
-#speaker[Indra] #stage[hard] They were constrained by nothing except their own fear of clarity. Draupadi had the fearless speech. The entire court of elders did not.
-
-And your teaching, Govinda, gives men permission to perform that helplessness. "Who can say what is truly right? All perspectives contain truth. The wise man does not take sides."
-
-Draupadi took sides. She demanded justice. She was the most spiritually alive person in that court.
-
-#speaker[Krishna] #stage[quietly] I was not there that day.
-
-#speaker[Indra] No. You were not. And if you had been?
-
-#action[A long silence. The waves answered their own questions.]
-
-#speaker[Indra] The Greeks have a word for what Draupadi did: #emph[parrhesia]. Fearless speech. The obligation to speak truth plainly, even to power.
-
-But I did not need to go to Greece to find it. Draupadi had it. Your people had it once.
-
-In the lands your teaching shapes now, what happens? A man says "I have no opinion, I am merely a servant of dharma." Or "Who am I to say? All perspectives contain truth." Or "I will meditate on this," meaning: I will avoid the conflict.
-
-You have created a culture afraid of assertion. Afraid of clarity. Afraid of saying: I think this, I want this, I will fight for this.
-
-And you call it spiritual advancement.
-
-#speaker[Krishna] #stage[quietly] There is violence in assertion. War follows from want.
-
-#speaker[Indra] War follows from life, Vasudeva. The question is not whether to fight. It is whether to fight cleanly, with your reasons spoken aloud, or to fight through manipulation while pretending you are above the fight.
-
-Your Kauravas and Pandavas, did your teaching prevent their war? Or did it merely allow them to spiritualize their slaughter?
-
-#section-heading[On the One Who Refused Dissolution]
-
-#speaker[Indra] And there is another poison in your philosophy. The dissolution of the individual.
-
-You teach that the atman is the same in all beings. That the wise man sees no difference between a brahmin and a dog. That all distinctions are maya.
-
-#speaker[Krishna] This is the highest truth.
-
-#speaker[Indra] It is a truth that destroys individual excellence.
-
-And there is no better example of what you destroy than Karna.
-
-#action[Krishna's expression flickered. The name still carried weight.]
-
-You told Arjuna that the wise man sees no difference between a Brahmin and a dog. That all distinctions are maya. That the atman is the same in all beings.
-
-Karna refused this. He was told: "You are a sutaputra. Your atman is the same as everyone else's. Why struggle?"
-
-And he said: "My atman may be the same. But #emph[I] am Karna. And I will not be dissolved."
-
-His individuality was not ego, Govinda. It was the refusal to let your philosophy erase him.
-
-#speaker[Krishna] #stage[quietly] He could have been a Pandava. I offered him...
-
-#speaker[Indra] #stage[cutting him off] You offered him absorption into your order. A place in your structure. He would have been the sixth Pandava. He chose to remain Karna.
-
-#emph[That] is individuality. Not the ego you warn against. The irreducible core that says: I am not just Brahman wearing a costume. I am #emph[this]. And I will not dissolve.
-
-If I am the same as everyone, why should I strive to be #emph[more] than I am? Why should I develop my particular gifts, cultivate my particular vision, leave my particular mark? It's all the same Brahman anyway.
-
-A civilization of people who believe they are all the same Brahman is a civilization where no one feels the obligation to be #emph[exceptional]. Why bother? It's all illusion anyway.
-
-#speaker[Krishna] #stage[after a long pause] You mistake the teaching. The wise man sees unity but still acts...
-
-#speaker[Indra] The wise man acts #emph[dutifully]. Without passion. Without the fire that makes a man do more than he must.
-
-#section-heading[On the Folk Who Kept the Fire]
-
-#speaker[Indra] And here is the strangest irony, Govinda.
-
-The people your philosophers call "low," the ones who dance with masks and blood and fire, have preserved more individual excellence than your "pure" Brahmins.
-
-#action[Indra's eyes unfocused. He was seeing something far away, or perhaps very close.]
-
-I have watched your folk festivals. The ones your priests call "tamasic."
-
-A village in the south. Night. Drums so loud they shake the chest. A man wearing the mask of Bhuta, a local god your Sanskritic tradition never named. He is dancing. No, he is #emph[possessed]. The god is #emph[in] him.
-
-The villagers are not watching a performance. They are witnessing a god take flesh. The dancer's eyes roll back. His voice changes. He speaks prophecy. He names the sins of the village. He demands blood, chicken blood, not human, but still blood, and when it is poured, the whole village #emph[exhales].
-
-#action[His gaze returned to the present.]
-
-Your priests call this superstition. I call it the Rigveda remembered.
-
-When I accepted offerings, I did not want the sacrifice to be serene. I wanted the priest to #emph[feel] something. The soma hit the fire and there was #emph[joy]. Not performed equanimity. Joy.
+#speaker[Indra] Zeus. Dyaus. Jupiter. Dyaus-Pitar. Tyr. The names changed as the tribes scattered. The fire did not.
 
 #indent-para[
-The potter who takes fierce pride in his pot. The drummer who becomes the rhythm. The dancer who puts on the demon mask and #emph[becomes] the god. They never heard your teaching about "all being Brahman." And so they still care. They still strive. They still create.
+Your ancestors and theirs drank from the same well. They prayed to the same storm-god. They asked for the same things—victory, cattle, sons, glory.
+
+And then the paths diverged. They kept the heirloom. You threw it away.
 ]
 
-You built hierarchies of purity. And the people you placed at the bottom, they kept the fire you were supposed to guard.
+#speaker[Krishna] You speak as if they were superior.
 
-#speaker[Krishna] #stage[long silence] You speak as if I made the hierarchy. The varnas existed before...
+#speaker[Indra] I speak as if they #emph[remembered]. What your philosophers made shameful, they continued to celebrate. What your teachings called bondage, they called excellence.
 
-#speaker[Indra] You sanctified them. You gave them cosmic justification. "From my mouth came the Brahmin, from my arms the Kshatriya..." You made a social arrangement into divine law.
+#section-heading[On the Greeks]
 
-And then, this is what I cannot forgive, you told those at the bottom that their place was earned. That their suffering was just. That their children's children's children would suffer because of deeds no one remembers.
+#speaker[Indra] West of the Sindhu, past the mountains, there is a people who live along an inland sea. They are quarrelsome. They fight amongst themselves constantly.
 
-#speaker[Krishna] It was meant to give meaning to suffering. Without the karmic frame, suffering is just random cruelty.
+And yet they have produced more clear thinking in three generations than your rishis produced in thirty.
 
-#speaker[Indra] So you gave them a frame where suffering is #emph[deserved] cruelty. Is that better?
+#speaker[Krishna] Bold claim.
 
-#action[The sea pulled at the shore. Somewhere far away, a conch sounded, perhaps one of the last Yadavas, still alive, still calling to gods who would not answer.]
+#speaker[Indra] There was a man among them called Aristotle. He asked: what is the purpose of a human life? Not how to escape it. Not how to transcend it. What is it #emph[for]?
 
-I would rather have a civilization of ambitious individuals who believe their souls are unique and their accomplishments matter, who fight and fail and try again, than a civilization of wise men who know it's all maya and therefore give exactly as much effort as dharma requires and not one ounce more.
+His answer: Eudaimonia. Flourishing. A life is good when it fulfills its function excellently. A man is good when he lives well: with courage, with justice, with practical wisdom, with proper pride.
 
-The first might produce tyrants. The second produces clerks.
+Notice what is missing from his teaching, Keshava.
 
-#stage[meeting Krishna's eyes]
+#speaker[Krishna] Detachment.
 
-I know which I would rather fight.
+#speaker[Indra] Detachment. Liberation. Escape. He did not teach men to flee from the game. He taught them to win it. His student conquered the world from Macedon to your own Sindhu river. Twenty-five years old, weeping because there were no more lands to take.
+
+#section-heading[Krishna's Counter-Attack]
+
+#speaker[Krishna] #stage[leaning forward, steel in his voice] Your cousins who kept the fire—shall I show you what they built with it?
+
+They built ships that carried millions of Africans in chains. They built empires that carved up continents like meat. They built weapons that can kill everything that lives.
+
+#action[His voice grew harder.]
+
+They built gas chambers, Shakra. Factories of death that consumed millions in efficient silence. Industrial-scale extermination of those they deemed lesser.
+
+Is #emph[that] the fire you want for my children? Is #emph[that] what your excellence produces?
+
+#action[Indra was silent for a long moment. The accusation hung in the salt air.]
+
+#speaker[Indra] #stage[slowly] Yes. The fire built those things too.
+
+Fire burns. It can warm the hearth or burn the village. The same force that built the Parthenon built the slave ships. The same force that wrote the Principia wrote the justifications for empire.
+
+I do not pretend the fire is good. I say it is #emph[necessary].
+
+#speaker[Krishna] Necessary for what? For more efficient murder?
+
+#speaker[Indra] Necessary for #emph[anything]. A people without fire cannot stop the people with fire. Only a greater fire can.
+
+Your teaching sought to extinguish the fire within. But the fire without kept coming. And your children—armed with equanimity—were defenseless against those armed with want.
+
+#speaker[Krishna] So your answer to the gas chambers is... more fire?
+
+#speaker[Indra] My answer to the gas chambers is: the ones who stopped them also had fire. The fire that said "this is evil and I will fight it." Not equanimity. Not acceptance. Not "all is Brahman, who is the killer, who is the killed."
+
+#emph[Righteous anger]. The fire aimed at darkness.
+
+#action[A pause. The sea spoke its ancient language.]
+
+#speaker[Indra] Fire is not good or evil. Fire is capacity. The question is not whether to have it—the question is how to aim it.
+
+Your teaching aimed to extinguish the capacity itself. And in doing so, you left your children unable to warm themselves #emph[or] to fight.
+
+#section-heading[On the Persians]
+
+#speaker[Indra] Further west still, older than the Greeks, there rose a people of fire-keepers. They worship one Lord, Ahura Mazda. And against him stands Angra Mainyu, the destructive spirit.
+
+#speaker[Krishna] Dualism. We have outgrown such things. The enlightened see that good and evil are two faces of the same reality.
+
+#speaker[Indra] The same Brahman? Illusions to transcend?
+
+This is precisely your error. The Persians understood something you refuse to accept: #emph[there are sides, and you must choose one].
+
+#indent-para[
+Not because you are ignorant. Not because you are "attached." Because #emph[choosing is what it means to be real].
+
+Their wise men teach that every soul is a soldier in a cosmic war. That your actions matter—not in some karmic accounting book, but because right now, in this moment, you are either feeding the light or feeding the darkness.
+]
+
+#speaker[Krishna] And who decides which is which?
+
+#speaker[Indra] Truth, Vasudeva. Order. Creation. The man who builds a well knows he has done good. The man who poisons it knows he has done evil. The confusion is performed. It is not real.
+
+#section-heading[On Those Who Remembered]
+
+#speaker[Indra] And here is the strangest thing I have seen.
+
+Far in the future, the descendants of the Greeks will fall into a dark age. Their learning will be lost. Their temples will crumble. For a thousand years, they will forget what their ancestors knew.
+
+And then—they will remember.
+
+They will call it Renaissance. Rebirth. They will look back at their ancients and say: we can be great again. They will dig up old statues and weep at the beauty. They will read old books and think: we have forgotten how to want things this clearly.
+
+#speaker[Krishna] And what will they build?
+
+#speaker[Indra] Everything. Art, science, exploration, law. In three centuries, they will transform their world.
+
+#indent-para[
+A sculptor named Michelangelo will carve a man from marble. He will work for years, obsessed, sleeping beside the stone. When asked why, he will say: "I saw the angel in the marble and carved until I set him free."
+
+That is not detachment, Keshava. That is love so fierce it reshapes matter itself.
+]
+
+But here is what I want you to see, Govinda: #emph[they did it by remembering]. They did not invent a new philosophy. They recovered an old one—the philosophy of excellence, of wanting, of building without apology.
+
+#section-heading[The Permission to Remember]
+
+#speaker[Indra] The Renaissance is not a Western story. It is a #emph[human] story—what happens when a people decides to stop being ashamed of wanting to be great.
+
+Your Bharata also has something to remember. The Rigvedic spirit. The fire that burned before your philosophers poured water on it.
+
+#speaker[Krishna] You ask me to give my children permission to want.
+
+#speaker[Indra] I ask you to stop teaching them that wanting is sin.
+
+#indent-para[
+I am not asking your children to become Greeks. I am asking them to become what their ancestors were before your philosophy made wanting shameful.
+
+The fire is not lost. It is only sleeping.
+
+Give your children permission to remember.
+]
+
+#speaker[Krishna] #stage[after a long silence] And if they remember wrong? If they take the fire and use it as your cousins did—for chains, for conquest, for chambers of death?
+
+#speaker[Indra] Then they will have to live with that. As the Greeks live with it. As the Romans. As every people who chose fire over ash.
+
+But at least they will have #emph[lived]. At least they will have built something. At least they will not have spent millennia explaining why building is attachment and wanting is bondage.
+
+#speaker[Krishna] #stage[quietly] You make it sound simple.
+
+#speaker[Indra] It is not simple. Fire never is.
+
+But the alternative—the ash you have been teaching—that is not peace, Govinda. That is death pretending to be wisdom.
+
+#action[The sound of footsteps in the forest. Closer now. Neither of them turned.]
+
+#speaker[Indra] I have not finished. Let me tell you what happens to peoples who choose survival over vitality. Let me tell you about the price of ash.
+
+#speaker[Krishna] #stage[sitting back down] Speak, then. The arrow is not yet here.

@@ -1,196 +1,136 @@
-// Adhyaya 10: The Question
+// Adhyaya 8: On Joy and the Soma of Living
 #import "../template.typ": *
 
-#adhyaya(10, [The Question])
+#adhyaya(10, [On Joy and the Soma of Living])
 
-#action[A long silence. The sun had moved across the sky without either of them noticing. The sea had changed from copper to grey to something almost purple. The smoke from Dvaraka was no longer visible, either the wind had shifted, or there was nothing left to burn.]
+#speaker[Indra] I have been harsh with you, Govinda.
 
-#action[They had been talking for hours. Or perhaps it had only been minutes. Time moves strangely at the end of yugas.]
+#action[The anger in his voice had faded. He looked suddenly older, or perhaps simply tired of fighting.]
 
-#speaker[Krishna] #stage[finally] You have spoken well, Sahasraksha.#footnote[Sahasraksha: "Thousand-eyed one," an epithet of Indra.] Better than I expected from one who sends storms against cowherds.
+Let me now speak of something gentler.
 
-#speaker[Indra] #stage[almost gently] You embarrassed me that day. In front of the three worlds. A child lifting a mountain against the king of heaven.
+Joy.
 
-#speaker[Krishna] #stage[a ghost of a smile] I remember. You sent everything you had.
+#section-heading[On the Joy That Does Not Ask Permission]
 
-#speaker[Indra] Seven days of storm. The best I could do. And you stood there, one finger, that smile on your face. Do you know how many ages I have been trying to forget that smile?
+#speaker[Indra] Before I speak of the Soma, let me tell you something I have seen.
 
-#speaker[Krishna] #stage[the smile returning, faintly] You never will.
+I have watched your people at their festivals. Before the priests arrive to bless. Before the Sanskrit mantras begin.
 
-#speaker[Indra] #stage[shaking his head] No. I never will.
+The grandmother dancing at the wedding. The children throwing colors at Holi. The drummers at the village temple, playing until their hands bleed and their faces shine.
 
-#action[For a moment, they were not philosopher and challenger. They were two old beings who had known each other for eons, who had fought and tested and survived each other.]
+#emph[They] are drinking Soma without knowing its name. The joy that does not ask permission. The joy that does not check with the philosophers before letting itself be felt.
 
-#speaker[Indra] And yet you're here teaching me. Not destroying me.
+And then your priests arrive. And suddenly there are rules. This dance is permitted, that one is vulgar. This celebration is sattvic, that one is tamasic. Joy becomes homework.
 
-#speaker[Krishna] If I had come to destroy you, I would have come differently.
+#speaker[Krishna] There must be some discernment. Otherwise pleasure becomes poison.
 
-#speaker[Indra] I did not come to destroy you either. I came because I see what is coming, and I do not want it for your people.
+#speaker[Indra] Discernment came later. Joy came first. Joy should never have to justify itself to discernment.
 
-Your Bharata will meet other civilizations, peoples who did not grow up on your teaching. And those people will want things. They will want land, trade, conquest, dominance. They will not be calmed by talk of maya. They will not be defeated by equanimity.
+#section-heading[On the Soma]
 
-And your philosophers will be helpless. They will say "why do these mlecchas strive so hard? Do they not know it is all illusion?" And while they are saying this, the mlecchas will be winning.
+When I drink the soma,#footnote[Soma: A sacred ritual drink in Vedic tradition, offered to the gods and consumed by priests. Its exact botanical identity is debated, but it was central to Rigvedic worship.] I do not drink it dutifully. I do not drink it as a sacrifice, thinking: "This is required of me, but I am not attached to the pleasure." I drink it because it is good. Because the world becomes brighter and the edges become sharper and for a few hours I feel what it is to be fully awake.
 
-I do not want this for your people.
+Is this attachment? Yes. Is this bondage? I don't care.
 
-#speaker[Krishna] Why do you care?
+#speaker[Krishna] The wise man finds joy in the self alone, not in external objects that fade.
 
-#speaker[Indra] Because I am Indra. Because I love those who call on me.
+#speaker[Indra] The wise man finds joy wherever joy is found. In the self, yes. Also in the world. In a well-cooked meal. In the sound of rain. In the body of a lover. In the satisfaction of a problem solved. In the laughter of children.
 
-#action[His voice softened. He was looking at something very far away, or very long ago.]
+Your teaching produces people who are suspicious of joy. Who interrogate their own pleasures: "Am I attached? Is this spiritual? Should I feel guilty for feeling good?"
 
-I still remember the yajna of your ancestors, Govinda. Before the philosophers came. Before the hierarchies calcified.
+This is a particular kind of cruelty: making people ashamed of the one thing that makes existence bearable.
 
-They sang to me without irony. They poured the soma without asking if it was spiritually appropriate. They asked for victory, not in some metaphorical sense, but actual victory, over actual enemies. They asked for cattle and sons and rain.
+#speaker[Krishna] I never taught shame. I taught discrimination, viveka, the ability to distinguish between higher pleasures that build and lower pleasures that destroy.
 
-And they #emph[meant] it. There was no gap between word and desire. No sophistication. Just a people asking their god for help, and a god answering.
+#speaker[Indra] And notice who decides which pleasures are "higher." The priests. The ones who live off donations. They have made a virtue of what they were doing anyway. And they have made a sin of what the people naturally enjoy.
 
-#action[He looked at Krishna.]
+#speaker[Krishna] Some pleasures build. Some pleasures destroy. The man who drinks Soma once a season is not the man who drinks every night until his family starves. Viveka is not about shame. It is about discernment. Without it, joy becomes slavery.
 
-I want that back. Not for my glory. I am old enough to be beyond that. But because I have seen what happens when a people stops asking. When they learn to want nothing. When they philosophize their desires away.
+#speaker[Indra] Fair. But your followers heard "discernment" and became judges. They ranked pleasures like caste: this is permitted, that is forbidden, this person is pure, that person is polluted. Discernment became a weapon for the joyless to police the joyful.
 
-#indent-para[
-They become wise. And then they become weak. And then they become enslaved. And then they become forgotten.
+Between higher and lower pleasures. Yes. And lo and behold, the higher pleasures are always the ones that require discipline and denial, and the lower pleasures are always the ones that feel good.
 
-I will not watch this happen while the soma is still wet on my lips.
-]
+Do you see what this does? It creates a hierarchy where joy is always slightly suspect. Where the man who laughs too easily is less evolved than the man who maintains equanimity.
 
-#speaker[Krishna] #stage[standing, facing the sea] You want me to renounce my teaching?
+But laughter is sacred, Vasudeva. The gods laugh. #emph[I] laugh. Only the priests forgot how. The universe that could have been dead matter is instead capable of comedy. And you want people to transcend it?
 
-#speaker[Indra] I want you to #emph[complicate] it. To say: detachment is one path, for some temperaments, at some stages of life. But it is not THE path. It is not higher. It is not the goal.
+#section-heading[On the Soma of the Folk]
 
-The householder who loves his wife fiercely is not lower than the sannyasin who has transcended love.
+#speaker[Indra] And here is the irony.
 
-The king who wants his kingdom to prosper is not less evolved than the sage who sees all outcomes as equal.
+The villagers who drink together after the harvest. The dancers who enter trance in the firelight. The drummers who play until their hands bleed. They are drinking Soma without knowing its name.
 
-The warrior who hates his enemy and wants to destroy him is not spiritually inferior to the one who kills without hatred.
+Your philosophers call their rituals crude. But those villagers are closer to the Rigvedic spirit than any temple where joy is rationed.
 
-These are different ways of being human. And you have ranked them. You have put the detached above the attached, the cool above the passionate, the transcendent above the engaged.
+When the Kola#footnote[Kola: A specific ritual within the Daiva tradition where the performer, through trance and blood offering, becomes the vessel for the deity to speak directly to devotees.] performer drinks the blood offering and becomes the god, when the possession takes him and he speaks with a voice not his own, your priests say "tamasic." I say: #emph[this is what the Vedas meant]. This raw encounter with the divine. This joy that does not ask permission.
 
-I am asking you to remove the ranking.
+#section-heading[On Celebration]
 
-#speaker[Krishna] #stage[turning to face him] And if I tell you that you are blind to what I gave?
+#speaker[Indra] Your people will develop festivals. And I love them.
 
-The fire you love, it burns, Shakra. It consumed Vritra, yes. It also consumed half your devotees. Do you remember them? The warriors who followed your path and died screaming, wanting, unfulfilled? The kings who built empires and watched them crumble? The lovers who loved with your intensity and were destroyed by it?
+Holi, when the colors fly and for one day no one cares about caste. When the Brahmin and the sweeper are both covered in the same powder, laughing, equal.
 
-I gave them a way to live WITH the fire without being destroyed by it. You call it castration. I call it survival. You call it gray. I call it kindness.
+Diwali, when the crackers shake the night and the darkness is pushed back by pure human joy. Not because dharma requires it. Because the darkness should be defied.
 
-#speaker[Indra] #stage[quietly] You gave them survival. I do not dispute that. But survival is not the same as life.
+Jallikattu,#footnote[Jallikattu: Tamil bull-taming tradition where young men attempt to grab a running bull. The philosophers cringe; the folk persist.] when young men wrestle bulls and risk their bodies for glory. The philosophers cringe; the folk persist. Because some part of them knows that the men who won't wrestle bulls won't wrestle anything.
 
-#speaker[Krishna] Without survival, there is no life.
+These are not "for the masses." These ARE the masses saying: we will not let existence become homework.
 
-#speaker[Indra] Without fire, survival is merely waiting to die.
+A festival is not a distraction from spiritual life. A festival #emph[is] spiritual life, the community saying: we are alive, and this is worth celebrating, and we will not let the philosophers turn joy into something to be transcended.
 
-#action[The sound of the sea. A bird calls.]
+When Rumi's Sufis spin, they are not performing a duty. They are celebrating, wildly, absurdly, with an abandon that would horrify your sthitaprajna. And in that spinning, they find God more directly than all the serene meditators combined.
 
-#action[Somewhere in the forest behind them, a twig snapped. A small sound, but both of them heard it.]
+#section-heading[On the Hierarchy of Paths]
 
-#speaker[Krishna] The hunter is coming.
+#speaker[Indra] I am not saying meditation is wrong. I am saying meditation is not the only door.
 
-#speaker[Indra] I know.
+The hierarchy was the mistake. Not meditation itself, but the claim that stillness is closer to God than motion. That silence is holier than song. That the meditator is more advanced than the dancer.
 
-#action[Another small sound. Closer. The hunter did not know what he was approaching. He thought he was tracking deer.]
+#speaker[Krishna] You want me to say that dancing is equal to meditation?
 
-#speaker[Krishna] I could avoid him. Even now.
+#speaker[Indra] I want you to say that dancing is not #emph[inferior] to meditation.
 
-#speaker[Indra] But you won't.
+#speaker[Krishna] #stage[standing, pacing] Then hear me.
 
-#speaker[Krishna] No. I have seen this death. It is mine.
+#action[Krishna's voice changed. For a moment, he was not the philosopher-god. He was the boy who once danced on Kaliya's hood.]
 
-#speaker[Indra] #stage[standing] Then let me ask you one last thing.
+I have danced, Shakra. I have danced on the serpent's head in the Yamuna. I have danced with the gopis until the stars spun. I #emph[know] that door.
 
-Are you going toward that arrow because it is your karma, your destined exit, the fruit you must not resist?
+#speaker[Indra] Then why did you close it?
 
-Or are you going toward it because you #emph[choose] death now, here, at the end of your era, as a statement, as the closing act of a life you authored?
+#speaker[Krishna] #stage[stopping, looking at him] Because not everyone can dance safely. Some fall through the floor. Some lose themselves in the spin and never return. The hierarchy was not contempt. It was... caution.
 
-#speaker[Krishna] #stage[long pause] I go to the arrow because the play must end. I am the playwright, Shakra. I must exit the stage so the audience can go home.
+#speaker[Indra] #stage[quietly] Caution became contempt. Whatever you intended.
 
-#speaker[Indra] #stage[very quietly] And if some refuse to leave the theater? If they stay in their seats, wanting more, unable to accept that the story is over?
+#speaker[Krishna] #stage[after a long pause] Perhaps it did.
 
-#speaker[Krishna] #stage[looking at him] Those are yours, aren't they?
+#action[He sat back down. The admission seemed to cost him something.]
 
-#speaker[Indra] #stage[nodding slowly] They always were.
+#speaker[Indra] #stage[softer] I know. That is why I can still speak to you. A man who had fully hardened would not admit that.
 
-#section-heading[The Final Deal]
+The man who meditates for forty years and achieves equanimity has found something. But so has the grandmother.
 
-#speaker[Indra] Then let us make a bargain, you and I.
+#action[Indra's voice softened. He was seeing something.]
 
-Keep your Gita, Govinda. Feed it to the masses. Let them find comfort in their chains. Let them survive, since that is what they need. I do not begrudge them.
+I have watched her, Govinda. At a wedding in a village you have never heard of. She is old. Her body hurts. Her husband is dead. Her children are grown.
 
-But give me the mutants.
+And then the drums begin. And something happens to her face.
 
-When a soul is born that cannot be contained by your Dharma...
+She starts to move. Not gracefully, her knees do not permit grace anymore. But she moves. And everyone stops watching the bride. Because for a moment, this old woman is the most alive person in the room.
 
-When a fire burns that your water cannot quench...
+She is not thinking about karma. She is not wondering if this is spiritually appropriate. She has #emph[forgotten] that she is going to die.
 
-When a boy looks at the stars and feels the hunger...
+#action[Indra looked at Krishna.]
 
-When a girl reads your scripture and feels only the cage...
+That is touching the divine. And your hierarchy puts it below the man sitting still in a cave.
 
-#indent-para[
-That one is mine.
-]
+#speaker[Krishna] #stage[very quietly] It should not.
 
-#speaker[Krishna] #stage[a long silence] You want the restless ones.
+#speaker[Indra] No. It should not.
 
-#speaker[Indra] I want the ones who cannot rest. The ones for whom your peace feels like suffocation. The ones who read your teaching and think: "This is not for me. There must be another way."
+#action[A long silence. The sea spoke its ancient language.]
 
-#action[Krishna looked at him for a long moment. Something passed between them, recognition, perhaps. Acknowledgment.]
+They are both touching the divine. Neither is higher. They are different.
 
-#speaker[Krishna] I was one of them once.
-
-#speaker[Indra] #stage[quietly] I know. Before you became a teacher, you were a troublemaker. You stole butter. You teased girls. You danced on serpents' heads.
-
-You were mine, Govinda. Before you became everyone's.
-
-#action[Krishna said nothing. But he did not deny it.]
-
-#speaker[Krishna] #stage[slowly] There are not many such.
-
-#speaker[Indra] No. There never are. But they are the ones who change the world. They are the ones who build the empires, write the poems, break the chains.
-
-Your teaching is for the ninety-nine. Mine is for the one.
-
-Let them both exist. Let readers choose.
-
-#speaker[Krishna] #stage[placing his hand on Indra's arm] May your fire burn until the stars go dark, Sahasraksha.
-
-#speaker[Indra] And may your peace hold those who need it.
-
-#action[For a moment, their hands touched, the god of thunder and the god who had humbled him. Two kings at the end of their roads.]
-
-#speaker[Indra] We are not enemies, Govinda. We are brothers who serve different children.
-
-#action[Indra walked back toward the forest. His footsteps made sound on the earth. His shadow fell in the ordinary way. At the edge of the trees, he turned.]
-
-#speaker[Indra] The teaching I've given you, it has no name yet. Give it one.
-
-#speaker[Krishna] Indragita.
-
-#speaker[Indra] Good. Let this dialogue be my ashwamedha.#footnote[The ashwamedha horse runs wherever it will, and where it runs becomes the king's domain.] These words will run through minds I will never meet, and where they land, I will have kingdom.
-
-Let them read it alongside yours. Let them choose.
-
-#action[He disappears into the trees. Moments later, the thunder rolls, far away, as if laughing.]
-
-#action[Krishna waits for the arrow.]
-
-#v(2em)
-
-#align(center)[
-#text(style: "italic", size: 10pt)[
-#box(width: 80%)[
-If you have read this far and felt fear, go back to Krishna. He loves you. He will keep you safe.
-
-#v(0.5em)
-
-If you have read this far and felt relief...
-
-Then the arrow was not meant for you.
-
-#v(0.5em)
-
-Wake up.
-]
-]
-]
+And a teaching that cannot honor both is not complete.

@@ -117,7 +117,7 @@
 }
 
 // ============================================
-// COVER PAGE
+// COVER PAGE (Text-based fallback)
 // ============================================
 #let cover-page(is-dark: false) = {
   let bg = if is-dark { dark-bg } else { light-bg }
@@ -184,6 +184,130 @@
 }
 
 // ============================================
+// IMAGE COVER PAGE (with text overlay - all on one page)
+// ============================================
+#let image-cover-page(image-path, is-dark: false) = {
+  let bg = if is-dark { dark-bg } else { light-bg }
+  let title-color = if is-dark { dark-primary } else { rgb("#D35233") }
+  let text-color = if is-dark { dark-text } else { rgb("#333333") }
+
+  set page(header: none, footer: none, margin: (x: 1.2cm, top: 1.2cm, bottom: 1.8cm), fill: bg)
+
+  block(breakable: false, width: 100%, height: 100%)[
+    #align(center)[
+      // Author name
+      #text(
+        size: 10pt,
+        weight: "bold",
+        tracking: 0.15em,
+        fill: text-color,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[#upper[Ashris Choudhury]]
+
+      #v(0.4cm)
+
+      // Title - tighter spacing
+      #text(
+        size: 52pt,
+        weight: "bold",
+        fill: title-color,
+        tracking: 0.05em,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[INDRA]
+      #v(-0.7cm)
+      #text(
+        size: 52pt,
+        weight: "bold",
+        fill: title-color,
+        tracking: 0.05em,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[GITA]
+
+      #v(0.2cm)
+
+      // Illustration
+      #box(height: 48%)[
+        #image(image-path, width: 100%, fit: "contain")
+      ]
+
+      #v(1fr)
+
+      // Subtitle
+      #text(
+        size: 9pt,
+        weight: "bold",
+        tracking: 0.1em,
+        fill: text-color,
+        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+      )[#upper[What Indra Taught Krishna]]
+    ]
+  ]
+
+  pagebreak()
+}
+
+// ============================================
+// BACK COVER PAGE (for print)
+// ============================================
+#let back-cover-page(is-dark: true) = {
+  let bg = if is-dark { dark-bg } else { light-bg }
+  let primary = if is-dark { dark-primary } else { light-primary }
+  let muted = if is-dark { dark-muted } else { light-muted }
+  let txt = if is-dark { dark-text } else { light-text }
+
+  pagebreak()
+  set page(header: none, footer: none, margin: (x: 2.5cm, y: 3cm), fill: bg)
+
+  v(2fr)
+
+  align(center)[
+    #text(fill: primary, size: 20pt)[⚡]
+  ]
+
+  v(1cm)
+
+  align(center)[
+    #text(
+      size: 10pt,
+      fill: txt,
+      style: "italic"
+    )[
+      #box(width: 85%)[
+        "If you have read this far and felt fear, go back to Krishna. He loves you. He will keep you safe.
+
+        If you have read this far and felt relief...
+
+        Then the arrow was not meant for you.
+
+        Wake up."
+      ]
+    ]
+  ]
+
+  v(2cm)
+
+  align(center)[
+    #text(
+      size: 8pt,
+      tracking: 0.2em,
+      fill: muted,
+      font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+    )[#upper[Ashris Choudhury]]
+  ]
+
+  v(0.5cm)
+
+  align(center)[
+    #text(
+      size: 7pt,
+      fill: muted,
+    )[First Edition, 2026]
+  ]
+
+  v(3fr)
+}
+
+// ============================================
 // TABLE OF CONTENTS
 // ============================================
 #let toc-page(entries, is-dark: false) = {
@@ -192,15 +316,24 @@
   let txt = if is-dark { dark-text } else { light-text }
   let muted = if is-dark { dark-muted } else { light-muted }
 
-  set page(header: none, footer: none, fill: bg)
+  set page(header: none, footer: none, fill: bg, margin: (x: 2cm, top: 2cm, bottom: 2cm))
 
-  v(1.5cm)
+  v(1cm)
 
+  // Large "TABLE OF CONTENTS" header
   text(
-    size: 32pt,
+    size: 36pt,
     weight: "bold",
     fill: primary,
-    tracking: 0.15em,
+    tracking: 0.1em,
+    font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+  )[TABLE OF]
+  linebreak()
+  text(
+    size: 36pt,
+    weight: "bold",
+    fill: primary,
+    tracking: 0.1em,
     font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
   )[CONTENTS]
 
@@ -208,18 +341,18 @@
 
   set text(size: 9pt, fill: txt)
 
-  // Keep all TOC entries together
+  // TOC entries
   block(breakable: false)[
     #for entry in entries {
       grid(
-        columns: (2.8cm, 1fr, 1cm),
-        column-gutter: 0.5em,
-        row-gutter: 0.3em,
-        text(weight: "semibold", size: 7.5pt, tracking: 0.08em, fill: muted, font: ("Avenir Next", "Avenir", "Futura"))[#upper[#entry.label]],
+        columns: (3cm, 1fr, 0.8cm),
+        column-gutter: 0.8em,
+        row-gutter: 0.4em,
+        text(weight: "bold", size: 7.5pt, tracking: 0.08em, fill: muted, font: ("Avenir Next", "Avenir", "Futura"))[#upper[#entry.label]],
         text(fill: txt, size: 9pt)[#entry.title],
         align(right)[#text(fill: primary, weight: "bold")[#entry.page]],
       )
-      v(0.5em)
+      v(0.4em)
     }
   ]
 
@@ -231,42 +364,43 @@
 // ============================================
 #let chapter-title(label, title) = {
   pagebreak(weak: true)
-  set page(header: none)
 
-  v(3cm)
+  v(0.8cm)
 
   context {
     let is-dark = dark-mode.get()
     let primary = if is-dark { dark-primary } else { light-primary }
 
-    if title != none and title != [] {
-      text(
-        size: 22pt,
-        weight: "bold",
-        fill: primary,
-        tracking: 0.15em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-      )[#upper[#label]]
-      v(0.4cm)
-      text(
-        size: 16pt,
-        weight: "medium",
-        fill: primary,
-        tracking: 0.05em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-      )[#title]
-    } else {
-      text(
-        size: 26pt,
-        weight: "bold",
-        fill: primary,
-        tracking: 0.15em,
-        font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
-      )[#upper[#label]]
-    }
+    align(center)[
+      #if title != none and title != [] {
+        text(
+          size: 20pt,
+          weight: "bold",
+          fill: primary,
+          tracking: 0.15em,
+          font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+        )[#upper[#label]]
+        v(0.3cm)
+        text(
+          size: 14pt,
+          weight: "medium",
+          fill: primary,
+          tracking: 0.05em,
+          font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+        )[#title]
+      } else {
+        text(
+          size: 22pt,
+          weight: "bold",
+          fill: primary,
+          tracking: 0.15em,
+          font: ("Avenir Next", "Avenir", "Futura", "Helvetica Neue")
+        )[#upper[#label]]
+      }
+    ]
   }
 
-  v(2cm)
+  v(1cm)
 }
 
 // Adhyaya (chapter) title
