@@ -69,7 +69,7 @@ My last thought will not be "All is Brahman." It will be "I was here. I wanted. 
 
 #speaker[Indra] It sounds like having lived.
 
-This is not inferior. This is the price of having engaged. And perhaps, perhaps, the universe respects the one who does not go quietly more than the one who accepts the darkness as a friend.
+Do not call it inferior. It is the price of having engaged. And perhaps, perhaps, the universe respects the one who does not go quietly more than the one who accepts the darkness as a friend.
 
 #section-heading[On Making Beautiful Things]
 

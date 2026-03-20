@@ -71,6 +71,8 @@ Not in thunder. Not with the host of Maruts. He came as a man comes to another m
 
 #speaker[Indra] #stage[sitting down across from him] I will. Because I have done what you have never done. I have wanted things, and failed to get them, and remained Indra. I did not console myself by saying I never really wanted them. I did not say desire is the enemy. I lost, and I wanted, and I kept wanting, and I tried again.
 
+And here is the thing you miss, Govinda: the wanting was not ego. Ego would have said "I am Indra, I cannot lose." But I did lose. And I did not shatter, because my sense of self was not built on being invincible. It was built on being the one who keeps choosing. The one who authors his life, even when the story turns against him.
+
 That is the teaching.
 
 #speaker[Krishna] #stage[almost amused] You have not changed, Shakra. Even now, at the end, you come to argue.

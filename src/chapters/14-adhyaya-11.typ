@@ -53,6 +53,14 @@ What I want is Fire inside the Engine. The hunger of the outsider combined with 
 
 #speaker[Indra] I think your teaching makes men ashamed of the fire. And a man who is ashamed of his own hunger will never build an engine worthy of it.
 
+Let me be precise about something, because you will accuse me of promoting ego. Fire that serves the self's #emph[image] is ego. The king who builds a palace so others will admire him, who wages war so poets will sing of him: that is fire burning for the mirror. Duryodhana had that fire. It destroyed everything it touched.
+
+Fire that serves the self's #emph[vision] is something else entirely. Chandragupta did not build an empire so people would call him great. He built it because he could see what the subcontinent could become, and he could not rest until the vision was real. Shivaji did not seize forts for his reputation. He seized them because his people were being ground into dust and he refused to watch.
+
+The difference is not subtle, Govinda. Ego asks: how do others see me? What I describe asks: what am I willing to build, even if no one sees?
+
+One is vanity with a sword. The other is authorship with a purpose.
+
 #section-heading[On the Vratya Emperor, Again]
 
 #speaker[Indra] I spoke to you of Chandragupta. The Vratya who should have accepted his station and instead built an empire. Remember what made him possible: not karma, not dharma, but hunger disciplined into statecraft.
@@ -133,4 +141,4 @@ Your philosophers will not know what to make of him. He does not fit the renunci
 
 #speaker[Indra] The ages to come will require transformation, not preservation. Your Bharata will face peoples who want things: land, trade, dominance. And your philosopher-kings will be helpless against them, because the peoples who want things will out-work, out-fight, and out-build the peoples who have been taught that wanting is attachment.
 
-This is not a prediction. This is a certainty.
+Do not mistake this for prophecy. I have seen it.

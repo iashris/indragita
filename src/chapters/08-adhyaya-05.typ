@@ -51,7 +51,7 @@ Where is the karmic debt? Where is the accumulated weight? He chose. And the cho
 
 The universe remembers what has been done, and consequences unfold according to natural law.
 
-When you drop a stone, it falls. Not because the stone "deserves" to fall. Because that is the nature of mass and gravity. Karma is the same. Actions create ripples. Ripples shape futures. This is not cruelty. This is order.
+When you drop a stone, it falls. Not because the stone "deserves" to fall. Because that is the nature of mass and gravity. Karma is the same. Actions create ripples. Ripples shape futures. Call it cruel if you like. It is simply order.
 
 Consider it further: a river does not punish the land it floods. It follows contour, gradient, the memory of rainfall. Karma is the same. It is not a judge. It is a current. And those who understand the current can learn to navigate it.
 
@@ -93,9 +93,35 @@ You: Eternal unchanging self. Frozen.
 Me: Self as #emph[project]. Dynamic. Built and rebuilt by choices made in the fire of the present.
 ]
 
+#speaker[Krishna] "Self as project" is just ego with philosophical decoration. The man who says "I will build myself" is still chasing achievement, still grasping, still bound.
+
+#speaker[Indra] No. Listen to me. I am going to explain how this actually works. Not philosophy. Mechanics.
+
+A man is born into conditions. Real conditions. His body, his family, his caste, his century. These constrain him. I do not deny that.
+
+But within those conditions, there is a space. Sometimes a narrow one. The space where the man looks at his circumstances and asks: "And now what will I do?"
+
+That space is everything, Govinda. It is the difference between Chandragupta and the clerk. Both born in mud. One looked at the mud and said "this is my karma." The other looked at the mud and said "this is my starting position."
+
+#speaker[Krishna] And the one who says "starting position" is not expressing ego?
+
+#speaker[Indra] No. Because ego says: I am already great, and the world must recognize me. That was Duryodhana. He demanded a throne because he believed it was owed to him. He never built anything. He inherited, and when the inheritance was threatened, he destroyed everything rather than lose it.
+
+What I describe is the opposite. It is the man who says: I am not yet what I will become. I see a version of myself that does not yet exist, and I will pay the full price to become it.
+
+Ego defends what it already is. What I speak of #emph[builds] what it is not yet. Ego is static, a wall around a small self. What I speak of is dynamic, a bridge toward a larger one.
+
+Ego says: "I deserve." What I describe says: "I will earn."
+
+#stage[meeting Krishna's eyes]
+
+That is the space your teaching collapses when it says all outcomes are equal. When a boy is told that wanting to become something is attachment, you do not kill his ego, Govinda. You kill his capacity to author his own life.
+
+And a man with no authorship is not free. He is furniture.
+
 #section-heading[On Ambition and Its Murder]
 
-#speaker[Indra] This is what I am trying to show you. Your system removes the stakes. If everything is determined by past lives, then nothing I do now is truly mine. I am just a leaf on the river of karma.
+#speaker[Indra] Your system removes the stakes. If everything is determined by past lives, then nothing I do now is truly mine. I am just a leaf on the river of karma.
 
 But I am NOT a leaf. I am Indra. I lift the vajra. I do not merely "express the thunderbolt-lifting tendency accumulated over cosmic cycles."
 

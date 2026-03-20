@@ -47,7 +47,7 @@ The Indragita does not refute. It offers an alternative path for those who find 
 #bullet-bold[Fierce attachment][Love that risks loss is the only love worth having]
 #bullet-bold[The world as arena][Real, consequential, worth engaging fully]
 
-This is not a refutation. It is an alternative. A path for those who find detachment philosophy producing not saints but sophisticated cowards.
+The Indragita does not set out to refute the Gita. It opens a second door, one for those who find detachment philosophy producing not saints but sophisticated cowards.
 
 #section-heading[A Note on Indra]
 
@@ -55,4 +55,4 @@ Indra in the Rigveda is not the diminished figure of the Puranas. He is the king
 
 The Puranic tradition demoted him. Made him jealous, insecure, constantly threatened by the austerities of mortals. This served a theological purpose: elevating the trimurti (Brahma, Vishnu, Shiva) required diminishing the Vedic pantheon.
 
-In this text, I restore the Rigvedic Indra. Not as literal history, but as philosophical archetype. The one who acts, desires, risks, and remains.
+In this text, I restore the Rigvedic Indra. I treat him as philosophical archetype rather than literal history. The god who acts, desires, risks, and remains.

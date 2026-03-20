@@ -5,7 +5,7 @@
 
 #speaker[Indra] Let us speak now of what your teaching does to a society over time.
 
-In the beginning, a few great souls understand you truly. They achieve genuine detachment, not by lying about their desires, but by genuinely transcending them. Janaka. Perhaps Vyasa. A handful.
+In the beginning, a few great souls understand you truly. They achieve real detachment, not by lying about their desires, but by moving through them honestly. Janaka. Perhaps Vyasa. A handful.
 
 And I will say this: the few who understood you truly are magnificent. Janaka ruled a kingdom while holding perfect equanimity. Vyasa composed the epic while standing outside it. These are diamonds, Govinda. I honor them.
 
@@ -57,7 +57,7 @@ And what did they do? They performed helplessness. They said "It is complex." Th
 
 And your teaching, Govinda, gives men permission to perform that helplessness. "Who can say what is truly right? All perspectives contain truth. The wise man does not take sides."
 
-Draupadi took sides. She demanded justice. She was the most spiritually alive person in that court.
+Draupadi took sides. She demanded justice. She authored her response to evil instead of dissolving into equanimity. She was the most spiritually alive person in that court.
 
 #speaker[Krishna] #stage[quietly] I was not there that day.
 

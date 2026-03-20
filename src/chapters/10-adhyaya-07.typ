@@ -116,15 +116,13 @@ And love is what happens when one consciousness machine recognizes another and s
 
 #action[For a moment, the argument dropped away. Indra's voice carried something older than debate, something that sounded almost like awe.]
 
-This is not metaphor. This is the deepest physics of existence. Consciousness seeks consciousness. Awareness reaches toward awareness. The universe is not dead matter occasionally producing mind. It is mind occasionally condensing into matter.
+I am not speaking in metaphor, Keshava. This is the deepest physics of existence. Consciousness seeks consciousness. Awareness reaches toward awareness. The universe is not dead matter occasionally producing mind. It is mind occasionally condensing into matter.
 
 And when two minds find each other, truly find each other, something is created that neither could create alone. A harmony. A new pattern in the fabric of existence.
 
 #speaker[Krishna] #stage[slowly] That is... not what the Vedanta teaches.
 
 #speaker[Indra] The Vedanta teaches that you are Brahman dreaming. I am telling you that Brahman #emph[wants]. That the dreaming itself is a form of desire. That consciousness seeks resonance as fire seeks fuel.
-
-And when two minds find each other, truly find each other, something is created that neither could create alone.
 
 #speaker[Krishna] And when they lose each other?
 

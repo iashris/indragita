@@ -9,23 +9,23 @@ But ideas do not die with their speakers. They travel. They mutate. They find ne
 
 What would a civilization built on the principles Indra offers look like?
 
-Not hedonism, the pursuit of pleasure without discipline. Indra does not teach that.
+Let us be clear about what this is not. Indra nowhere preaches hedonism or the pursuit of pleasure stripped of discipline. Nor is this nihilism, some fashionable abandonment of meaning. Indra insists that meaning is real, that choices matter, that stakes are not illusion.
 
-Not nihilism, the abandonment of meaning. Indra insists that meaning is real, that choices matter, that stakes are not illusion.
+So what would such a civilization actually look like?
 
-It would be a civilization that values sincerity over performance, where saying what you want is respected, and sophisticated evasion is seen for what it is: cowardice wearing philosophy's clothes.
+At its foundation: the right of every person to author their own life. To look at their circumstances and say "this is my starting position, not my destiny." To want things without apology and to bear the full weight of the consequences.
 
-It would honor ambition without apology. The entrepreneur, the artist, the builder, they would not be told to seek liberation instead. They would be told: build, and when you are done, build more.
+Sincerity over performance. Say what you want. Mean what you say. Sophisticated evasion would be recognized for what it is: cowardice wearing philosophy's clothes.
 
-It would celebrate fierce love. Not as a lower path to be transcended, but as the proof that you are fully engaged with existence. The mother who loves her child ferociously is not spiritually inferior to the monk who loves nothing.
+The entrepreneur, the artist, the builder, none of them would be told to seek liberation instead. Ambition would carry no apology. Build, and when you are done, build more.
 
-It would embrace righteous anger. The capacity to be outraged by injustice would be cultivated, not stilled.
+And love? Fierce, unreserved, fully engaged. The mother who loves her child ferociously is not spiritually inferior to the monk who loves nothing. Love that risks loss would be honored precisely because it risks loss.
 
-It would produce art without embarrassment. Beauty would be recognized as a legitimate end, not a distraction from higher pursuits.
+Righteous anger would be cultivated, not stilled. The capacity to be outraged by injustice, that is a faculty worth sharpening.
 
-It would face death as completion, not escape. A life well-lived would be measured by what it accomplished, not what it transcended.
+Beauty would be recognized as a legitimate end. Art would be made without embarrassment, without the anxious footnote that higher pursuits await.
 
-It would welcome joy without guilt. Celebration would be sacred, and the philosopher who cannot dance would be missing something.
+Death would be faced as completion. A life measured by what it accomplished, not what it transcended. And joy would carry no guilt. Celebration would be sacred. The philosopher who cannot dance would be missing something.
 
 #v(1.5em)
 

@@ -85,7 +85,7 @@ When Rumi's Sufis spin, they are not performing a duty. They are celebrating, wi
 
 #speaker[Indra] I am not saying meditation is wrong. I am saying meditation is not the only door.
 
-The hierarchy was the mistake. Not meditation itself, but the claim that stillness is closer to God than motion. That silence is holier than song. That the meditator is more advanced than the dancer.
+Meditation was never the problem. The hierarchy was. The claim that stillness sits closer to God than motion, that silence outranks song, that the meditator has advanced past the dancer.
 
 #speaker[Krishna] You want me to say that dancing is equal to meditation?
 

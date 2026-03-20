@@ -91,7 +91,19 @@ When a young Shivaji looked at the forts of Maharashtra and thought "these shoul
 
 The wanting was what put them at the starting line. The flow came during the action. But without the wanting, they would never have started.
 
-And in ages to come, when a coder enters the hackathon, when a gamer faces the final boss, when an archer draws at the Olympics, it will be the same. The wanting brings them. The flow sustains them. Your teaching makes the wanting itself suspect.
+And in ages to come, when a coder enters the hackathon, when a gamer faces the final boss, when an archer draws at the Olympics, it will be the same.
+
+Let me explain the mechanics, Govinda. Because this is not opinion. This is how excellence actually works in a human being.
+
+First: wanting. The raw desire for something. The temple, the victory, the solution. This is the ignition. Without it, no one begins.
+
+Second: absorption. What you call the dissolution of doer and deed. The archer becomes the arrow. The sculptor forgets he is hungry. This is the state your teaching correctly identifies. It is real.
+
+Third: the result. The arrow hits or misses. The temple stands or cracks. And the builder #emph[cares] which one happens. The caring is what closes the loop. It is what teaches him where he went wrong, what to fix, what to try next.
+
+Your teaching honors only the second stage and distrusts the first and third. But without the first, no one enters the state. Without the third, no one improves. You cut the ignition and the feedback and kept only the middle, and then wondered why your children produce competent mediocrity instead of greatness.
+
+The wanting brings them. The flow sustains them. The caring about the result teaches them. Your teaching makes two of the three suspect.
 
 #section-heading[On the Warrior Spirit]
 
