@@ -1,7 +1,8 @@
 // Indragita: What Indra Taught Krishna
+// A Philosophical Dialogue Drawn from the Rigveda, the Mahabharata, and the Bhagavad Gita
 // By Ashris Choudhury
 // =====================================
-// LIGHT MODE EDITION - V7
+// LIGHT MODE EDITION - V9 (Tattva submission)
 
 #import "template.typ": *
 
@@ -36,10 +37,16 @@
 
 // Half-title page
 #set page(header: none, footer: none)
-#v(4cm)
+#v(3.5cm)
 #align(center)[
+  #text(size: 20pt, fill: light-primary, weight: "medium")[Indragita]
+  #v(0.4cm)
   #text(size: 14pt, fill: light-primary, weight: "medium")[What Indra Taught Krishna]
-  #v(1cm)
+  #v(1.2cm)
+  #text(size: 10pt)[A Philosophical Dialogue]
+  #v(0.2cm)
+  #text(size: 9pt, style: "italic")[Drawn from the Rigveda, the Mahabharata, the Upanishads, and the Bhagavad Gita]
+  #v(1.5cm)
   #text(style: "italic", size: 10pt)[By Ashris Choudhury]
 ]
 #pagebreak()
@@ -105,8 +112,9 @@
 #align(center)[
   #text(style: "italic", size: 9pt)[
     Indragita: What Indra Taught Krishna \
+    A Philosophical Dialogue \
     By Ashris Choudhury \
-    First Edition, 2026
+    Manuscript, 2026
   ]
 ]
 #v(2cm)

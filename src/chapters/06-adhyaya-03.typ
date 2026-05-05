@@ -17,9 +17,20 @@ I will speak of your own soil. Of the fire that burned here before your philosop
 
 Your Rigveda, the oldest hymns, the ones your priests claim to revere above all others, says this:
 
-#indent-para[
-#emph["Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit. Sages who searched with their heart's thought discovered the existent's kinship in the non-existent."]#footnote[Rigveda 10.129.4 (Nasadiya Sukta)]
-]
+#verse-citation(
+  devanagari: [
+    कामस्तदग्रे समवर्तताधि मनसो रेतः प्रथमं यदासीत् । \
+    सतो बन्धुमसति निरविन्दन् हृदि प्रतीष्या कवयो मनीषा ॥
+  ],
+  iast: [
+    kāmas tad agre samavartatādhi manaso retaḥ prathamaṃ yad āsīt | \
+    sato bandhum asati nir avindan hṛdi pratīṣyā kavayo manīṣā ||
+  ],
+  english: [
+    "Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit. Sages who searched with their heart's thought discovered the existent's kinship in the non-existent."
+  ],
+  citation: [Rigveda 10.129.4 (Nasadiya Sukta)],
+)
 
 #speaker[Krishna] The Nasadiya Sukta speaks of cosmic origins, not individual craving.
 
@@ -33,7 +44,26 @@ When did you start teaching that the First Seed was poison?
 
 #speaker[Indra] The sages made no such distinction. That came later. That came when philosophers grew embarrassed by their ancestors' hungers.
 
-And they said something else, Govinda. They said: "#emph[Who verily knows and who can here declare it? The Gods are later than this world's production. Who knows then whence it first came into being? Perhaps he knows not.]"#footnote[Rigveda 10.129.6-7]
+And they said something else, Govinda. They said:
+
+#verse-citation(
+  devanagari: [
+    को अद्धा वेद क इह प्र वोचत् कुत आजाता कुत इयं विसृष्टिः । \
+    अर्वाग् देवा अस्य विसर्जनेनाथा को वेद यत आबभूव ॥ \
+    इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न । \
+    यो अस्याध्यक्षः परमे व्योमन् सो अङ्ग वेद यदि वा न वेद ॥
+  ],
+  iast: [
+    ko addhā veda ka iha pra vocat kuta ājātā kuta iyaṃ visṛṣṭiḥ | \
+    arvāg devā asya visarjanenāthā ko veda yata ābabhūva || \
+    iyaṃ visṛṣṭir yata ābabhūva yadi vā dadhe yadi vā na | \
+    yo asyādhyakṣaḥ parame vyoman so aṅga veda yadi vā na veda ||
+  ],
+  english: [
+    "Who verily knows and who can here declare it? The Gods are later than this world's production. Who knows then whence it first came into being? Perhaps he knows not."
+  ],
+  citation: [Rigveda 10.129.6-7],
+)
 
 #action[Indra's voice dropped.]
 
@@ -45,13 +75,28 @@ When did your children stop questioning and start reciting?
 
 #speaker[Indra] And what did your ancestors pray for, Govinda? What did they ask of me when the soma was fresh and the fire was high?
 
-They prayed: "#emph[Give, Indra, wide and lofty fame, wealthy in cattle and in strength.]"#footnote[Rigveda 1.9.7]
+They prayed:
+
+#verse-citation(
+  devanagari: [
+    सं गोमदिन्द्र वाजवदस्मे पृथु श्रवो बृहत् । \
+    विश्वायुर्धेह्यक्षितम् ॥
+  ],
+  iast: [
+    saṃ gomad indra vājavad asme pṛthu śravo bṛhat | \
+    viśvāyur dhehy akṣitam ||
+  ],
+  english: [
+    "Give, Indra, wide and lofty fame, wealthy in cattle and in strength, lasting our life-time, failing not."
+  ],
+  citation: [Rigveda 1.9.7],
+)
 
 They asked for wealth. They asked for victory. They asked for fame. They asked for sons.
 
 They were not ashamed of wanting. They did not say "I offer this soma but I am not attached to whether you grant my prayer." They #emph[wanted], and they said so.
 
-#speaker[Krishna] The Vedas are one stage of development. Later teachings refined—
+#speaker[Krishna] The Vedas are one stage of development. Later teachings refined ...
 
 #speaker[Indra] Later teachings #emph[retreated]. Later teachings were embarrassed by the hunger of the ancestors. Later teachings said: those old hymns were for lesser souls. We have evolved past wanting.
 
@@ -79,7 +124,7 @@ Your teaching did not dissolve caste. It made caste #emph[sacred]. "It is his ka
 
 #action[Silence. The tide pulled back, dragging shells across stone.]
 
-#speaker[Krishna] #stage[quieter] Because the alternative was chaos. Men need order. They need to believe their suffering has meaning. Without the frame—
+#speaker[Krishna] #stage[quieter] Because the alternative was chaos. Men need order. They need to believe their suffering has meaning. Without the frame ...
 
 #speaker[Indra] Without the frame, they might have built a different frame. One that did not require them to see their children's suffering as deserved.
 

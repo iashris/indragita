@@ -37,10 +37,16 @@
 
 // Half-title page
 #set page(header: none, footer: none, fill: dark-bg)
-#v(4cm)
+#v(3.5cm)
 #align(center)[
+  #text(size: 20pt, fill: dark-primary, weight: "medium")[Indragita]
+  #v(0.4cm)
   #text(size: 14pt, fill: dark-primary, weight: "medium")[What Indra Taught Krishna]
-  #v(1cm)
+  #v(1.2cm)
+  #text(size: 10pt, fill: dark-muted)[A Philosophical Dialogue]
+  #v(0.2cm)
+  #text(size: 9pt, style: "italic", fill: dark-muted)[Drawn from the Rigveda, the Mahabharata, the Upanishads, and the Bhagavad Gita]
+  #v(1.5cm)
   #text(style: "italic", size: 10pt, fill: dark-muted)[By Ashris Choudhury]
 ]
 #pagebreak()
@@ -106,8 +112,9 @@
 #align(center)[
   #text(style: "italic", size: 9pt, fill: dark-muted)[
     Indragita: What Indra Taught Krishna \
+    A Philosophical Dialogue \
     By Ashris Choudhury \
-    First Edition, 2026 \
+    Manuscript, 2026 \
     #v(0.5cm)
     #text(fill: dark-primary)[⚡ Night Edition ⚡]
   ]

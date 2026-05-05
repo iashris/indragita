@@ -3,13 +3,13 @@
 
 #adhyaya(2, [The Wound of Time])
 
-#speaker[Krishna] You have not answered my question, Shakra. You say you don't measure truth by headcount. The yajnas have stopped. The soma goes unoffered. By your own philosophy—what do you want from me?
+#speaker[Krishna] You have not answered my question, Shakra. You say you don't measure truth by headcount. The yajnas have stopped. The soma goes unoffered. By your own philosophy, what do you want from me?
 
 #action[Indra was silent for a long moment. The sea pulled at the shore. When he spoke, his voice was different, quieter, stripped of the earlier mockery.]
 
 #speaker[Indra] I do not come for worship, Govinda. I am old enough to be beyond that.
 
-I come because when I see the fire being extinguished—in a boy told not to want too much, in a warrior taught that victory and defeat are the same, in a girl who stops asking questions because questions are "ego," something in me recognizes it.
+I come because when I see the fire being extinguished, in a boy told not to want too much, in a warrior taught that victory and defeat are the same, in a girl who stops asking questions because questions are "ego," something in me recognizes it.
 
 And grieves.
 
@@ -41,7 +41,7 @@ The warriors fight. Some of them. But behind them, I hear the philosophers whisp
 
 And the warriors hear this. And something in them, some fire that should have been fed, flickers.
 
-#speaker[Krishna] My teaching does not say—
+#speaker[Krishna] My teaching does not say ...
 
 #speaker[Indra] #stage[continuing, not stopping] I see the pattern repeat. Centuries pass. The invaders change: their faces, their flags, their gods. But the response is the same.
 
@@ -77,7 +77,7 @@ And the empire he could have built? The system that could have made his people u
 
 #speaker[Indra] And this one. She has Gargi's mind. She asks questions that make the priests sweat. "If Brahman is everything, why does suffering exist? If karma is just, why do the innocent die? If the atman is eternal, why does love hurt?"
 
-#speaker[Krishna] These are the questions that lead to—
+#speaker[Krishna] These are the questions that lead to ...
 
 #speaker[Indra] To what? Enlightenment? Or silence?
 
@@ -109,13 +109,13 @@ I see your children celebrating. "Freedom," they call it. They light lamps. They
 
 They celebrate while standing on the severed legs of the mother. While she bleeds from the surgery they accepted rather than fought.
 
-#speaker[Krishna] #stage[voice tight] You think they should have fought? Millions more would have died. The fire you praise—
+#speaker[Krishna] #stage[voice tight] You think they should have fought? Millions more would have died. The fire you praise ...
 
 #speaker[Indra] #stage[turning on him] The fire I praise would not have accepted the surgeon's terms! Would not have negotiated the angle of the knife! Would not have called amputation "independence" and thrown garlands!
 
 #action[His voice dropped. The anger bled into something else.]
 
-I do not say they should have won. I say they should have made the cutting #emph[cost] something. I say they should not have been so eager, so #emph[relieved]—to dress their dismemberment as wisdom.
+I do not say they should have won. I say they should have made the cutting #emph[cost] something. I say they should not have been so eager, so #emph[relieved], to dress their dismemberment as wisdom.
 
 The worst part, Govinda? They felt #emph[morally superior] to those who wanted to fight. "We are peaceful. We are evolved. We accept what karma has brought."
 

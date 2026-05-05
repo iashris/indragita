@@ -3,27 +3,25 @@
 
 #chapter-title([Preface], none)
 
-Every generation must interpret and reinterpret.
+The Indian tradition has always renewed itself through dialogue.
 
-Ashtavakra created his own radical version of Advaita Vedanta. The Gita itself was an intervention, Krishna stopping a war to deliver philosophy. This book is my intervention.
+The Gita is a dialogue. The Upanishads are dialogues. Yajnavalkya and Gargi, Krishna and Arjuna, Ashtavakra and Janaka, the Buddha and his questioners, Adi Shankara and Mandana Mishra. Every age that mattered to us produced its own conversation, in its own voice, and added a room to the house we still live in.
 
-I have watched the teachings of detachment become a sophisticated form of hiding. I have seen "non-attachment" used as armor against sincerity, "karma yoga" invoked to justify mediocrity, "maya" deployed to avoid the weight of real choices. The philosophy designed to liberate has become, for many, a technology of spiritual bypassing.
+This book is one such conversation, set at the close of the Dvapara Yuga, between Indra, king of the Devas, and Krishna, in the last hours before Jara's arrow. It is offered in the same spirit our rishis offered theirs: not to overturn what came before, but to keep the inheritance alive by handling it again.
 
-This is not the Gita's fault. Or perhaps it is. When every misuse follows the same pattern, we must ask whether the teaching itself contains the seeds of its corruption.
+Two figures sit in the foreground of our philosophical memory. One is the Krishna of the Bhagavad Gita, the teacher of #emph[nishkama karma], non-attachment, and the unchanging Atman. The other, less remembered, is the Indra of the Rigveda. Long before the Puranic tradition diminished him, Indra was the king who acted, who wanted, who chose, who fought, who lost, and who returned. Vedic hymns sang his name as the lord of #emph[vajra] and #emph[soma], the breaker of obstacles, the one in whom the world delighted because he delighted in the world.
 
-My method is closer to data science than theology: pattern recognition, comparative analysis, testing ideas against observable outcomes. I approach these texts as an analyst, asking the hard questions our own rishis asked before the tradition calcified. What happens when a civilization organizes itself around detachment? What kind of people does it produce? What do they build? What do they avoid building?
+Somewhere along the way, that Indra grew quiet in our imagination. The strand of the tradition he represents, an ethic of agency, of owned desire, of full-hearted engagement with the world, was overshadowed by the literature of renunciation. It did not disappear. It survived in the Karma Kanda of the Vedas, in the householder ideals of the Dharmashastras, in the lives of the kings, builders, poets, and devotees who shaped this civilization. But it lost its voice in the philosophical foreground.
 
-The Indo-European philosophical tradition, the fire that birthed Greek inquiry, Persian dualism, and Vedic rigor, has always valued questioning over compliance, curiosity over peacocking, truth over comfort. That same fire now burns in laboratories and startups, in the rigorous doubt of the scientific method. I write in that tradition.
+This book is an attempt to give that voice back to it.
 
-The fire that once burned in the Rigveda, where Indra was king and men asked for victory and cattle without apology. That fire was ours before we forgot it. This book is an attempt at remembering.
+I write neither as a sannyasi nor as a scholar in the conventional sense. I work with patterns, with primary texts read closely, with the comparative discipline that the Vedic tradition itself prized. I have spent years on the Rigveda, the Mahabharata, the Upanishads, and the long arc of Indian philosophical thought. What follows is what I found when I let the older Indra speak for himself: not a rejection of Krishna's teaching, but a complement to it, a second door for the householder, the builder, the artist, the parent, the warrior, who reads the Gita and feels that something in their own life has not yet been named.
 
-This book is a mythological dialogue. Indra, king of the Devas, confronts Krishna at the end of his life, after the Yadava clan's self-destruction, before the hunter's arrow finds its mark. He challenges the teachings of the Gita, offering an alternative philosophy: sincerity over performed wisdom, owned desire over suppressed craving, the courage to want over the safety of transcendence.
+In the dialogue that follows, Indra and Krishna do not part as enemies. They part as brothers who serve different children. The peace Krishna offers is real, and it has held generations. The fire Indra offers is also real, and it has built them. Both belong to us.
 
-I do not claim divine revelation. This is philosophical fiction, an artistic exploration meant to provoke thought, not replace scripture. I may be wrong. The tradition I criticize has survived millennia; my critique may not survive a decade. But the questions deserve asking.
+For the reader who comes to this book carrying the Gita: nothing here asks you to set it down. For the reader who has felt that the Gita was not quite addressed to them: this book may be the older cousin you did not know you had.
 
-If you are looking for devotional literature, look elsewhere. If you are tired of watching intelligent people use ancient wisdom as an excuse for cowardice, read on.
-
-The real Ashris wants you to question everything, including this book.
+The fire is old. Older than the words we use to describe it. This is one more attempt to remember it well.
 
 #v(1.5em)
 #align(right)[

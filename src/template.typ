@@ -474,6 +474,56 @@
 }
 
 // ============================================
+// SCRIPTURAL VERSE BLOCK
+// ============================================
+// Devanagari + IAST transliteration + English translation,
+// with citation in primary color. For quoted verses from
+// Rigveda, Upanishads, Mahabharata, etc.
+#let verse-citation(devanagari: none, iast: none, english: none, citation: none) = {
+  context {
+    let is-dark = dark-mode.get()
+    let primary = if is-dark { dark-primary } else { light-primary }
+    let muted = if is-dark { dark-muted } else { light-muted }
+    let txt = if is-dark { dark-text } else { light-text }
+    let rule-color = if is-dark { rgb("#3D4450") } else { rgb("#E5DDD3") }
+
+    v(0.6em)
+    block(
+      width: 100%,
+      inset: (left: 1em, right: 0.5em, top: 0.4em, bottom: 0.4em),
+      stroke: (left: 1.5pt + primary),
+    )[
+      #if devanagari != none {
+        set par(leading: 0.55em, justify: false)
+        set text(
+          font: ("Shobhika", "Devanagari MT", "Kohinoor Devanagari"),
+          size: 11pt,
+          fill: txt,
+        )
+        devanagari
+        v(0.4em)
+      }
+      #if iast != none {
+        set par(leading: 0.55em, justify: false)
+        set text(size: 9pt, fill: muted, style: "italic")
+        iast
+        v(0.4em)
+      }
+      #set par(leading: 0.65em, justify: false)
+      #set text(size: 9.5pt, style: "italic", fill: txt)
+      #english
+      #v(0.3em)
+      #align(right)[
+        #text(size: 8pt, fill: primary, weight: "medium", style: "normal")[
+          --- #citation
+        ]
+      ]
+    ]
+    v(0.4em)
+  }
+}
+
+// ============================================
 // LIST ITEMS
 // ============================================
 #let bullet(content) = {

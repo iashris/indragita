@@ -1,0 +1,1271 @@
+# An Incomplete Story of Palestine
+
+*A Contested Homeland and the 4,000-Year Lead-Up to October 7, 2023*
+
+- date: 2023-11-24
+- audience: only_paid
+- url: https://www.schandillia.com/p/an-incomplete-story-of-palestine
+- slug: an-incomplete-story-of-palestine
+
+---
+
+This is the story of Palestine, going back not decades or centuries but to the very beginning of recorded history. Well, almost. My strong personal biases notwithstanding, this one’s only about demonstrable facts, backed by sources as close to contemporary as practically possible.
+
+Today’s Levant was once an assortment of small autonomous city-states collectively known as Canaan. Geographically, the region can be divided into four vertical sections—the coastal plains, the central highlands, the Jordan rift valley, and the Trans-Jordanian plateau. Of these, the coastal plains are the most fertile, and the central highlands the most secure. This tradeoff between agricultural bounty and highland defense has underscored the region’s geopolitics since the dawn of civilization. We won’t go that far. Only 4,000 years.
+
+[![](https://substackcdn.com/image/fetch/$s_!8qBN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F517accec-002f-42c1-97e8-5df94f481ce6_877x1200.jpeg)](https://substackcdn.com/image/fetch/$s_!8qBN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F517accec-002f-42c1-97e8-5df94f481ce6_877x1200.jpeg)**Fig. 1** : Geographical divisions of the Levantine region; what’s shown here as the eastern plateau is also referred to as the Trans-Jordanian plateau. [courtesy Chris Taylor and Jenifer Taylor in “Map 1 Landscapes of Palestine,” _The Bible Journey_ , https://www.thebiblejourney.org/biblejourney1/1-the-world-of-the-new-testament-journeys-b/the-landscapes-of-palestine/. Accessed 23 November 2023.]
+
+Now that’s a whole lot of history to process, especially in an area as eventful as the Levant. Consequently, any monolithic piece on the entire timeline is going to be an unwieldy read. That’s why to make it easier, we will divide the timeline into ten broad phases, each with a distinct character of its own. It helps that the region’s transition from one phase to another has been remarkably well-defined—sharp, abrupt, and violent. For obvious reasons, the closer we get to the present, the longer the phase. In other words, the first phase is considerably shorter than the tenth. That isn’t to say more history happened in the latter than in the former. It’s just that we don’t know enough about the first. The further back we go in time, the less granular our knowledge of history.
+
+## Phase 1: Egyptian
+
+So the Canaanites weren’t a very sedentary people. Mostly into pastoralism, they kept moving in search of greener grazes. By the beginning of the second millennium BC, many coastal Canaanites moved south, crossed the Sinai, and settled on the Nile delta. By 1650 BC, Canaanites had established themselves as the Fifteenth Dynasty of Egypt. Native Egyptians called them _Hyksos_ , meaning “foreign rulers.” But they could rule for no more than a hundred years before being thrown out of power by the New Kingdom around 1650 BC. At that point, the tables turned and all of Canaan became a vassal to Egypt. This too lasted a hundred years before the Canaanites revolted.
+
+The revolt took place in the Canaanite city-state of Megiddo, not too far from the northern reaches of what’s now West Bank. On one side was the Canaanite coalition helped by Mitanni, Kadesh, and the Hittites, on the other side was Pharaoh Thutmose III. The battleground was on a hill overlooking the bountiful Jezreel Valley. The hill, locally known as Har Megiddo or Megiddo Hill, is the etymology of the English word armageddon. This also happens to be the oldest battle in recorded history. The Canaanites lost. But that’s not why this battle matters to us. To us, the significance is that the triumph was commemorated about 250 years later in an inscription by the son of Ramasses II, the Abu Simbel guy. It’s called the Merneptah Stele after the pharaoh who commissioned it and it lists out the nations Thutmose subdued or laid waste to.1 Among them is one called “Ysriar” or Israel. This is the first-ever epigraphic proof of the name Israel. The inscription has been dated to 1209 BC.
+
+But the euphoria wouldn’t last. Disaster struck less than ten years later. It’s said to be a composite of several factors—draught, floods, plagues, invasions. Everything that could go wrong, did. And inside of half a century, most Bronze Age civilizations, from Minoan to Mesopotamian to Harappan, were either in crumbles or gone completely. We call it the Bronze Age Collapse. Of all the factors involved, one is of particular interest to us here.
+
+The Sea Peoples.
+
+A mysterious collection of nine named tribes originating in the Aegean Seablitzed its way through the Levant and Mesopotamia leaving empires in the dust. While this depiction is now understood to be a gross exaggeration, the collapse itself is a historically attested reality. Egypt was the only one left standing but with a heavily diminished stature. One of the tribes was the Philistines. We know this from Papyrus Harris I,2 the longest-known from Egypt. A 135-foot scroll with 1,500 lines of text, Papyrus Harris I was found as part of grave goods in a tomb near Medinet Habu, not far from Luxor. This is the first ever mention of the name Philistine as an enemy of Ramasses III, albeit the word is spelled Peleset. The specimen has been dated to around 1150 BC.
+
+The Philistines, or Pelesets, settled in the southern Canaanite coastal plains which they’d wrested out of native control after being repelled by Egypt. Subsequently, a large number of coastal natives withdrew into the central highlands around Samaria, north of Jerusalem. Over time, the Canaanites of the hills branched off from their lowland counterparts in both culture and traditions and even started calling themselves Israelites. But violent as they invariably are, civilizational upheavals also usher in new eras of human development. Every change agent brings something new to the table, something that violently propels mankind into a new, far superior paradigm. The Philistines mainstreamed iron in the region and inaugurated the Iron Age. It’s not that the Near East or Egypt didn’t know iron before the Collapse, they just didn’t use it extensively enough. This was one of the major factors for the Sea Peoples’ success. Iron is far superior to bronze in almost all practical applications, especially when it comes to implements of war and agriculture.
+
+While the dates here ought to be taken as approximations at best, one can still be sure of two things. That both Israel and Philistine emerged as national identities almost simultaneously. And that at the dawn of the Iron Age, the Israelites were native to Canaan, the Philistines weren’t. Having said that, let’s be abundantly clear that none of this has any bearing on the demographic makeup of the land today. The Philistines of the Iron Age, as we’ll soon learn, are not the Palestinians of today. Only the name survives, not the gene pool, but more on that later.
+
+Before we proceed, some clarity on Israel.
+
+When the Egyptians called them Ysriar in Merneptah’s stele, the glyph translated into “foreign people,” although some suggest it could also be an Egyptian corruption of Jezreel. Which means that the Canaanites of the highlands were already being noted as different from the rest by the Egyptians as early as the thirteenth century BC. Therefore, it’s likely that the Canaanites who later came from the lowlands adopted the existing Israelite identity. Be that as it may, they were all essentially Canaanites. The Philistines weren’t. By the end of the tenth century BC, the Israelites had started to coalesce into a unique monolatrous faith system that’d later become Judaism. Traditions place the First Temple in this era.
+
+Of course, there’s no conclusive archeological evidence of this dating for the Temple, nor of Solomon, its builder. But the Temple itself is a historical fact. Since the exact dating of the structure is immaterial to the conversation at hand, we won’t go into it. At this point, this is what the Levant looks like:
+
+The coastal plains are divided into two parts—Phoenecia in the north and the Philistine country in the south. The rest of Canaan is split between Israel in the north (capital, Samaria) and Judah in the south (capital, Jerusalem). The Philistine country is a collection of five city-states—Gaza, Ashkelon, Ashdod, Gath, and Ekron—collectively referred to as the Pentapolis by later Greeks.
+
+While the Israelites and the Canaanites were no longer the same cultural monolith, the real rivalry was between them and the Philistines. There were differences in culture as well as religion. The Philistines were the only people in the region who did not practice circumcision and ate pork. The Bible alludes to this rivalry in the famous fight between David the Israelite and Goliath the Philistine. While the fight itself is scriptural lore, David isn’t.
+
+Between 870 and 750 BC, came the Tel Dan Stele, a triumphal inscription in Aramaic by an unnamed king of Aram-Damascus. With allusions to Ahaziah, Jehoram, and Ahab,3 this is the only extra-biblical archaeological reference to the House of David.4 Just as the Merneptah Stele commemorated Egypt's victory, Tel Dan Stele commemorated that of Aram-Damascus. Both against a common adversary, Israel. While much still remains fuzzy, this stela establishes Israel as a polity and David as its patriarch fairly conclusively.
+
+## Phase 2: Assyrian
+
+Somewhere in the middle of the eighth century BC, we enter the Assyrian phase of our story. The opening artifact of this phase gives us our first epigraphic evidence of the name Judah. It’s an Akkadian artifact called the Nimrud Tablet K.3751 and it details the first seventeen regnal years of the Neo-Assyrian king Tiglath-Pileser III. In about eighty-five lines of text split between two sections, the inscription lists the territories that paid tributes to the Assyrian empire during his reign, essentially, all polities in the land of Canaan. This includes Philistine city-states like Gaza. Also part of the list is an entiry called Yaudaya which everyone now accepts as Judah because it names as its king, Ahaz,5 something 2 Kings 16:2 corroborates.
+
+This tributary system lasted some thirteen years and ended in 720 BC when the Neo-Assyrians decided to swallow the region whole. At this point, Israel ceased to exist as a polity and so did other city-states in the vicinity. Only Judah survived, albeit as an Assyrian vassal. About a century in, the famous Assyrian king Nebuchadnezzar II showed up in Canaan. On a looting spree, he attacked the Pentapolis and reduced it to ashes, taking any living Philistine with him to Babylon as a slave.
+
+This we know through the Babylonian Chronicles. It’s a set of forty-five cuneiform tablets that chronicle the history of all Babylonian rulers from Nabonassar (eighth century BC) to the Parthians (third century BC). One particular tablet in the set, numbered ABC5, sitting in the British Museum as BM 21946, pertains to Nebuchadnezzar’s conquests in the West. For this reason the artifact is also referred to as the Nebuchadnezzar Chronicle. On its obverse, lines 18–22 (there are twenty-seven in total) mention Ashkelon as a city he destroyed in 604 BC in the month of Kislimu (November–December).6
+
+This is the last we hear of the Philistines as a people. From this point on, all that’s left in Canaan is the Canaanites, i.e. Israelites and Judeans. Sure there’s no Israel anymore as a political entity, but the Israelites are still there.
+
+For now.
+
+Before we go any further, let’s close the loop on the gene-pool that we opened a little earlier. This is important to conclusively establish the disappearance of the Philistines from Levantine history, both as a tribe as well as a political entity. To that end, several genetic studies have been conducted over the years, all with more or less the same conclusions: That the Philistines came to Canaan during the Bronze Age Collapse and disappeared within two centuries.7
+
+One such study pertains to a Philistine cemetery discovered in Ashkelon in 2016. The study itself was completed and published in 2019. It sequenced DNA from over a hundred skeletal remains and concluded that the Philistine genes exhibit affinity to Europe reaffirming their non-indigenous status. But more importantly, it concluded that the Philistines disappeared from the Ashkelon in less than two hundred years. If true, they were gone centuries before Nebuchadnezzar’s raid. Of course, that’s just one cemetery and it’s likely other cemeteries could yield a different timeline. Whatever the case, there are no Philistines in recorded history after the end of the seventh century BC.
+
+So what we’re left with now is a Canaan inhabited by Judeans and Israelites. This too would change in 586 BC when Nebuchadnezzar II laid his infamous siege upon Jerusalem. The Bible records this episode as the Destruction of the First Temple, the one Solomon built. The siege proved disastrous for Jerusalem as the city was utterly destroyed as a result and most of its inhabitants were taken to Babylon as captives. This is the famous Babylonian Exile of the Old Testament. Of course, the Bible is no historical document, but the siege is recorded history. Not because the Bible says so but because the Nebuchadnezzar Chronicle does. On its reverse, line 12 speaks of a siege on the city of Iaahudu, now read as Judah.8 The region would later be incorporated into the Babylonian realm with a new Aramaic name, Yehud Medinata.9
+
+With this, the last remaining Canaanite polity also came to an end and the entire region became part of the Assyrian domain. In captivity, the Judeans graduated from monolatry to monotheism and started worshipping Yahweh as the “One True God.” How and why this happened is an interesting story but well beyond the scope of this discussion. This state of affairs lasted until 539 BC.
+
+And then came the Persians.
+
+Cyrus the Great had been on the Achaemenid throne for a little over a decade now. Keen on expansion, he looked west. Babylon tempted him. Being far less than its former Assyrian self, the city was far from invincible now. Cyrus took it without much effort.
+
+## Phase 3: Persian
+
+With the fall of Babylon, Canaan too becomes part of the fledgling Achaemenid realm and we enter the third phase of our story. The conquest was followed by the famous Cyrus Cylinder, Edict of Cyrus in the Book of Ezra. In this edict Cyrus elaborated on some of the first orders of business upon the consolidation of his empire, the first being the release of all enslaved peoples.10 Now, although it doesn’t specifically name Judah or Judeans it’d be absurd to think they were the only ones held back when all others were freed. The Bible notes this release as the Return to Zion (Jerusalem). It’s likely the return was a long-drawn process over years rather than a single, overnight event.
+
+Judea or Yehud was reorganized as an autonomous province within the Achaemenid Empire. It’s here that, upon return, the Judeans assumed a distinct religious and cultural identity as Jew or Yehudi. They even got to have their own king to govern their affairs. Having secured a kingdom and a religion, the Judeans now needed their temple. So, in 516 BC, some seventy years after the destruction of the First, the Second Temple rose atop the ruins of its predecessor.
+
+For some reason, while the Philistines were gone, the name stuck. Perhaps because they were of the Greek stock, the Greeks continued to refer to the region as Palestine. Was it out of some kind of racial affinity? One can only speculate. But the name indeed gained currency only with help from Greek authors.
+
+One such author was Herodotus. In the second half of the fifth century BC, he completed his seminal nine-volume work on world history called, well, The Histories. In it, he described a district of Syria called Palaistinê. It stretched from Posideium in the north to the Egyptian border in the south.11 Posideium corresponds to the modern-day Syrian city of Ras al-Bassit. In other words, Herodotus’ Palestine was the coastal plains of Canaan. Or, Phoenicia and the Philistine city-states of today’s Gaza Strip, together. The rest, he doesn’t say much about.
+
+By the way, there’s a Biblical legend behind the name Israel. Genesis 32:22–32 speaks of Abraham’s grandson Jacob wrestling with an angel all night, ultimately beating him by daybreak. Impressed, the angel blesses him and gives him a new name— _yisré 'él_ or Israel. Here, _yisré_ is a form of _sará_ , Hebrew for “to wrestle,” and _él_ is Hebrew for God (the word Allah traces its etymology to this word). Thus, Israel is “the one who wrestles with God.” Of course, that’s a mere legend, but hear this out:
+
+What if the Greeks followed that legend too? And this is the interesting part—the Greek word for wrestler is _palaistís_ (παλαιστής)! Could Herodotus’ Palaistinê be Israel rather than what we call Palestine? This seems likely since he already had a separate name for the Philistine country in the Gaza Strip, Philistia. Also, Herodotus makes it very clear that the inhabitants of his Palaistinê were circumcized,12 something the Philistines didn’t practice as we’ve already noted before, but the Jews did. Could he be speaking of Jews when he referring to the “Syrians of Palestine”? About a hundred years after Herodotus, Aristotle too called the region Palestine in Meteorologica and included the Dead Sea within its definition.13
+
+In 332 BC, the Achaemenids ended their reign after an eventful 200-year run and passed on the baton to the Greeks. The latter came as an expansionist blitzkrieg under a Macedonian named Alexander and managed to snag much of known human civilization at the time in less than a single generation.
+
+## Phase 4: Greeks
+
+The new Hellenistic phase that started with Alexander brought Judea, a.k.a. Palestine, into the Greek fold. The episode is best known for the six-month Siege of Tyre and the subsequent fall of Phoenicia resulting in the crucifixion of two thousand Phoenicians. Although doubt remains over whether he personally visited Jerusalem, he’s said to have been seen rather favorably by the Judean priesthood. The Greeks reincorporated the entire region into a unified entity and named it following Herodotus’ erroneous take—Palaistinê. After his death, his generals began carving up the empire among themselves. Two major players to emerge were the Ptolemies in Egypt and the Seleucids in the Near East. There were also the Graeco-Bactrian and Indo-Greek polities, but they don’t matter in our story, for here we’re only concerned with the fate of Judea.
+
+[![](https://substackcdn.com/image/fetch/$s_!PLb_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab311460-8c38-41d2-910f-eeeb9825f6f5_3721x2791.png)](https://substackcdn.com/image/fetch/$s_!PLb_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab311460-8c38-41d2-910f-eeeb9825f6f5_3721x2791.png)**Fig. 2** : Palestine and the Levant sandwiched between the Ptolemies and the Seleucids. [courtesy Simeon Netchev in “Ptolemaic Egypt c. 240 BCE,” _World History Encyclopedia_ , 25 January 1922, https://www.worldhistory.org/image/15183/ptolemaic-egypt-c-240-bce/. Accessed 23 November 2023.]
+
+And Judea went to the Ptolemies. But not for very long. In 200 BC, the Seleucids went to war with the Ptolemies in the Battle of Panium and won, among other things, Judea. So far, the Jews had enjoyed reasonable autonomy, especially in the area of faith. Under the new Seleucid overlords, this would change.
+
+A vigorous phase of Hellenization ensued. More and more Jews started adopting Hellenistic traditions and even seeing themselves as Greeks. The more conservative orthodoxy saw this as a direct threat to the Jewish identity and resented the development. The conflict between Orthodox Jews and Hellenized Jews came to a head with the desecration of the Temple in Jerusalem, triggering a violent uprising under a man named Judas Maccabeus—the Maccabean Revolt. The revolt won the Jews religious and political autonomy. This is the story of Hanukkah. Although a Biblical account, ample physical evidence exists for the Maccabean Revolt. There are silver drachmas14 and a fortress15 from the time, should anyone wish to dig deeper. We won’t.
+
+The uprising resulted in a self-governing Jewish polity once again. Maccabeus’ brother Simon Thassi became the first ruler of Judea, both as its prince as well as its _Kohen Gadol_ or High Priest. This is what we call the Hasmonean Dynasty. Initially subservient to the Greeks, the polity became fully independent by 110 BC, even if for a mere forty-seven years before once again capitulating to a foreign power. These, however, were forty-seven most eventful years for the Temple. Simon Thassi was succeeded by his son John Hyrcanus whose reign is best noted for the Temple’s first major expansion.16 He also reached out to the Roman Republic and sent embassies to Rome where his dynasty’s independence was duly recognized.
+
+John was succeeded by his son Aristobulus I. He became the first of his dynasty to assume the title of King. This made some sects, like the Pharisees, very angry who saw it as sacrilegious. According to them, the kingship of Judea only belonged to King David’s bloodline. None of this mattered anyway because Aristobulus died the very next year, succeeded by his brother Alexander Jannaeus. Interestingly, despite having a Pharisee wife, Parisee persecution remained a hallmark of his 27-year reign. For a while after Jannaeus’ death, this Pharisee widow ruled as queen regent. The real trouble for the Hasmonean line came after her death because she left behind not one but two contenders for the throne—Hyrcanus II and Aristobulus II. Although she had named the elder son Hyrcanus her successor, Aristobulus wasn’t keen on accepting him as the King of Judea. A civil war ensued and both brothers ended up involving the Romans. Each solicited Roman intervention to help their respective ambitions. This would prove fatal to Hasmonean autonomy.
+
+## Phase 5: Roman
+
+A decisive turning point in Jewish history came in 63 BC when the Roman general Pompey conquered Syria and Palestine in response to a request for intervention from two Hasmonean dynasts. The dynasty continued to rule, but now under Roman suzerainty. To repeat, although the land was inhabited and administered entirely by Jews who called it Judah, the Greeks called it Palestine. The Romans, however, proved far more tolerant of alien religions and let the Judean land be Judea and practice Judaism. So long as they paid their taxes and regarded the Caesar, of course. This phase would last four eventful centuries with a three-year Parthian interruption.
+
+It’s under this regime that Judah corrupted to its Roman name Judea. Palestine ceased to exist even as a name on the map. For now. Around 20 BC, King Herod of Judea commissioned yet another expansion of the Temple Complex, its final expansion. The project is said to have lasted about a decade and doubled the area from seventeen to thirty-six acres. It’s for this reason that the Second Temple is also sometimes called Herod’s Temple. In 6 AD, Roman Emperor Augustus moved the Judean administrative seat from Jerusalem to the ancient Phoenician port city of Caesarea Maritima. He also merged Judea, Samaria, and Idumena into a single administrative unit named Provincia Iudaea. In the interest of brevity, we’ll stick to Judea.
+
+We know Nero as the man who played his harp (or was it flute?) when Rome burned. Well, there’s something else too. Under his rule, taxation became increasingly untenable, thanks to his impractical civic ambitions. The pain proved particularly sharp in Judea. By his twelfth regnal year, the Judeans were already on the verge of rebellion. All they needed was a nudge. And that nudge came from a local governor who plundered the Temple to make up for their tax shortfall. The First Jewish–Roman War, sadly and expectedly, didn’t end well for the Jews. Rome won, although Nero didn’t live to celebrate the triumph. The Jews lost not just the war but the very Temple they fought the whole war for. Rome commemorated the victory by building the famous Arch of Titus in Rome. Traditionally the destruction of the Temple is dated to 70 AD.
+
+Thankfully, Judea still remained Judea and the Jews still retained their right to practice Judaism. Too bad there was no temple left to do it in anymore. Of course, another rebellion was only a matter of time. Things turned exceptionally worse under Emperor Hadrian who may or may not have held the Judeans in contempt. It had been almost seventy years since Jerusalem’s destruction by Titus. The city had remained in ruins all these years. Hadrian wanted to change that. So he rebuilt the city but gave it a new name, Aelia Capitolina. Aelia was his family name. Just as Alexander had Alexandria, Hadrian had Aelia Capitolina. In the new city, he also built a Roman temple dedicated to Jupiter. Problem is, it stood exactly where the Second Temple once was. As part of Roman rituals, they even started the practice of sacrificing pigs in the temple precincts.
+
+A clear affront to their sentiments, Judea rebelled once again. And lost. We call this the Bar Kokhba Revolt after the man who led it, Simon bar Kokhba. This loss would prove particularly costly, for earlier, only Jerusalem was renamed but now, Hadrian renamed Judea itself.
+
+To Syria Palestina.
+
+To make things worse, he also expelled all Jews from Aelia Capitolina or Jerusalem. Experts disagree on the motivations behind the renaming. Two theories exist, both equally viable:
+
+  1. Hadrian, like most Romans, was a big fan of all things Greeks and hence picked a name they’d used unofficially during their time (recall Herodotus).
+
+  2. Hadrian just wanted to erase all cultural, etymological, and nominal links between Jews and Judea as a retribution for their audacity.
+
+
+
+
+Which of the two holds, is more a matter of educated speculation and ideological biases than concrete science. We won’t bother investigating as it isn’t material to this story. Many of the expelled Jews, meanwhile, ended up in Rome possibly as slaves. This was the second Jewish exile, after the first one in Babylon. This time, however, the exiles were allowed to return to Jerusalem once every year, on the day of Tisha BʾAv. That’s the day on which both Solomon’s and Herod’s Temples were destroyed in Jewish traditions. This arrangement lasted a couple of centuries before Rome started split into a Western realm with capital in Rome and an Eastern realm with capital in Byzantium. A few decades down the line Emperor Constantine renamed Byzantium to Constantinople. This was in 330 AD. By the end of the century, the split was complete. And with that, the Roman era comes to an end and the Christian era begins, although the latter was still a Roman-ruled period.
+
+## Phase 6: Byzantine
+
+Although we have chosen to call this the Byzantine phase, it’s a bit of a misnomer because the city it’s named after had already become Constantinople before the era began. Interestingly, only five years before Byzantium was renamed to Constantinople, Aelia Capitolina was renamed back to Jerusalem. This happened when Constantine formalized Christianity with the First Council of Nicaea. The Holy City was once again Holy, but as a Christian patriarchate. Jerusalem became a hot pilgrim destination for Rome’s newly-minted Christians. Especially after the construction of the Church of the Holy Sepulcher on Calvary in 335 AD. Paganism having fallen out of imperial favor, Hadrian’s temple to Jupiter was demolished too.
+
+Unfortunately, none of this meant much to the Jews in exile because the exile remained in place and rebuilding the Second Temple remained out of question. The name of the region, too, remained Syria-Palestina as given by Hadrian. Neither Constantine nor his successors bothered fixing that. They did bring about a massive reorganization of the region, though. What was hitherto Syria-Palestina was now a collection of three smaller administrative units—Palestina Prima, Palestina Secunda, and Palestina Tertia or Palestina Salutaris. Prima covered the lion’s share taking up the central region, including Judea and Samaria, along with the entire Mediterranean coastline. Caesarea Maritima, the erstwhile capital of Syria-Palestina became its capital. Secunda covered much of the lower Jezreel Valley and what’s today Golan Heights and northern Jordan. Its capital was the city of Scythopolis, today’s Bet She'an. Finally, Tertia, or Salutaris, covered most of Negev and Sinai with its capital in Petra. While Palestina Secunda was dominated by Ghassanid Arabs who followed Christianity, Palestina Tertia was essentially a polytheistic Nabataean stronghold. On the other hand, Byzantine Christians and Samaritans whose religion is often considered a subset of Judaism.
+
+For about three centuries from here, the region, the city of Jerusalem in particular, would remain a Christian stronghold. At one point a silver lining showed up when Constantine’s nephew Julian ascended to the Roman throne. In a sharp departure from his predecessors’ Christian hardline, he made genuine efforts to bridge the gap with the non-Christians in his realm. He even wrote a letter to the Jewish Patriarchate inviting them to return to Jerusalem and rebuild their temple.17 This, however, never worked out because he died only two years after the letter. Before the Jews could act, the throne had gone to Jovian who was a Christian hardliner and went out of his way to undo every outreach effort made by his predecessor.
+
+By now, the Persians had gone from Greek Seleucids to Zoroastrian Sassanids, with a brief Parthian interlude in between. This new eastern polity emerged as a formidable rival to the Byzantines in the west. Stuck in the crossfire between the two was the Near East. The Jews, meanwhile, still longed to return home and pray in Jerusalem. Some saw a natural ally in the Sassanians. So when a big war broke out between the Byzantines and the Sassanians in the early years of the seventh century, they sided with the latter and declared independence from Rome.
+
+[![](https://substackcdn.com/image/fetch/$s_!oe5o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fa3150-b57f-4396-b234-e308027ed578_2069x1175.png)](https://substackcdn.com/image/fetch/$s_!oe5o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fa3150-b57f-4396-b234-e308027ed578_2069x1175.png)**Fig. 3** : The Jews seeking a way out of the Byzantine tyranny saw a useful ally in their Sassanian neighbors when the two empires collided. [courtesy Tahir Kamran in “Absolutism and dissent among Muslims — I,” _The News on Sunday_ , 25 October 2020, https://www.thenews.com.pk/tns/detail/734105-absolutism-and-dissent-among-muslims-i. Accessed 23 November 2023.]
+
+With this declaration, Jews defied the 500-year-old ban by Hadrian and streamed into Jerusalem to reclaim their sacred space. No more taxes were paid to Constantinople. This was their last serious bid for sovereignty. Although technically Jerusalem was still a vassal to the Sassanians, not having to pay taxes to the Romans was a big relief. Besides, and most importantly, they were now free to rebuild their Temple, something they even started doing.
+
+But the new structure could never be completed, for only fifteen years later the Romans came back, drove out the Sassanians, and retook Jerusalem. Jews were once again expelled. Of those who remained, many were forcefully converted to Christianity while many more were massacred. Many fled to Egypt. This massacre is still recognized by the Copts of Egypt who observe an annual remembrance called the Fast of Heraclius.18 Heraclius was the Roman overlord on whose watch the massacre took place. At this point, there were practically no Jews left in Syria, Palestine, or Anatolia. Not on record anyway. The partially-built temple was destroyed and the site turned into a garbage dump.
+
+By the way, how do we even know the First and Second Temples stood on what’s now called the Temple Mount? Since the entire dispute over this space hinges on that being the case, it must be above doubt. But is it? Park this question, it’d become extraordinarily important as we enter the final phases of our story.
+
+## Phase 7: Arab
+
+634 AD is where our story enters its Muslim phase. At this point, we must reiterate that so far, there’s never been a sovereign state of Palestine under an “indigenous non-Jewish regime” and that the Philistine gene pool disappeared over a thousand years ago.
+
+Umar, the second Rashidun Caliph, inherited the entire Arabian peninsula thanks to a wildly successful military campaign by Muhammad called the Ridda Wars. Keen on expansion, he conquered the Levant by the year 638. Tradition also holds that he personally visited Jerusalem but many dispute that. Umar’s first course of action was to invite the Jews to return to Jerusalem. Just as Cyrus had ended the first exile more than 1,100 years earlier, Umar ended the second. The last Levantine city to be conquered was Caesaria which was also made the regional administrative seat. The whole tradition of Umar’s Jewish outreach and rehabilitation comes from a document called Umar’s Assurance or _al-Uhda al-Umariyya_ (not Pact of Umar or _al-Shurut al-Umariyya_ as often thought). Anyway, the Jews were once again back in Judea and Jerusalem.
+
+There are theories that Umar actually upheld the banishment of Jews from Jerusalem but those are based on al-Tabari’s translation from the tenth century, indicative of a changing political landscape then, rather than the realities of seventh-century Jerusalem.19 Under the Arabs, Jerusalem started being referred to as Ilya, a corruption of Aelia. One would note that as a hangover from Hadrian’s time and wonder why a ruler sympathetic to Jews and who ended their exile would adopt a name given by the very man who ordered the exile.
+
+An important disclaimer regarding these early Arab leaders including Umar is that everything stated here is what comes down from tradition as the historicity of the whole Rashidun line has been called into question, something we needn’t do for the purpose of this discussion.
+
+Umar was killed by a disgruntled slave ten years into his reign and succeeded by Uthman, under whom the Qurʾan is said to have first been canonized. Again, tradition, not history. This canon is known as Uthmanic or Quraishi Codex. They say he ordered all other codices burned. Of course, this wouldn’t be the last such canonization but only the first of at least five on record. Now here’s something interesting about the Qurʾan across all five canons including this one: No mention of Jerusalem.
+
+Not one.
+
+It does speak of an al-Aqsa Mosque but stops short of locating it. Masjid al-Aqsa simply means the farthest mosque. But didn’t Muslim worshippers face Jerusalem before the _hijra_ (Muhammad’s flight to Medina)? We’ll come to that shortly. First, let’s deal with the al-Aqsa conundrum. The mosque is mentioned in the famous story of al-Israʾ or the Night Journey in verse 17:1. In the story, Muhammad flew from Masjid al-Haram to Masjid al-Aqsa riding a magic mule named Buraq, met all earlier prophets and led them in prayer, and then proceeded onward to Heaven for a rendezvous with Allah. That’s the story. No mention of either Mecca or Jerusalem. But that verse is the only evidence ever advanced for a Jerusalem _qibla_ or direction of prayer. Exactly who took the call to read Masjid al-Haram as Mecca and Masjid al-Aqsa as Jerusalem here?
+
+A man named ibn Sa‘d seems to be the oldest candidate.20 Interestingly, however, ibn Sa‘d lived more 1,200 miles away from Muhammad’s Mecca and came more than two hundred years after him. That’s a lot of separation in both space and time for something this crucial. That said, it shouldn’t be unlikely for Muhammad to be aware of Jerusalem, him being a successful merchant after all. The question, however, remains, was there an al-Aqsa Mosque in Jerusalem before Muhammad’s hijra? Or even during his lifetime?
+
+Not really. Not only no al-Aqsa Mosque but no Islamic structure at all. When Umar entered Jerusalem, they say, he built a mosque not far from the Church of the Holy Sepulcher. However, the Mosque of Omar that now stands there was built by Saladin more than five hundred years after Umar and there’s no material evidence whatsoever of the original. Some even claim the pre-Meccan qibla was Petra and not Jerusalem, but we won’t get into that debate.
+
+Now before we continue with Jerusalem, let’s take a quick detour back to Arabia. A lot seems to be going down there as we speak. Uthman’s reign was violently terminated by an assassination that inaugurated the First Fitna, a bloody five-year power struggle between two factions led by Ali and Muʿawiyah. In the end, Muʿawiyah emerged victorious, ended the existing caliphate, and launched a new one, the Umayyad Caliphate. Toward the fag end of the Fitna, he had entered alliances with several local warlords to shore up military support against Ali. Among them was ‘Amr ibn al-‘As, governor of Egypt. This deal is pertinent to our story.
+
+The Rashidun had always governed from Yathrib or Medina. That would change now. Muʿawiyah moved base to a new city called Damascus. This was a strategic move meant to give him a better jumping board for any future campaigns against the Byzantines next door. Damascus made sense also because before his Caliphate, Muʿawiyah was the governor of Syria, so the new capital was familiar terrain, a safe space of sorts. In those days, this was an extraordinarily crucial advantage. Now back to Jerusalem, the city Muʿawiyah chose for his coronation.
+
+We know that Umar is said to have built a mosque in Jerusalem, some say on the Temple Mount itself. If true, that’d be toward the end of the 630s. It’d also establish a material presence of Islam on the Mount immediately after Muhammad’s death.
+
+If true.
+
+But the only source of this claim is a Gaulish monk named Arculf who visited Jerusalem and reported a square _orationis domum_ or house of worship built by the Saracens on Temple Mount, Saracen being an archaic derogation for Arabs, eastern Arabs in particular. And how do we know about this “eyewitness account”? Through an Irish monk named Adomnán. In his work De Locis Sanctis, Adomnán speaks of hearing the account first-hand from Arculf. He claims he hosted the Gaulish Bishop when the latter was shipwrecked on his way back from the Holy City.21 But funny enough, there’s no evidence of a man named Arculf to begin with. No bibliography, no letters, no first-person account. Only second-hand corroborations, that too from only Adomnán and Bede the Venerable. Add to it the various factual errors in De Locis Sanctis and the question becomes, was Arculf a figment of Adomnán’s imagination?22
+
+There’s one more problem but to understand it, we must understand the Temple Mount, Haram al-Sharif to Muslims. A subset of the much larger Old City of Jerusalem, this 35-acre walled space is the single most contested piece of real estate in the world. The Church of Holy Sepulcher, next to which Umar is alleged to have built his mosque, is actually _outside_ the walls.
+
+[![](https://substackcdn.com/image/fetch/$s_!IayL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a5098c-88c7-44c6-8162-d423d9bd38d2_640x719.jpeg)](https://substackcdn.com/image/fetch/$s_!IayL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a5098c-88c7-44c6-8162-d423d9bd38d2_640x719.jpeg)**Fig. 4** : A simplified map of Old Jerusalem with the Temple Mount; note how far the Church of the Holy Sepulcher is from the al-Aqsa Mosque. [courtesy Amanuel Neguede in “AFP graphic showing Al-Aqsa Mosque in Jerusalem,” _AFP Fact Check_ , 28 June 2020, https://factcheck.afp.com/doc.afp.com.32DD4JH. Accessed 23 November 2023.]
+
+While there’s simply no evidence of the original, there does exist a mosque at the spot, the one Saladin built—the Ayyubid Mosque of Omar. This twelfth-century mosque (again, there’s no evidence of an earlier mosque at the spot) stands opposite the southern courtyard of the Church of the Holy Sepulcher, far from the Western Wall, even farther from the al-Aqsa Mosque which is on the southern end of the Mount. So, when our imaginary Arculf describes a “Saracen mosque that could accommodate 3,000 worshippers” inside the Temple Mount, it certainly couldn’t be the one built by Umar, if at all. Unless Saladin was wrong in locating the alleged structure.
+
+Now let’s enter the Mount, with the Umayyads. The first time we have a Muslim structure in this space that can be accepted as historically attested is the Dome of the Rock or Qubbat as-Sakhra which was built by the fifth Umayyad Caliph Abd al-Malik during the Second Fitna. This Fitna was a follow-up to the first, this time between Muʿawiya’s descendants and those of Ali. As to why al-Malik built the Dome, two theories exist, both equally plausible. The first posits the structure as a power move against a rival Caliph. This Fitna was a little more complicated than its predecessor. This time, it was not just Ali’s descendant Hussayn and Muʿawiya’s descendant Yazid but also ibn al-Zubayr. A three-way conflict. While Ali’s camp was dealt with quickly, it’s al-Zubayr that proved harder and dragged the war longer. Remember, Muʿawiya had moved the caliphal seat to Damascus. Now al-Zubayr announced a rival caliphate in Mecca. Mecca being the most sacred of all Islamic spaces, al-Malik badly needed a doctrinal counterweight. And he chose Jerusalem, the seat of the Abrahamics.
+
+The other theory is that Abd al-Malik was also in conflict with the Byzantines in Syria and upon triumph, he built the Dome to commemorate his subjugation of the Christian world at least in his vicinity. Don’t forget, Rome (Constantinople) was still the political Holy Grail. Be that as it may, the Dome is unanimously dated to 691 AD, seventy years later than Muhammad’s alleged Journey. Note that we still haven’t reached the al-Aqsa Mosque. Let’s dwell on the Dome a little longer. Inside the structure are four inscription sets, all verses from the Qurʾan in the now rare Kufic script, that we must consider before any dismissal:23
+
+  * One on the inner arcade walls,
+
+  * One on the outer arcade walls,
+
+  * One copper plate at the eastern entrance, and
+
+  * One copper plate at the northern entrance.
+
+
+
+
+[![](https://substackcdn.com/image/fetch/$s_!Ql16!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff58049ef-ef6c-4c10-89e8-cc5a9fa3f6ce_600x599.jpeg)](https://substackcdn.com/image/fetch/$s_!Ql16!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff58049ef-ef6c-4c10-89e8-cc5a9fa3f6ce_600x599.jpeg)**Fig. 5** : The inner and outer octagonal arcades of the Dome of the Rock; The double-ambulatory plan allowed the visitors to read the decorative inscriptions on the walls. [courtesy Moshe Sharon in “Islam on the Temple Mount,” _Biblical Archeology Society_ , July/August 2006, https://library.biblicalarchaeology.org/article/islam-on-the-temple-mount. Accessed 23 November 2023.]
+
+The Journey appears in Surah al-Israʾ, as its first verse, 17:1. A verse from this Surah even appears among the Dome’s inscriptions, on its outer arcade’s northwestern façade. But it’s 17.111,24 not 17.1.25 The only place the verse occurs in the structure is in the portico, an extension that was built in 1876, more than a thousand years after Muhammad died.26 Given the immense significance of this event in Muhammad’s life, one would expect it to find at least one mention in a structure built this close to where it’s claimed to have happened? Sure the Dome doesn’t commemorate the Journey, it’s not a mosque, but still a conspicuous omission given it’s the only Islamic structure on the Mount from that era.
+
+Now let’s turn to the big one, the al-Aqsa Mosque. Abd al-Malik was succeeded by his son al-Walid as the eighth century rolled in. This is the guy who founded Ramla or Ramallah as the new Levantine administrative seat. And this is the guy who built the al-Aqsa Mosque. The mosque came up in 715 AD. Note that we’re already close to a century away from Muhammad’s alleged Journey. Two ways to read this. If Uthman’s Qurʾan is a historical reality, its al-Aqsa (of 17:1) is a metaphysical place and the structure by al-Walid is a clever retrofit. Or, if the al-Aqsa of the Qurʾan is the al-Aqsa of al-Walid, then there’s no Uthmanic Codex and the whole Night Journey is a post-Muhammad, post-Rashidun fabrication. Anyway, given the name of the structure, it’s only fair that it bear at least one reference to 17.1 among its inscriptions. And sure enough, it does. But that inscription only came from the Fatimids as late as 1035 AD,27 over four centuries after Muhammad died.
+
+About half a century after the Second Fitna came the Third, which finally ended the Umayyad joyride. A splinter line did survive in Spain as the Emirate of Córdoba, but the mainstream now belonged to the Abbasids. The Caliphal seat now moved to Iraq. It’s only under this regime that the associations between Jerusalem and the Qurʾanic al-Aqsa begin to emerge, the first coming in the ninth century in a book by one ibn Hisham. Sometime before 830 AD, he produced what he called a recension of an older biographical work called Sirat Rasul Allah. In this, he named Jerusalem the site of al-Aqsa. But this is just a recension, what about the original? That’s by another man called ibn Ishaq. There are three reasons this still doesn’t help antiquate the association: a) ibn Ishaq was born seventy-three years after Muhammad died, b) his original does not survive and the only reason to believe it even existed is that ibn Hisham (and al-Tabari) said so, and c) ibn Hisham is known to have heavily altered and redacted the so-called original.28 Even if we were to treat the alleged work by ibn Ishaq as authentic in its current form, questions around the Jerusalem association remain as the author himself presents the story as hearsay and suggests caution to the reader.29
+
+By the tenth century, Jerusalem had two names in the Arab world: Iliya and al-Quds. The first time the third holiest city of Islam finds mention in any Islamic text by any of its three names—Jerusalem, Iliya, al-Quds—is only centuries after Muhammad. Anyway, we don’t have much else to report from the first millennium. Nothing remarkable.
+
+The second millennium came with a bang. the first century brought two disasters: an earthquake that leveled Ramallah, and the First Crusade. With the latter, Jerusalem reverted to Christian hands for the first time since Sophronius. Jews and Muslims were both slaughtered wholesale. By the time things settled, Jerusalem was an autonomous Christian kingdom. But it wouldn’t last forever. By the end of the century, a Second Crusade brought Jerusalem back to the Muslims. This time, it was Saladin, the man who built the Mosque of Omar that we discussed earlier.
+
+With Saladin, Jerusalem’s Islamification was complete. All Christian symbols were removed from the Temple Mount. He even converted Hebron’s Machpelah or the Cave of the Patriarchs into a mosque, although he did allow Christians and Muslims to pray there. The Cave of the Patriarchs is the resting place of Abraham, his son Isaac, and grandson Jacob (or Israel), collectively called the Patriarchs. And their wives, Sara, Rebecca, and Leah respectively. But not Rachel. Needless to say, its Islamization was a body blow to the city’s Jewry.
+
+The thirteenth century brought to the Arab world an unprecedented, otherworldly violence from the east—the Mongols. With the Sack of Baghdad, the Abbasids shrank to a fraction of their former influence, never to recover. It was also curtains for the so-called Golden Age of Islam. Once weakened, the Caliphate opened up to internal fractures too. The Abbasids had employed thousands of Islamized Turkic warrior slaves from Central Asia to fight their myriad battles. Unlike slavery elsewhere, the system here allowed free vertical mobility for the ambitious. Over time, many of these rose up the ranks to become generals and governors. When the Mongols struck, these Turkic nobles saw a tempting window of opportunity to elevate themselves. The Arab hegemony was effectively over.
+
+## Phase 8: Turkic
+
+At first, it was the Seljuk Turks, then Khwarezmian Tartars, with several in between. In 1244, the Khwarezmians sacked Jerusalem and expelled all non-Muslims. But they didn’t hold very long. Soon the entire region of Palestine came under Mamluk rule. Mamluks were originally Turkic slaves who had risen up the ranks in the Abbasid regime and become governors, especially in Egypt. Now they had Jerusalem. By this point, we’re already through six crusades.
+
+Under the Mamluks, Jews were allowed to be in Jerusalem but still forbidden from the Temple Mount. In 1267, a similar ban was extended to the Cave of the Patriarchs where Jews were forbidden from everything beyond the seventh step. The ban at Hebron remained in place even under the Ottomans and later, the British. Meanwhile, Palestine remained under Egyptian rule for a good three hundred years. Just as it had been three thousand years ago. Toward the end of the Mamluk period, a peculiar new development emerged—the Halakhic prohibitions.
+
+Halakha is as old as the Torah, so not exactly a novelty. But this application was. But what’s Halakha to begin with? Well, think of it as the Jewish counterpart to Shariʿa. Both words translate into “the path.” The more familiar Ten Commandments are just a tiny subset of the Jewish rulebook. The Torah is said to have more than six hundred additional rules for its followers, from how to cut your hair to which sock to wear first. It essentially legislates every aspect of a Jew’s life. These rules are collectively called Halakha. Of course, not all Jews follow all or even most of these. Some do—the Haredi. Among the things Halakha prohibits is entry to the inner sanctum of the Temple in a state of “ritual defilement.” Only the high priest could and only on the day of Yom Kippur, for the sanctum housed the Ark of the Covenant in the First Temple.
+
+The inner sanctum of the Second Temple remained empty since the Ark was lost after the destruction of the First. But the tradition endured. Even though there was no Ark, its memory lived on and that memory had to be honored. Then the Second Temple came down as well. Now, there was no temple and no inner sanctum. Since this time they never got to rebuild, people forgot exactly where the temple or its sanctum even stood. They knew it was on the Mount but not exactly where on the Mount. Therefore, over centuries, Jewish priests expanded the Halakha prohibition to the Mount itself, lest one step onto the spot unawares. But since there was no physical temple anymore, this particular prohibition diminished over time to a mere relic of tradition. Yes, there was a prohibition, but little was done to enforce it.
+
+Toward the end of Mamluk rule, the Jewish priesthood decided to change that. The Halakhic code was reiterated. Even then not many heeded. It’s the Islamic ban that was harder to defy. While defying the Jewish high priest didn’t attract corporeal punishment, defying the Muslim governor did. How do we know this? Because a rabbi said so. In T'shuvat Ha-Radbaz (volume 2, Teshuva 691), Rabbi David ben Shlomo wrote that large portions of the Temple courtyard were perfectly accessible to and visited by Jews.30 This was the late fifteenth century.
+
+In 1516, the Mamluks fell to yet another Turkic force, the Ottomans. As did Jerusalem. The ban on Jews at the Mount remained. By now, a large number of them had settled in Europe for centuries, a large number in Spain—Sephardic Jews. In 1492, these were asked to leave. Or convert. Or die. The infamous Alhambra Decree was the first order of business once Spain reverted to Christianity after an 800-year Muslim rule. While they had few places to go, the fall of Jerusalem to the Ottomans proved to be an unlikely window of opportunity. When Bayezid II took the Ottoman throne, he decided to bring back the Jews to their lost homeland. In a heartbeat, thousands of Iberian Jews streamed into Palestine. When the West rejected them, the Muslims embraced them. But why?
+
+Many reasons come to mind. It could be to counter the remaining Arab influence in the region. Remember, the Arabs didn’t like Turks very much. It could also be to utilize the vast mercantile expertise of European Jewry. A counterweight to the Catholic hegemony even. It’s tempting to read this as an act of honest generosity with no hidden agenda. It may be right too. But a closer examination of the rights accorded to the Jews in the Ottoman regime hurts that position. Don’t forget, the ban on non-Muslims at the Temple Mount still stood. A noble Bayezid, however, didn’t want to keep them away from their holy spot. So he decreed that although they still couldn’t enter the citadel, they could at least pray outside the Western Wall if they so wished. The tradition continues to this day. The Temple courtyard still remained off-limits. Due less to Halakhic and more to Islamic laws. We’ll revisit this in a bit but first, some spotlight on the civil rights accorded to the Jews during Ottoman occupation.
+
+The first set of restrictions pertains to dressing. Non-Muslims couldn’t wear cheesecloth. Or silk. Or white. Or green. In fact, they were forbidden to wear anything that wasn’t darker than what the Muslims wore. They also couldn’t iron their clothes. that was a Muslim privilege.31 If riding, they were obliged by law to unmount on the pavement upon encountering a Muslim.
+
+There were building restrictions too. Jewish homes had to be at least two _ziras_ or five feet shorter than Muslim homes.32 Jews also couldn’t build synagogues or even homes anywhere in the vicinity of Mosques or Muslim graveyards.33 Jews, and non-Muslims in general, couldn’t employ Muslims although the other way around was perfectly legal.34 This was to obviate a situation where a non-Muslim held any kind of superiority over a Muslim.35
+
+These rules were enforced with varying degrees of severity under various Sultans but they were there nonetheless. Even under those considered “liberal.” For instance, a decree banning the construction of any new synagogue was issued by none other than Bayezid II,36 the very dude who had evacuated the exiles from Spain. The one banning Muslim servants came from no less than Suleiman the “Magnificent.”37 Were these rules flouted? All the time. That’s what people do, they break rules. But that doesn’t make the rules tolerant. Now back to Temple Mound.
+
+We’ve already seen that non-Muslims were barred from the space even under the most charitable of Ottomans. But what if you got caught sneaking in anyway? In 1551, a group of allegedly drunk men and women found out just that. Not on the Temple Mount but on the roof of a madrassa overlooking the Mount. The judge ordered the men lashed, not for drinking but for looking at the Mount.38 Absurd as it may sound today, Jews in the Ottoman realm were liable to be lashed or jailed for merely catching a glimpse of their faith’s single most sacred spot. This wasn’t the last such instance, many more followed.39 For centuries, there were armed sentries whose sole job was to keep non-Muslims away from the Temple Mount.40
+
+Jerusalem wasn’t the only site of such apartheid. Remember the Cave of the Patriarchs in Hebron? If you’d recall, Jews had already been banned from the space under the Mamluks. They could only go as far as the seventh step. This ban too continued under the Ottomans. Beyond the seventh step was off-limits to every Jew, however privileged, under every Ottoman regime.
+
+By the second half of the nineteenth century, the Ottomans had lost much in both influence and might. The Crimean War with Russia ended in victory, yet failed to elevate Turkey’s situation. After the 1856 Treaty of Paris, as part of the broader _Tanzimat_ reforms, Turkey ended the _Dhimmi_ system and with it, the ban on Jews at the Temple Mount. Except on Fridays. They still needed a permit though. This was no act of inherent doctrinal charity as the Ottomans were egged into liberalism by their British allies in the Crimean War.41 As an aside, so far, all of what’s today Syria, Palestine, Lebanon, Jordan, Iraq, and Saudi Arabia, was part of the Ottoman realm—no independent sociopolitical identity, all Ottoman subjects. This sidenote is extremely important and it’ll soon be apparent why.
+
+Even if forced by circumstances, there was a clear outreach from the Sultan’s end. Things looked positively upbeat. Unfortunately, not for long. To know why, let’s take another quick detour and understand the concept of “Second Coming.” A common factor across all Abrahamic eschatologies is the idea that the Messiah will return to the mortal world during the end times. Sometime before the Judgment Day. But the schedule for this Second Coming isn’t very universal. One section of Jews and Christians place it in the Hebrew year 5600 which corresponds to 1840 AD.42 See where this is going?
+
+So in their notion, God would send the final Messiah to the land of Israel in 1840. As the year drew closer, naturally, the idea caught steam. While it’d be wrong to say this was the biggest driver, the first half of the century indeed saw many Europeans and Americans migrate to the land of Israel in anticipation of the prophecied Messiah. Many families sold their farms and used the money to buy properties in what they called “the Promised Land.” Jewish and Christian settlements started springing up all over Palestine, especially in cities like Safed, Hebron, and Jerusalem. At first, most of these were from Germany. When 1840 came to pass and no Messiah showed up, many Jews left in disappointment but some stayed back anyway. Many Christians stayed back too. One such community was in Jaffa, managed by British missionaries.
+
+Ten years later, Johann Grosssteinbeck arrived in Jaffa. If the name sounds familiar, that’s because his grandson John Steinbeck wrote classics like The Grapes of Wrath and Of Mice and Men. Johann took work as a carpenter and saved enough to buy an orchard and a home for his family. Life was hard but peaceful. Although every settler property had been purchased with money and involved no duress, some Arabs saw this as a demographic encroachment. Much like the Jews had back in Mamluk times. Except, there was no forced expulsion of Arabs this time, only lawful trade of property. Be that as it may, the animosity between Arab locals and non-Arab settlers continued to brew. A violent eruption was only a matter of time.
+
+Then came January 11, 1858. The night is now called the Outrages at Jaffa. At about 10 that night, a band of armed Arabs stormed into the settlement and proceeded to pillage every house. Women were gang-raped, men were killed. By the time they were done, all was gone.43 Johann escaped and later came to America. He had lost his whole family. It’s in America that he shortened his last name to the now-familiar Steinbeck.
+
+The Outrages at Jaffa was no isolated incident. Several such settlements were attacked and left in ruins during this phase. We will discuss some of those briefly as we go along. Not all visitors to Palestine were settlers though. Far more than settlers were pilgrims who just wanted to see Jerusalem and Hebron once before they died. They didn’t intend to stay. Among them was the author Samuel Clemens who was just beginning to be known as Mark Twain.44 He visited the place in 1867 and upon return, described Jerusalem as “mournful, dreary, and lifeless”45 and Palestine in general as “a hopeless, dreary, heart-broken land.”46 In short, neglected.
+
+That’s the state of the world’s most contested territory under the Ottomans. Speaking of contested, even the Temple Mount or Haram al-Sharif, wasn’t spared the dereliction. Ironic given the amount of effort they put into keeping non-Muslims out of it. An 1875 photograph of al-Aqsa Mosque shows grass and weeds growing all around it.
+
+[![](https://substackcdn.com/image/fetch/$s_!aKTj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41ca82f-e913-40e7-ab05-43343986a437_470x600.png)](https://substackcdn.com/image/fetch/$s_!aKTj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41ca82f-e913-40e7-ab05-43343986a437_470x600.png)**Fig. 6** : A picture of the Tome of the Rock taken in 1875; notice the broken tiles, the grass, and the overall disuse and dereliction. [courtesy Emanuel A. Winston in “Dome of the Rock,” _Eretz Yisroel_ , 7 January 2001, http://templemountlocation.com/templeMountHistory.html. Accessed 23 November 2023.]
+
+The last two decades in the lead-up to the twentieth century saw the first significant wave of Jewish immigration—the First Aliyah. This was the result of large-scale pogroms and a spate of anti-Jewish legislation in the Russian Empire. Most immigrants were East European. A total of 25,000 Jews are estimated to have settled in Ottoman Syria (officially called Damascus Eyalet and encompassing Palestine). Some twenty-eight Jewish settlements or _moshavots_ came up in Palestine in this twenty-year window. Again, all purchased, not encroached. It’s also in this window that the idea of Zionism took shape.
+
+1897 was the year of the First Zionist Congress that aimed to settle European Jews in their traditional homeland. The movement was as religious as it was nationalistic and was triggered mostly by European antisemitism. Having said that, it’d be patently dishonest to claim that this Aliyah did not have any imperialistic motivations. Every orchard, every farm, and every home that the Jews acquired was a fair purchase. But behind this purchase was an undeniable demographic agenda. The agenda has been confirmed even by the _Old Yishuv_ or pre-Aliyah Jews47 of Palestine in particular and Ottoman Syria in general. This is where the antagonism between Arab Muslims and settler Jews began to acquire a political tone.48 Before this point, it was mostly social.
+
+It is often said that since the First Aliyah predates the First Zionist Congress, it cannot be attributed to Zionism. That too would be a tad less than honest, for Zionism as an idea came long before Zionism as an organized movement. Remember Return to Zion from 500 BC? The First Aliyah was almost immediately followed by a Second. This was also mostly from Russia and mostly for the same reason. This is when the first _kibbutzim_ emerged. And the city of Tel Aviv. About 30,000 Russian Jews had made Palestine home between 1904 and 1914.
+
+It’s against this backdrop of Russian antisemitism that an ultra-nationalist journalist published, in 1905, a most enduring piece of propaganda in the Russian language—the Protocols of the Elders of Zion, a collection of fabricated meeting reports detailing a Jewish conspiracy for world dominance. Sometime during the Second Aliyah, the Ottomans abolished—more accurately, were forced to abolish—the permit system for non-Muslim visitors to the Temple Mount. Then came WWI and the Ottomans sided with the Germans. Britain was an ally in the Crimean War, now it was an adversary. Bad move for the Ottomans.
+
+Just as Germany would come to be occupied and carved up by the Allies after the Second World War, Ottoman Turkey was occupied and carved up by the Allies after the First. The Arab world expressed much excitement at the prospect of finally being free from Turkish hegemony after centuries of rule. The Allies, Britain in particular, presented themselves as the savior of the Arabs. From the evil Turk, of course. But the Ottomans weren’t ousted. Instead, they were reduced to insignificance with their domain severely pruned. The Sultan remained. Wait, before we proceed, let’s take a step back and learn of another crucial development in the Arab world toward the end of the nineteenth century—the occupation of Egypt. The region had been an Ottoman territory since 1517. In 1882, that practically came to an end.
+
+Why and how, isn’t something we’ll get into here. The limited point of the matter is that the carving up of the Ottoman Empire began long before the First World War. So in 1882, Britain occupied Egypt and instead of annexing it, reorganized it as a nominally Ottoman province subservient to Britain. Eyalet-i Misr was now the Khedivate of Egypt. On paper, he reported to the Sultan, but in practice, to a British High Commissioner. One such High Commissioner was a man from Simla named Sir Henry McMahon, best known for the McMahon Line between India and Tibet. Put a pin on this name, for we’ll return to it after a quick detour to what’s today Saudi Arabia. This too was then under Ottoman rule. Not all of it, but the parts that mattered—Hejaz mostly. The rest of the peninsula was mostly desert and sparsely populated anyway.
+
+Hejaz had Mecca and Medina, the two doctrinal focal points of the Islamic world. Mecca was then under a long line of Hashemite patriarchs tracing ancestry to Hashim ibn Abd Manaf, great-grandfather of Muhammad himself. Although politically subservient to the Ottomans. Shaikh Hussein bin Ali al-Hashimi was the Sharif of Mecca in 1915. The Great War was already in session with Turkey and Britain facing each other. Britain started looking to destabilize the Ottomans. That’s what you do in a war, you do all it takes to undermine your enemy.
+
+And now we return to our pin. As part of the maneuvers, McMahon secretly met Hussein and nudged him for an Arab revolt against the Turks. As Custodian of the Two Mosques, the Sharif had all the legitimacy to lead such an uprising. The promise was a unified Arab Kingdom under the Hashemite thumb. The following year, Hussein named himself King of Hejaz. Arabia was no longer an Ottoman province. This was 1916. Another couple of years and the Ottomans lost Baghdad in the Mesopotamian Campaign. Britain was on a winning spree and only getting started. Baghdad had been a prestige city since the days of the Abbasids. While Mecca was the Muslim world’s Vatican, Baghdad was its London. Losing both in a space of two years must have been a terrible blow to the Ottoman morale.
+
+## Phase 9: British
+
+On Oct 23, 1917, the Damascus Eyalet (Ottoman Syria), along with Hejaz, was reincorporated as the Occupied Enemy Territory Administration or OETA. And with that, our story enters its British phase. The Ottoman rule in Palestine had finally come to an end. The new entity was jointly governed by Britain, France, and local Arab figureheads who had successfully revolted against the Ottomans under the Hashemite banner. Note that at first, it was solely the British. The French and Arabs would be roped in only the following year. More on that later.
+
+The following month, Britain made a promise to the Jews of a homeland in Palestine in what’s called the Balfour Declaration. This promise would haunt the region’s geopolitics for decades. Emboldened by the promise, more and more Jews started coming to Palestine. This was problematic because although the Declaration promised no disturbance to the non-Jews native to Palestine, it still ran counter to the earlier promise of a united Arab Kingdom made to the Sharif, now King, of Hejaz. The Arabs saw this as a betrayal. It must be noted that although OETA was governed by Britain, there was still considerable Ottoman influence. For Jerusalem, this changed in December as it came under direct British military occupation.49 Symbolically, this was a moment with immense ramifications.
+
+General Sir Edmund Allenby of the British Army became the first Christian conqueror of the Holy Land since the Crusades. The Western press didn’t forget to highlight the “Christian” bit well in its reportage. A statement was being made. The memory of the Crusades was being played.
+
+[![](https://substackcdn.com/image/fetch/$s_!K-ls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ad9edee-7b08-4f5c-a2a6-f801e5d38e66_1200x1004.png)](https://substackcdn.com/image/fetch/$s_!K-ls!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ad9edee-7b08-4f5c-a2a6-f801e5d38e66_1200x1004.png)**Fig. 7** : A New York Herald report on General Allenby’s conquest of Jerusalem, with the not-so-subtle messaging of a Christian army rescuing the city from the Muslims. [courtesy Eli Ashkenazi in “Family seeks recognition for ancestor forcibly recruited to Ottoman army, died in service,” _The Jerusalem Post_ , 27 December 2022, https://www.jpost.com/middle-east/article-725917. Accessed 23 November 2023.]
+
+Meanwhile, the loss of Jerusalem after Mecca, Medina, and Baghdad was the final nail in the coffin of Ottoman esteem. The Caliphate was breathing its last. The British did to the Turks when the Turks once did to the Abbasids. This was 1917. Only seven more years were left of it. The Balkanization of Ottoman lands was part of another 1917 deal called the Sykes-Picot Agreement. In many ways, this and the Balfour Declaration laid the foundation of all modern conflicts in the Middle East. Now back to Allenby and his plans for Jerusalem.
+
+Eager to appear as friendly to the local Arabs as he could, despite the Crusade rhetoric, the first thing Allenby did was to cordon off the entire vicinity of Mosque of Omar with Muslim sentries from India deployed to stop any non-Muslim from passing through.50 The news was immediately met with widespread outrage from both Jewish and Christian quarters. But why should they clamor for a mosque anyway? Because, turns out, when the British said “Mosque of Omar,” they meant Dome of the Rock.51 Or at times, even Haram al-Sharif itself.52 Which means, the ban on non-Muslims at the Temple Mount which was lifted sixty years earlier, was now being restored. So strong was the outrage it sparked that the order had to be rescinded less than four months later. With orders straight from London.
+
+But it was too late already. 1919 only brought more mayhem to the Levant. The weakening of the Ottomans opened up new opportunities for ambitious Arabs. One by one, they began to act. The opening act was an unrecognized, self-proclaimed Arab Kingdom of Syria under a man named Faizal. Remember that Sharif of Mecca who was tricked by the British into leading the Arab Revolt? His son.
+
+Another big event of this decade was the Third Aliyah. Also from Eastern Europe, just like its two predecessors, this wave brought about 40,000 Jews to Palestine. Many don’t realize that the October Revolution was also a bad phase for Russia’s Jews, an estimated 50,000 of whom were killed in a wave of Communist pogroms. The word pogrom itself comes from Russian. Interestingly, all Aliyahs so far have been from Russia and its vicinity. Just to reiterate, the political entity we’re in right now is still OETA, which includes all of what’s now Israel, Jordan, and Lebanon. Syria just broke free. None of these has ever enjoyed an independent ethno-political identity so far. A quick light on OETA’s administrative makeup is in order before we proceed with the events of 1920:
+
+  1. OETA South (under British administration)
+
+  2. OETA North (under French administration)
+
+  3. OETA East (under Arab administration)
+
+
+
+
+Roughly speaking, South corresponded to today’s Israel, North to Lebanon, and East to much of Syria. Later, North was renamed West and a new territory was added in Anatolia as North, also under French administration. This arrangement wasn’t tenable in the long term. Meanwhile, remember that Russian propaganda piece from 1903? In 1919, someone republished it in English. Thoroughly debunked as plagiarism, forgery, and outright falsehood, The Protocols only gained steam with rising antisemitism both in Europe and the Middle East.
+
+After Sykes-Picot and Balfour, Arabs started looking to throw the European powers out of their respective occupation zones. In OETA North, this meant the French. And that brings us to Tel Hai, a tiny Jewish settlement in Northern Galilee, not far from today’s Lebanon. Being this close to the French zone and surrounded by violent Bedouin militants, it was only a matter of time before this settlement got trapped in a fatal crossfire. That happened on March 1, 1920, when a large contingent of well-armed Shiʿite partisans from the north barged into the village.53 They came looking for French soldiers rumored to be hiding there. In the clash that followed, eight Jews and five Bedouins were killed. The remaining Jews abandoned the place and the village was burned to the ground. No French soldier was found. The episode went down in history as the Battle of Tel Hai.
+
+Tel Hai was not stolen property. The land it sat on had originally been purchased by Jewish immigrants as an agricultural outpost in 1905. But this was just an opening shot. Over the following years, many more Tel Hais would meet the same fate. Survivors from Tel Hai first took refuge in the nearby village of Kfar-Giladi, but it too met the same end and they had to flee again. Placing the entire onus on antisemitism or Islamist zealotry, however, would be a gross misreading of the situation. At least for now. The fact that despite Jewish neutrality in the Franco-Syrian War, the French insisted on setting up military bases dangerously close to Jewish settlements cannot be brushed aside.54 The Arabs had reasons to believe these soldiers could hide among the Jews. The fact that after the Jews fled from Kfar-Giladi, the place they found refuge and hospitality in was a Muslim village cannot be brushed aside either.55 At least at this point, the bloodthirsty antisemitic zealots were still a vocal minority.
+
+Of course, this wasn’t going to last. The fire lit in Tel Hai eventually reached the very heart of Jerusalem, the Old City, where Jews and Muslims once again clashed in what’s noted in history as the Nebi Musa riots. The episode claimed nine lives and set the stage for a far more protracted spell of violence that’d quickly consume the entire Near East. The riot is named after the festival of Nebi Musa celebrated by Palestinian Muslims around Passover, during which it occurred. It’s the first major incident where the clash took a distinctly religious character as Arab religious leaders openly called for armed _jihad_.56
+
+[![](https://substackcdn.com/image/fetch/$s_!y7xC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc8d6a58-18a0-418a-b53c-32edf36a8276_640x512.jpeg)](https://substackcdn.com/image/fetch/$s_!y7xC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc8d6a58-18a0-418a-b53c-32edf36a8276_640x512.jpeg)**Fig. 8** : Front page of the New York Times on December 3, 1947, reporting the Muslim clergy’s call for armed jihad. [courtesy Timothy Hughes in “Jerusalem Riots.… Item # 592306,” _Rare Newspapers_ , https://www.rarenewspapers.com/view/592306. Accessed 23 November 2023.]
+
+Within weeks of the riots, another Jewish settlement was abandoned by wary residents. Bnei Yehuda was a little over eight hundred acres of Jewish habitation on the western slopes of Golan Heights, settled only thirty years before. Now it was gone. These were all Old Yishuv, not Zionists. Many more such settlements would be abandoned in the coming months.57 All abandonments were due either to direct Arab attacks or to fear of imminent Arab attacks. Much of this was sheer anti-Jew resentment, some political but some also religious.
+
+A big part of this was also rooted in local property disputes. Just as many Jewish villages were taken away by the Arabs, many Arab villages were taken away by the Jews too. But there was a small difference. Jewish settlements were always on purchased land. Problem is, the sellers were wealthy Muslim landlords or _effendis_. They didn’t live or work on the property they sold. They just rented those out to poorer Arabs. The property once sold, these tenants had to be evicted.58 The evicted Arabs then naturally resented their new Jewish evictors. To reiterate, the landlords who sold were Arabs too.
+
+Toward the end of April 1920, the newly formed League of Nations got into a huddle in San Remo, Italy, to discuss the fate of Ottoman territories. The result was something called a _mandate_ system where the various OETA territories were reorganized as mandates assigned to their respective European overlords for interim governance until such a time they were good enough to govern themselves. These mandates were awarded under the 1916 Sykes-Picot Agreement we just met before:
+
+  1. Mandate for Syria and Lebanon (French)
+
+  2. Mandate for Mesopotamia (British)
+
+  3. Mandate for Palestine or Mandatory Palestine (British)
+
+
+
+
+But what about Faisal who had proclaimed himself the king of Syria the previous year? Duly thrown out by the French but more on him a little later, for right now, it’s Palestine, or Mandatory Palestine, that we’re we’re interested in.
+
+The following year Britain appointed a new Secretary of State for the Colonies—Winston Churchill. Immediately upon assuming office, Churchill called a conference at a Cairo hotel to brainstorm a solution to the Arab-Jew problem in Mandatory Palestine. The Cairo Conference, as it came to be called, resulted in a decision to slice out about two-thirds of Mandatory Palestine as a separate semi-autonomous Arab state still under British mandate—the Emirate of Transjordan.
+
+[![](https://substackcdn.com/image/fetch/$s_!ZKOi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F803b7ecf-28c6-4264-b67a-f6fdda107bd3_1640x1395.png)](https://substackcdn.com/image/fetch/$s_!ZKOi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F803b7ecf-28c6-4264-b67a-f6fdda107bd3_1640x1395.png)**Fig. 9** : Map of Mandatory Palestine before and after the creation of Transjordan as a separate entity in 1921. [courtesy “Map of Pre-1948 Palestine: Jewish National Home Determined by San Remo Conference (1920),” _Jewish Virtual Library_ , https://www.jewishvirtuallibrary.org/map-of-jewish-national-home-determined-by-san-remo-conference-1920; “Map of Pre-1948 Palestine: The British Mandate,” _Jewish Virtual Library_ , _https://www.jewishvirtuallibrary.org/map-of-the-british-mandate-1921-1923_. Accessed 24 November 2023.]
+
+No Jew could settle in this new territory. Emirate because it was placed under an Emir, Abdullah bin al-Hussein. If al-Hussein sounds familiar, that’s because his father was none other than the old man from Hejaz. The Faisal that we met before in Syria was Abdullah’s brother. So what happened to Faisal, again? Deposed and exiled by the French, he had landed in Britain. After Churchill awarded Jordan to Abdullah, he realized he had to do something for his brother too. So he gave Faisal Mesopotamia. All still under British mandate, of course. In sum, we have one Hashemite family ruling Arabia (Hejaz to be precise), Transjordan, and now Iraq. The father had Hejaz, and the sons had Transjordan and Iraq. The 30% that remained of the original Mandatory Palestine was still a British protectorate with no king.
+
+By now the British had realized that much intercommunal peace in the region hinged on Jerusalem. So toward the end of 1921, they constituted a “Supreme Muslim Council” to manage all Islamic structures in Jerusalem and, by extension, the rest of Palestine. Elections were held in January of the following year for a President and the Grand Mufti of Jerusalem, Amin al-Husseini, came out on top. Remember this name.
+
+Four years later, this body published its first guidebook to the Temple Mount. Back in the Byzantine section, we had asked a question: How do we even know that the Temple Mount of today is really where the original Temples stood? Well, this guidebook is one possible answer. On its very first page in the introductory section, it announces that the Mount’s “identity with the site of Solomon’s Temple is beyond dispute.”59 To reiterate, this publication was from a body directly presided over by the Grand Mufti of Jerusalem. Of course, this cannot be taken as the ultimate corroboration because it’s still only as reliable as the person stating it. What we need is material evidence, something we will only get our hands on later. For now, it’s still of immense significance that a Muslim publication is admitting the claim as “beyond dispute.”
+
+In September 1925, the situation in Jerusalem worsened further when a new ruling forbade the Jews from bringing any object to the Western Wall.60 This included even chairs for the old and infirm. But why should Muslims even want that? Because they feared bringing such items to the Wall would be the first Zionist step toward usurpation of the Haram or Mount itself. Such was the contention over the sacred esplanade. The Jews, on the other hand, were rightly outraged given the Wall was at least as much theirs as it was the Muslims’. Now it was only a matter of time before someone moved to defy the seemingly unjust ruling. That happened four years later when a bunch of Jews did just that. They brought chairs to the Western Wall.
+
+And Palestine erupted.
+
+Jerusalem those days, although under British rule, was still de facto under a local Arab administration. The mayor was an Arab and there was also, as we’ve just seen, a Grand Mufti to administer the holy sites. Husseini had a peculiar mix of lineage and ideology. His family traced descent from Ali and Husayn but professed the Hanafi school of Sunni Islam. In response to the Jewish defiance, he ordered the area closed to non-Muslims. As the Grand Mufti of Jerusalem and the President of the Supreme Muslim Council, he had the authority. The outrage in Jerusalem quickly spread to other cities too. In Hebron, Arab gangs massacred seventy Jews and forced the rest to flee. We won’t go into the exact gory details of the massacre where men were killed by the very neighbors they’d had tea with earlier that day.61 One newspaper from the time reports a “mad orgy” in which an “Arab horde slaughtered little children.” Another wrote, “The Arabs butchered, raped, burned, pillaged, and destroyed at their will.” Among their victims were kids as young as four. The carnage was absolute.
+
+[![](https://substackcdn.com/image/fetch/$s_!xy4_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8561c2cd-469c-47c4-8e4e-f2a0f973daf8_535x296.jpeg)](https://substackcdn.com/image/fetch/$s_!xy4_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8561c2cd-469c-47c4-8e4e-f2a0f973daf8_535x296.jpeg)**Fig. 10** : A front-page report of the carnage at Hebron in 1929. [courtesy “Video Testimony of the 1929 Hebron Massacre Survivors,” _Hebron.org_ , 31 Nay 2018, http://en.hebron.org.il/history/847. Accessed 24 November 2023.]]
+
+[![](https://substackcdn.com/image/fetch/$s_!ET_Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c19a07e-4af2-4d77-999b-8707cf7f80bf_698x980.jpeg)](https://substackcdn.com/image/fetch/$s_!ET_Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c19a07e-4af2-4d77-999b-8707cf7f80bf_698x980.jpeg)**Fig. 11** : A newspaper report from August 27, 1929, offering a detailed insight into the riots perpetrated by Arab mobs in Hebron. [courtesy A_S in “forum post #3,366,” _OTOFUN_ , 13 October 2023, https://www.otofun.net/threads/cang-palestine-di-qua-gioi-han-sang-israel.1881389/page-169#post-67917911. Accessed 24 November 2023.]
+
+The 1929 Hebron Massacre, which some perpetrators said was directly ordered by the Mufti of Jerusalem,62 brought the Jewish presence in Hebron to an end. For several decades. Whether the Mufti actually ordered the action can be debated but we’ll return to him soon. So at the heart of all the mess was the large-scale influx of foreign Jews into the land of Palestine. A demographic shift was an understandable threat to the Arabs even though their own presence in the region was already a historical demographic upheaval. But here’s the thing, the Jewish influx is only one half of the story. There’s this other half too that involves Arabs.
+
+1922 is when the first reliable census of Palestine was performed, months before the Mandate. All data before that is, at best, educated guesswork. The second only came in 1931. So we have a good nine-year window to examine. The good news is that someone did just that in a 1971 paper titled _Arab Immigration into pre-State Israel_ , the latter being part of Mandatory Palestine that would eventually become the State of Israel. Author Fred Gottheil explains that the Arab population of this region grew by over 54,000 during this period. For the rest of Mandatory Palestine, it was a little over 4,500.63 The number stood at around 94,000 for Jews.64 These include both legal and illegal immigrants. As of 1931, Arabs accounted for 37% of all foreign immigrants to the region that’d later become the State of Israel.65 The paper also names the driver behind this influx—economics.
+
+The Muslim world, just like the rest of the world at the time, was struggling. The Great War had damaged every economy but the decline in the Middle East was particularly thorough. Transjordan, for instance, was even called “a parasite State existing on permanent subsidy of Britain and the civil administration of Palestine” by economist William Rappard.66 Subsidy from Palestine, because while others struggled to make ends meet, Palestine’s NDP grew more than four times from £P 1.6 million in 1922 to £P 6.7 million in 1931. In the same nine-year window, capital stock went from £P 5 million to over £P 16 million, a good 300% growth.67 If there was positivity, it was here. Behind this was the aggressive Jewish industry and its pursuit of prosperity. Between 1922 and 1937, the number of Jewish-owned businesses in pre-State Israel grew more than threefold68 and by 1927, employed over three-fourths of Palestine’s industrial workforce, nearly two-thirds of it Arab.69 Of course, Arabs from the neighborhood wanted in.
+
+Meanwhile, although the French were able to throw Faisal out of Syria, they weren’t able to fully crush all Arab aspirations. Many rebels moved bases to avoid French persecution. Among them was an Islamist preacher named Shaikh Izz ad-Din al-Qassam who came to Mandatory Palestine sometime in the 1920s and, in 1930, established al-Kaff al-Aswad or Black Hand, Palestine’s first terrorist organization. He even secured a fatwa endorsing the group’s militant activities from the Mufti of Damascus himself.
+
+The group enjoyed a relatively short shelf life as the Palestine Police eliminated al-Qassam along with three others in an encounter on November 20, 1935. But a precedent had been set. The legacy of al-Qassam would continue to shed blood on the Holy Land well into the twenty-first century. The preacher’s elimination was almost immediately followed by reprisals. Thousands of orchards were destroyed in what came to be called the Great Palestinian Revolt. More than five hundred Jews and ten times as many Arabs lost their lives. The revolt was given ample wind by the Mufti of Jerusalem whose men openly carried out hit jobs on targeted individuals in his name making it very clear that anyone opposed to al-Husseini’s leadership was to be eliminated with full religious sanction.70
+
+While the three-year episode was originally triggered by al-Qassam’s killing, a bigger driver was something called the Peel Commission Report. Right at the onset of the unrest, the British government had appointed Lord William Peel to brainstorm a solution. Peel’s team submitted its findings and recommendations the following summer in the infamous Peel Commission Report. The most controversial of its suggestions was that of a second partition. Remember, Palestine had already been partitioned once before when they hacked away nearly three-quarters of it as an exclusively Arab Emirate of Transjordan. Now Peel recommended further dividing the remaining quarter into Jewish and Arab territories. It retained Jaffa and Jerusalem under British control. Nearly all of Judea and Samaria and the entire Negev region were allocated to the Arabs. This made up nearly 80% of the Mandatory Palestine left after the first partition. What remained for Jews was a tiny coastal rump including Tel Aviv and Haifa.
+
+Despite the lopsided allocation, the Jewish side accepted the offer. David Ben-Gurion was the most prominent supporter of the deal out of pragmatism. The Arab side rejected it unanimously and vehemently. Not entirely without reason. For starters, a big chunk of the Muslim share was the barren Negev Desert. They complained that some of the most fertile lands had gone to the Jews. Al-Husseini also feared a personal loss of authority in case of a possible merger with Transjordan. The Plan’s publication made an already bad situation even worse. The riots intensified. The Arabs wanted a complete ban on land sales to Jews besides the reversal of the Plan. They sought all of Palestine with no concession whatsoever to the Jews.
+
+Shortly before the Plan’s publication, Britain had elected itself a new Prime Minister, Neville Chamberlain. Seeing the resounding failure of Peel’s ideas, the new government started working on a new plan. This was published two years later as the White Paper of 1939. This paper addressed the biggest Arab gripe of Jewish immigration by severely curtailing the latter. In further contrast to Peel’s Plan, this paper suggested a one-state solution—an independent Arab state of Palestine with a Jewish homeland within.
+
+Both Jews and Muslims rejected it.
+
+As we approach the opening shots of World War II, it’s necessary to shed some light on the emergence of a new evil in Europe and the Arab world’s shocking but equally predictable affinity for it—the Third Reich. Needless to say, antisemitism was the sole driver. From Syria to Mesopotamia to Egypt, Hitler’s cult spread like the proverbial wildfire. Individuals and the media, both started seeing in him a godsent, an Imam of sorts even. Pictures of Hitler and Ali were posted on storefronts in Tehran, with an obvious insinuation.71 As Hitler inaugurated the first theaters of WWII, his approval in the Muslim world shot through the roof. When France fell to the Nazis, civilians celebrated in the streets of Damascus with chants like72:
+
+Text within this block will maintain its original spacing when published
+    
+    
+     _Bala Missiou, bala Mister,
+    Bissama Allah, oua alard Hitler._
+    “No more monsieur, no more mister,
+    In heaven Allah, on earth Hitler.”
+
+Some went even further and started attributing literal divinity to the Nazi leader. A French doctor working for German military intelligence in Cairo claimed Hitler was a prophet who opposed Jews and was guided by Islamic supernatural beings called djinns.73 For all the Muslim world’s devotion to its new Nazi messiah, Hitler was under no illusion regarding their ethnicity. His Mein Kampf categorically called his Muslim (and Hindu) cheerleaders an inferior race, a “coalition of cripples.”74 The Arabs had an easy solution. They just expunged the troublesome passages and enjoyed the rest of it. Edited copies of Mein Kampf with the offending bits taken out went on sale in bookstores all over the Middle East. Hitler himself had agreed to such edits in the Arabic translation of his work.75
+
+In Egypt, the mantel of resistance against the British was held by two groups. One was Muslim Brotherhood, an Islamist terror group founded by a preacher named Hasan al-Banna in 1929. And the other was a relatively secular outfit called the Young Egypt Party—commonly referred to as Green Shirts—founded by one Ahmed Hussain in 1933. So enamored was Hussein by Hitler’s antisemitism that he personally led a delegation of Green Shirts to the infamous Nuremberg Rally in 1936.76 And was the “secular” outfit. Similarly, in the 1938 rally, members of Iraq’s Futuwwah participated in the march with Hitler Youth.77 Futuwwah was an antisemitic paramilitary student force raised by none less than the Ministry of Education.78 In Palestine, Swastika flags made vehicles immune to Arab attacks.79 There were even reports of people celebrating Muhammad’s birthday with pictures of Hitler and Mussolini, not just in Palestine but all over the Arab world.80 These are just a tiny handful of examples. Hitler’s antisemitism had an unequivocal approval among Muslims.
+
+Things took an even uglier turn when the Grand Mufti of Jerusalem, the man we’ve been saying we’d return to, himself paid a visit to Germany for a rendezvous with Hitler in 1941. The first concentration camps were seven years old by then and there was zero illusion around their purpose.
+
+[![](https://substackcdn.com/image/fetch/$s_!YuMH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6b0266-7273-46e6-b9e9-1f9b2413b346_1024x640.jpeg)](https://substackcdn.com/image/fetch/$s_!YuMH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6b0266-7273-46e6-b9e9-1f9b2413b346_1024x640.jpeg)**Fig. 12** : The Grand Mufti of Jerusalem fled Palestine in 1937 to escape arrest on charges of riotmongering and eventually settled in Germany where he met Hitler. [courtesy Heinrich Hoffmann in “146-1987-004-09A,” _Das Bundesarchiv_ , 28 November 1941, https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+146-1987-004-09A. Accessed 24 November 2023.]
+
+The cleric would make at least one more trip to Germany two years later when the extermination of Jews was in full swing in Hitler’s camps. This time, he even visited one such camp in Trebbin, some twenty miles south of Berlin. He wasn’t alone. Accompanying him were Iraqi nationalist Rashid Ali al-Gaylani, Indian nationalist Bose, and a few others. Ali and Bose were the only ones visiting for nationalist causes even if naïvely so. All others came out of express antisemitism and admiration for the Nazi doctrine.
+
+[![](https://substackcdn.com/image/fetch/$s_!EhdN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31896ac2-1f36-464f-b81e-7fa7f79d3e25_1545x1159.jpeg)](https://substackcdn.com/image/fetch/$s_!EhdN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31896ac2-1f36-464f-b81e-7fa7f79d3e25_1545x1159.jpeg)**Fig. 13** : Jerusalem’s Grand Mufti on a visit to the Trebbin concentration camp near Berlin in 1943. Seen with him are Subhash Bose of India and a bunch of Arab leaders all being escorted by three Nazi officials. [courtesy “Lot 216, Six Unknown Photographs from a Visit to Nazi Germany by Mufti Haj Amin al-Husseini,” _Kedem Auction House_ , 27 June 2017, https://www.kedem-auctions.com/en/content/six-unknown-photographs-visit-nazi-germany-mufti-haj-amin-al-husseini. Accessed 24 November 2023.]
+
+The War ended with Hitler’s suicide and Nagasaki’s destruction in 1945. Despite, the disturbing levels of Arab antisemitism, thousands of Jews had streamed into Palestine to escape the Holocaust. With the end of the war, this influx only grew exponentially. The need for a return to the long-lost homeland was now more pressing than ever. Although other alternatives—including some in Africa—were considered, Palestine won out for obvious reasons. But the Arabs of Palestine were already too hostile to the newcomers.
+
+In 1946, the Emirate of Transjordan became independent as a full-fledged Arab monarchy and dropped the “Trans-” from its name. Until that point, it’d been part of the British mandate. By now the Jews had already lost all faith in the British government seeing how the latter had reneged on so many promises. Transjordan being one. They realized they were on their own against the Arabs and no support could be expected from the British administration. Many took up arms and went guerrilla.
+
+The first casualty of this revolt was the King David Hotel in Jerusalem. Why a hotel? Because it was the regional Headquarters of the British Army in Palestine and Transjordan which made it a less-than-civilian target in the eyes of Irgun, the Jewish terror outfit responsible for the attack. A total of ninety deaths and half as many injuries were reported. This remains one of the biggest attacks by a Jewish militant group in Palestine. The following year, another Jewish militia called Lehi massacred an entire family of Arabs in the Muslim village of Arab al-Shubaki over suspicions of collaboration with the British. This proved to be the final straw and the British position in Palestine became untenable. They had already given up India for this reason and were now ready to give up Palestine.
+
+But it was impossible to give up without resolving the Muslim question first. In India too they had to address the question by carving out a Muslim Pakistan before leaving. The same needed to be done in Palestine, although don’t forget that a Muslim territory had already been carved out of Palestine in the form of Transjordan, twenty-six years ago. So they went to the UN. Ten days after the Shubaki family assassination, the UN General Assembly passed Resolution 181 (II) approving a second partition of Palestine. The last time a second partition was suggested, it was rejected by the Arabs because the land it gave them was too barren and agriculturally unfit. This time the plan allocated 62% of Palestine to the Jews even though there were twice as many Muslims. A big chunk of this 62%, however, was the dead barren Negev Desert, fit neither for residence nor for agriculture. Nevertheless, the Muslims rejected the offer. This was the third such rejection after the Peel Plan and the 1939 White Paper. Many more would follow.
+
+[![](https://substackcdn.com/image/fetch/$s_!5pPH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa944f39a-9671-4539-b89e-f53523004a09_1370x2838.jpeg)](https://substackcdn.com/image/fetch/$s_!5pPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa944f39a-9671-4539-b89e-f53523004a09_1370x2838.jpeg)**Fig. 14** : Map of Palestinian partition prescribed in the UNGA Resolution 181 (II); this was rejected by the Arabs and accepted by the Jewish State of Israel upon independence. [courtesy “February 1956 Map of UN Partition Plan for Palestine, adopted 29 Nov 1947, with boundary of previous UNSCOP partition plan added in green,” _Wikimedia Foundation_ , 10 August 2013, https://en.m.wikipedia.org/wiki/File:UN_Palestine_Partition_Versions_1947.jpg. Accessed 24 November 2023.]
+
+The rejection came strongly worded and loaded with open threats of not mere violence but annihilation. The League of Arab States (now called the Arab League) worded its disapproval with a great deal of anger. Anger is an understatement, there was a murderous zeal in the air. A jihad was pledged against the Jews.
+
+[![](https://substackcdn.com/image/fetch/$s_!8kYL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77302d5f-0d72-4d07-90b4-93b37fbff331_416x600.jpeg)](https://substackcdn.com/image/fetch/$s_!8kYL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77302d5f-0d72-4d07-90b4-93b37fbff331_416x600.jpeg)**Fig. 15** : Front page of Brooklyn Eagle on November 30, 1947, reporting the “Holy War” pledged by Arabs less than 24 hours after the UN resolution. [courtesy “November 30: On This Day in History,” _Brooklyn Eagle_ , 30 November 1947, https://brooklyneagle.com/articles/2021/11/30/november-30-on-this-day-in-1947-u-n-votes-palestine-partitioning-33-13-as-arabs-vow-holy-war/. Accessed 24 November 2023.]
+
+General Secretary Azzam Pasha even threatened to “sweep them [Jews] into the sea”81 in what he called a “war of extermination” which history would record as the “Mongol massacre.”82 This was said to an Egyptian newspaper in a press briefing mere days after the Resolution. Threats also came from Jamal Husseini, a relative of Jerusalem’s Mufti, who said, “Blood will flow like rivers in the Middle East.”83 Likewise, the Egyptian delegate warned, “Jewish blood will necessarily be shed elsewhere in the Arab world.” There was no ambiguity.
+
+The Jews, on the other hand, accepted the offer with little fuss. Despite the rawness of the deal. It’s not just the desert that made it particularly bad, but also the swamps. These swamps were unfit for agriculture and riddled with malaria. The Arabs did not wait a day. Within twenty-four hours of the Resolution, armed gangs attacked two buses near the village of Fajja. killing seven Jews including a young girl going to her wedding. Among the injured was a 28-year-old farmer and Jewish leader named Mordechai Olmert.
+
+The Fajja incident opened the first phase of what would burgeon into a more protracted 1948 Palestine War. These opening salvos are also known as the Battle of Roads, for they were almost always directed at buses in an attempt to isolate Jewish communities from each other. Concurrently, riots erupted in Jerusalem where Arab militants burned down shops and homes and killed eight Jews. The Jews retaliated too. Within months, Arab militias had seized control of the highway between Jerusalem and Tel Aviv with intense bus attacks. Jerusalem eventually lost all links with the outside world. Nobody could get in or out of the city without risking an Arab ambush _en route_.
+
+One such ambush point was about a mile from an Arab village of about 400 called Deir Yassin. Not far from Tel Aviv. In an attempt to eliminate the Arab threat and break the siege on Jerusalem, the Jewish militia Haganah launched Operation Nachshon. The idea was to flush out all ambush points and regain control of the Jerusalem-Tel Aviv highway. Unfortunately, Deir Yassin would pay dearly for its proximity to an ambush point. On April 9, 1948, armed Jewish militants stormed the village and proceeded to massacre its residents. The toll stands at a little over a hundred. The village was pillaged too. Only months earlier, the elders of the village had rejected a call to arms by Arab militants. The Deir Yassin Massacre went down in Palestine’s history as one of its bloodiest episodes of intercommunal violence.
+
+The following month, on May 14, 1948, the British abruptly left and the Jews declared independence per the last UN plan. By now, the Palestinian national identity had successfully been appropriated by the Muslims, and Israel was chosen as the alternative identity by the Jews. It was meant to symbolize a return to the absolute roots, back to before Hadrian had renamed Judea to Palestine. The State of Israel was thus finally born.
+
+Before we proceed with the new phase in our story, the new nation’s Declaration of Independence deserves to be read in juxtaposition with the declaration of the Arab world in response to the UN Resolution. While the Arabs promised “rivers of Jew blood,” Israel promised its Arab inhabitants “full and equal citizenship and due representation” and invited them to participate in nation-building. To its Arab neighbors, it promised “its share in a common effort for the advancement of the entire Middle East.”84
+
+## Phase 10: Independent
+
+The Arab world reciprocated the very next day with a five-way invasion. Iraq and Jordan came from the east, Lebanon and Syria from the north, and Egypt from the south. From within, Arab militants were already on a killing spree.
+
+Soon, Saudi Arabia and Yemen would join in too. On the eve of this invasion, the Jews didn’t exactly hold all the areas they claimed on paper as per the UN Plan. Barring a narrow coastal strip from Gaza to Acre, another narrow strip along the Golan and Sea of Galilee, and an east-west corridor joining the two, all was Arab-held.
+
+[![](https://substackcdn.com/image/fetch/$s_!2vzC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb6f3145-9fb1-420d-ba99-780d8692e45f_480x709.jpeg)](https://substackcdn.com/image/fetch/$s_!2vzC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb6f3145-9fb1-420d-ba99-780d8692e45f_480x709.jpeg)**Fig. 16** : Although Israel had inherited the entire Mandate on paper, in reality, it only held a tiny fraction of the territory. [courtesy “1948 War Maps: Military Situation On Effective Date of Cease-Fire,” _Jewish Virtual Library_ , 11 June 1948, https://www.jewishvirtuallibrary.org/map-of-military-situation-on-effective-date-of-cease-fire-june-1948. Accessed 24 November 2023.]
+
+A most unfortunate outcome of this war was the large-scale flight of Palestinian Arabs from Palestine. About 700,000 Arabs are said to have become refugees during the war. The phenomenon is called _Nakba_ , Arabic for catastrophe, and it continues to dominate Palestinian discourse to this day. The Nakba, however, is only one side of the displacement coin. As Arabs fled Palestine, Jews fled from the Arab world too. No fewer than 900,000 Jews had lived for generations in North Africa and the Middle East. Now they could no more.85
+
+[![](https://substackcdn.com/image/fetch/$s_!Nt4e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71dd9160-7b32-44c7-b13f-c384f67f1779_640x363.jpeg)](https://substackcdn.com/image/fetch/$s_!Nt4e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71dd9160-7b32-44c7-b13f-c384f67f1779_640x363.jpeg)**Fig. 17** : A NYT piece from 1948 reporting on the existential threat to 900,000 Jews living in Muslim countries. [courtesy Mallory Browne in “Jews in Grave Danger in All Moslem Lands; Nine Hundred Thousand in Africa and Asia Face Wrath of Their Foes,” _The New York Times_ , 16 May 1948, https://www.nytimes.com/1948/05/16/archives/jews-in-grave-danger-in-all-moslem-lands-nine-hundred-thousand-in.html. Accessed 24 November 2023.]
+
+Morocco had more than 200,000 Jews in 1948. Today, fewer than 2,000 remain. Libya and Iraq went from 30,000 and 135,000 respectively to virtually none. There are hardly any Jews left in the Arab world today. There were almost a million before the invasion of Israel. While Israel embraced its Jewish refugees as full-fledged citizens, Palestinian refugees in Arab countries remain refugees to this day. It’s against this backdrop that the UN Mediator for Palestine, Folke Bernadotte made one last-ditch effort to help de-escalate matters.
+
+The Bernadotte Plan, submitted on Sep 16, 1948, proposed some radical changes to the UN Plan, all favoring the Arabs. Without referring to Jewish refugees, it proposed a return of Arab refugees to their Palestinian homes. It also gave the Arabs the Negev Desert. This plan did not take off and both parties rejected it right away. Azzam Pasha vowed to put up fierce opposition at the UN on behalf of the Arab League.86 The Jews were so vehement in their rejection that they assassinated Bernadotte the very next day of the plan’s presentation. The responsibility was claimed by Lehi. Interestingly, Bernadotte’s own account dispels any nationalist ambitions among Palestine’s Arabs. He says that instead of demanding a separate Arab nation, they were “quite content to be incorporated into Transjordan.” That they had “no will of their own.”87
+
+Toward the end of the year, the UN took cognizance of the refugee crisis and instituted a separate body to handle their rehabilitation. The United Nations Relief and Works Agency or UNRWA was born. But it was only meant for Palestinian Arab refugees. Not any other. The world was teeming with refugees of all ethnicities in the wake of WWII. The millions of Ukrainian, Armenian, Indian, Balkan, and Polish refugees had no international body to lean on. For them, a more generic United Nations High Commissioner for Refugees or UNHCR would come only in 1950. To this day, the UN continues to have two separate bodies for refugee affairs—the UNHCR for all refugees, and the UNRWA specifically for Palestinians. This, and the fact that the UNRWA came before UNHCR, objectively makes Palestinian Arabs the world’s most privileged refugees.
+
+A rarely acknowledged outcome of this war was also the expulsion of Jewish communities from both Gaza as well as Judea and Samaria. Thousands of Jews were either driven out or even killed, and their properties confiscated, by Arab militiamen.88 Chants like _Idbah al Yahud_ or “slaughter the Jews” became commonplace in mass demonstrations not only in countries hostile to Israel like Egypt, Iraq, and Syria but also within Israel in cities like Jaffa.89 Even Jerusalem was purged of its Jewish habitation.90 Among Judean settlements depopulated by the Arabs in 1948 was Kfar Etzion. Arab irregulars attacked the kibbutz to avenge Deir Yassin. When heavily outnumbered defenders gathered with white flags to surrender, the Arabs massacred them all. Some 150 were killed.91 Kfar Etzion wouldn’t be populated again for another two decades. It was one of the first Jewish settlements in the region. The massacre here would later become the pretext for the Al-Dawayima massacre in which the Israeli Defense Forces or IDF killed about two hundred Arabs.
+
+On March 10, 1949, at an enormous cost to all parties involved, the war came to an end. Israel won. It was only in the final week of this engagement that it finally got hold of Negev as per the original UN Plan. But it lost a lot too, both land and economy. Gaza came under Egyptian occupation and Judea and Samaria under Jordanian. Even the name Judea and Samaria was replaced with a new one—West Bank. More than 2,000 years after Hadrian, the Jewish homeland was once again given a new name in an attempt to delegitimize its Jewish connection. King Abdullah of Jordan even crowned himself King of Jerusalem.92 Interestingly, the coronation was done by a Coptic bishop.93 He also constituted a Muslim body to administer the Islamic structures on the Temple Mount—the Jerusalem Waqf. Arab residents instantly received Jordanian citizenship. This arrangement would prove fatal to Israel as the territories lost to its enemies became hotbeds of terrorism.
+
+The North routinely came under fire from Golan Heights. Terrorists from Gaza and the West Bank would often sneak in and carry out their strikes. Terrorism would eventually become part of the reason for the next conflagration in the region, but more on that later. Meanwhile, the infant state’s agriculture, healthcare, and industry needed work too—a lot of work. As we’ve already discussed, much of Israel’s territory was malaria-infested swamp lands and arid deserts. Most of what remained was riddled with mines and unexploded bombs. For Ben-Gurion’s Israel, the titanic task of reconstruction lay ahead. But work started in earnest. Earlier, the British had launched a malaria eradication program with help from Jacob Kligler, himself a Jewish immigrant. After the war, the Israeli government resumed the program and would go on the make Israel the first malaria-free country in Asia in 1968.94
+
+Similarly, the agricultural revolution was no novelty to Israel, for the Jews had been settling in and reviving some of the worst marshlands in the region ever since the First Aliyah. An excellent example of such transformation is the swamps in the Lake Hula region. Spread over more than four square miles, this region was never suitable for cultivation. Or habitation. But Jewish settlements came up as early as the Ottoman era. The first charter or concession to drain and cultivate the region was granted to a French firm in 1908. The Zionists then bought it from the French just before WWII and started draining the swamps. This continued well into the 1950s when the region, fully drained, irrigated, and cultivated, came to be known as Hula Valley.
+
+Similar exercises—drainage, irrigation, desalination—were carried out all over Israel in an attempt to make it agriculturally and industrially viable. After centuries of Ottoman neglect, the land of Israel was finally starting to shine through as a nation of promise. Meanwhile, the Arab side of the line continued to plot conquest. But while most Arab governments were operating under a shared sense of pan-Arabism, there was one that stood out—Jordan. For Abdullah al-Hussein or Abdullah I, it was personal.
+
+If you’d recall, his family had traditionally held custody of the Two Holy Mosques at Mecca and Medina. His father Hussein bin Ali was, in keeping with the tradition, the Sherif of Mecca under the Ottomans and later became King of Hejaz retaining the two cities with British help. We already noted how Hussein’s sons eventually landed kingships of Mesopotamia and Transjordan. What we didn’t, is that the family already lost Hejaz to the Emir of Nejd, ibn Saud, in 1925. Hussein died six years later. Faisal followed another three years later. Only Abdullah remained. For him, the loss of Mecca, Medina, and Baghdad was already big enough a dent in prestige. Now his only hope was Jerusalem, the third holiest site for Muslims. That’s why he crowned himself King of Jerusalem at the first chance.
+
+But in time, rumors of his willingness for peace with Israel emerged. He had even supported the Peel Plan, so the rumors might not have been entirely unfounded. He essentially rooted for a two-state solution with hopes that the Arab section would be annexed to Jordan. It’s for this reason that Palestinian Arabs didn’t view him very favorably despite his participation in the 1948 war. This distrust culminated in 1951 when a Palestinian tailor named Mustafa Ashu assassinated him during a visit to the al-Aqsa Mosque in Jerusalem.95
+
+Five years later, Israel and the Arab world went to war a second time during the infamous Suez Crisis. The weeklong conflict was triggered when Egypt’s Nasser moved to nationalize the Canal and closed it to Israeli traffic. The only alternative was the Straits of Tiran. But that waterway he had already blockaded since the 1948 war. With both maritime accesses blocked, Israel had no choice but to mount an invasion of Sinai. And occupy it. While Suez remained blocked, the Straits of Tiran now opened up. Israel’s occupation of Sinai, however, wasn’t only for the waterway. There was another reason—terrorism. After the 1948 conflict, Arab militants would routinely attack Israeli civilians from their positions in the Sinai Peninsula. Israel needed to put an end to it.
+
+The occupation didn’t last and Israel restored Sinai to Egypt in just five months upon UN intervention. Israel’s terms were a complete demilitarization of the peninsula and the creation of a UN Emergency Force or UNEF to be stationed there instead for peacekeeping. But peace remained elusive. Israel made it abundantly clear in a public statement that any future closure of the Straits would be viewed as a declaration of war by Egypt. A _casus belli_ for Israel. In the summer of 1967, Gamal Abdel Nasser did just that.
+
+But before 1967, came 1964. Let’s discuss a new creation. That’s the year when, with the stated objective of fighting against Israel, the Arab League created the Palestine Liberation Organization.96 Do note that this was a nationalist entity and not an Islamist one. Its charter promised citizenship to Jews “of Palestinian origin” but for Arabs, extended it to anyone with an Arab father regardless of nationality. Be that as it may, it unambiguously rejected Jewry as a national identity. Above all, the charter established armed jihad as the means of securing its objectives “until final victory.” It was a militant outfit shrink-wrapped as a political one with state sanction from the entire Arab polity, mostly Egypt. Now back to Nasser.
+
+In 1967, he expelled the UNEF from Sinai. This abrupt action was in and of itself a direct violation of the 1956 armistice deal, but he went a step further and started remilitarizing the Sinai desert. Israel sought international intervention and waited for three weeks. No help came. Meanwhile, Jordan started preparing too. To make matters worse, Nasser also blockaded the Straits of Tiran and the Suez Canal to Israeli vessels in yet another violation of the armistice.
+
+Sufficiently certain of an impending Egyptian invasion, Israel launched preemptive strikes and inaugurated the Six-Day War. Egypt got help from Iraq, Saudi Arabia, Jordan, and Syria. Yet Israel won again and reoccupied Sinai. Along with Gaza, Golan Heights, and the West Bank—all bases of terror operations. Now it had sufficient buffer against any potential invasion by its Arab neighbors. The Israeli government was split on the fate of these newly acquired territories. While one faction wanted to restore them to their prewar owners (Gaza Strip and Sinai to Egypt, West Bank to Jordan), another wanted to incorporate them as an autonomous Arab domain within Israel. The most heated debate was over the West Bank, probably due to its strong religious ties with the Jewish community. Judaism was born here, after all. It’s important to note that although Israel had won back the West Bank, East Jerusalem remained under Jordanian control. Consequently, the administrative control of the Mount, which falls in East Jerusalem, also stayed with the Jordan-appointed Jerusalem Waqf, an arrangement that continues to this day. The religious side of things stayed with the Mufti of Jerusalem. Think of the Waqf as a successor body to the erstwhile Supreme Muslim Council that the British had created in 1921 and dissolved less than twenty years later.
+
+Several arguments were forwarded in favor of Israel not reverting the West Bank to Jordan despite its affinities. One was that the region was captured in a defensive war and _status quo ante bellum_ only applied to aggressive wars at the time. Thus, Israel was under no obligation to return captured territories. Security, however, remained the Israeli government’s biggest motivation. Another equally compelling argument was that the region never belonged to Jordan to begin with. The 1948 UN Plan allocated the West Bank to Palestinian Arabs, not Jordan. Jordan acquired it in war, so it was only fair that it now lost it in war. It’s only now that Arabs of the West Bank started identifying as Palestinians. Earlier, they saw themselves as Syrians or Jordanians. Some like Walid Shoebat even assign a date to this switch—June 4, 1967—but that may be a hard claim to validate historically. Even today, the only difference between the flags of Jordan and Palestine is a tiny white star—Jordan carries it, Palestine doesn’t. Even that’s only the case today. Back in the day when Jordan was the Emirate of Transjordan, its flag didn’t bear the star either. Basically, Palestine flies an old Jordanian flag.
+
+[![Jordan flag vs Palestine flag - Flagsmore.com](https://substackcdn.com/image/fetch/$s_!bLbe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0259f3de-3db2-4feb-a2e2-a9d6262e3ecb_1200x800.png)](https://substackcdn.com/image/fetch/$s_!bLbe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0259f3de-3db2-4feb-a2e2-a9d6262e3ecb_1200x800.png)**Fig. 18** : The Palestinian flag is literally the Jordanian flag without the star; even Jordan didn’t carry the star between 1921 and 1928 when it used to be the Emirate of Transjordan under British mandate. [courtesy “Jordan flag vs Palestine flag,” _flagsmore_ , 22 October 2021, https://www.flagsmore.com/jordan-flag-vs-palestine-flag/. Accessed 24 November 2023.]
+
+On the other hand, Hafez al-Assad (the current Syrian dictator’s father), claimed it was all Syrian and conveyed the same in no uncertain terms to Arafat.97 He even earned “the Lion of Greater Syria” as a monicker for his stance on the subject. But what did the Palestinians think of all this? Did they subscribe to a Palestinian identity, let alone strongly enough to wage wars over it? Surprisingly, not always. In an interview with a Dutch newspaper in 1977, a PLO leader openly stated that the Palestinian identity was politically motivated propaganda:98
+
+Text within this block will maintain its original spacing when published
+    
+    
+    “Just for political reasons we carefully underwrite our Palestinian identity. Because it is of national interest for the Arabs to advocate the existence of Palestinians to balance Zionism. Yes, the existence of a separate Palestinian identity exists only for tactical reasons.”
+
+At the time, Zuheir Mohsen was at the helm of a pro-Syrian faction of Arafat’s outfit. Even more surprising take comes from none other than the PLO’s founder himself. Some eight years before the founding, Ahmad al-Shukeiri told no less than the UN Security Council that he saw Palestine as nothing more than southern Syria.99 Here, one should recall what Folke Bernadotte said about Palestinian nationalism upon his return from the region in 1948.
+
+With that, we now enter the era of settlements. With Israeli occupation, new Jewish colonies started sprouting all over Gaza and the West Bank. This occupation and the subsequent gentrification have remained a hotly debated matter to this day. Opinions on legality differ bitterly. While the Muslim world sees this as unambiguously illegal and unethical, Israel disagrees just as unambiguously.
+
+Among the legal grounds most commonly cited in Israel’s favor is the internationally recognized doctrine of _uti possidetis juris_ or “as you possess under law.” In short, this says that any new State ought to keep the same borders that it had before it became independent. The principle developed to obviate territorial complications during the time of the Romans and has remained in effect through the twentieth century. It was applied to the new States that were born in the debris of the fallen Ottoman Empire and it was applied to British India. This is how upon independence in 1932, Iraq came in possession of a contested Mosul despite Turkish and even Kurdish objections.100 It stipulated that since Mosul was within the borders of Mandatory Mesopotamia, it must stay in independent Iraq. Similarly, it caused the Hatay region to stay in Turkey when Syria became independent, despite the region originally being Syrian.101
+
+The same principle, when applied to Mandatory Palestine, places the entire region in Israel’s possession. Because when the Mandate ended in 1948, two States were supposed to inherit the land. The West Bank and Gaza should have gone to the Arab State as per the UN Partition Plan. However, since the Arabs refused the offer, the only State to emerge was Israel. Technically, that’d render the West Bank and Gaza unassigned territory or _tella nullis_ , no man’s land. That’s precisely the kind of thing uti possidetis juris was designed to prevent. And that meant assigning the pre-independence borders to the post-independence entity, i.e. Israel inheriting all of Mandatory Palestine. At least that’s how the application had been elsewhere. The only alternative was no man’s land, not a later Arab State.
+
+Although it wouldn’t be practical for Israel to keep all of Palestine, it was under no legal obligation to share it with an entity that didn’t exist upon its independence. On the other hand, many question the morality of denying the Arabs their Statehood. And with no resolution in sight, settlers started moving in. Most of these settlements were old Jewish villages that were destroyed during the 1948 war. Among them was the famous Kfar Etzion, the first village to be revived as part of the 1967 settlement movement. This village had been depopulated by the Arabs in 1948 and now the children of those expelled Jews were returning to resettle. To them, it was homecoming. To the Arabs, it was an illegal occupation. Semantics drove politics but the settlements continued unabated.
+
+Meanwhile, the Israeli government made a huge announcement after its 1967 win—it opened up Hebron’s Cave of the Patriarchs to non-Muslims, reserving ten days every year exclusively for Muslims. Until that point, non-Muslims could only go as far as the seventh step. The last time Jews could legally enter the structure was more than 700 years ago.
+
+Less than three months after the war, the Arab League met in Sudan and passed what came to be known as the Khartoum Resolution. This is the document that gave us the infamous Three Nos: No Peace, No Recognition, No Negotiation. The writing was on the proverbial wall. It was a declaration of war—a war of attrition, where the objective is not to confront the enemy on the battlefield but to frustrate them with an incessant barrage of low-grade terror strikes. Kill with a thousand paper cuts, if you will. The inaugural attack occurred at the very site that had just been thrown open to Jews in Hebron. Arab terrorists protesting the allowance tossed a grenade at the stairway leading to the Cave of the Patriarchs wounding forty-seven during the week of Sukkot. Fortunately, nobody died. A similar attack was repeated the following month.
+
+Meanwhile, the PLO had by now established itself in Jordan under a 39-year-old Yasser Arafat. Don’t forget the country had awarded citizenship to all West Bank Arabs upon its annexation in 1948. Now that Israel had retaken the area, many of them moved to Jordan. Arafat was one of them. Again, these were citizens, not refugees. But Palestinian. And they resented the monarchy for reasons we’ve already discussed in the context of King Abdullah’s assassination in 1951. By now, these Palestinians were already making open calls for a regime change. PLO militants drove around Amman extorting local businesses to raise funds for terror activities. When the authorities finally cracked down in September 1970, a full-scale civil war broke out throwing the kingdom into chaos and ruination. The fighting lasted ten months.
+
+The Palestinians were finally driven out in July 1973 but before leaving, they left their host country a parting gift—a murdered Prime Minister. They even made a bid on the king himself but failed. The opening month of the civil war came to be known as Black September. Expelled from Jordan, the PLO moved base to Lebanon where it aligned with local Marxist guerrillas hoping to overthrow the Maronite Christian government in Beirut. Very soon, Lebanon too would plunge into a civil war, the bloodiest in the region. The unrest would last decades and claim upward of 150,000 lives, mostly civilians. Evidently, Palestinians fomented civil unrest wherever they received refuge and this would have a strong bearing on the treatment of Palestinian refugees in the Arab world later.
+
+In Lebanon, PLO’s Fatah subgroup launched the Black September Organization as a new terror spinoff. Its sole purpose was to terrorize Jordan into submission and to avenge the killing of its _fidayeen_ or suicide bombers during Black September. This cell would gain worldwide notoriety with the following year’s Munich Massacre. Although its original _raison d'être_ was to avenge Black September, the target this time was Israel. Here, BSO terrorists kidnapped and killed eleven members of Israel’s Olympic delegation.
+
+In response to the massacre, Israel’s then-PM Golda Meir instituted an underground operation to hunt down and kill the perpetrators. Operation Wrath of God lasted two decades and exterminated all but three gunmen and one planner, some of whom died of natural causes. Peace became even more elusive now. The following year, in 1973, an Arab coalition led by Egypt and Syria caught Israel by surprise on the day of Yom Kippur and opened the fourth Arab-Israeli War. This was the bloodiest in the series and claimed more than 20,000 lives.
+
+Despite the last-minute warning, Israel won out again. But not without territorial losses. The biggest loss was in Sinai, although it still retained two-thirds of the peninsula. On the northern front, it expanded its ownership of Golan Heights to 193 square miles. While the Yom Kippur War is best known for Israel’s embarrassing intelligence failure, a surprising omission from mainstream discourse deserves just as much attention if not more—the atrocities. The biggest casualty of this war was the Geneva Conventions. Atrocities were reported from both fronts but the north was particularly chilling. Here, the Syrian government awarded medals to a soldier who decapitated Israeli POWs with an axe. Cannibalism was reported too. By none other than the Defense Minister himself.102
+
+Remember Muslim Brotherhood of Egypt? By now, it was in Israel. Gaza, specifically. 1973 saw the rise of Sheikh Ahmed Yassin, a quadriplegic and a prominent member of this group in Gaza, with the establishment of an Islamic charity called Mujama al-Islamiya.103 Despite its subversive origins, the core of the Brotherhood in Egypt had increasingly tended toward nonviolent spiritual Islamism. The Israeli government was aware of its presence in Gaza but instead of flushing it out, saw it as a useful counterweight to Arafat’s PLO, at this point, Israel’s enemy number one. By the way, the only reason the Brotherhood had toned down in Egypt was the Egyptian government’s ruthless crackdown. So they disliked Egypt. Israel also disliked Egypt. Israel and the Brotherhood made strange but, given the circumstances, also natural bedfellows. It’s under these circumstances that Yassin set up his charity. Israel endorsed it. It’s a charity, after all. What could go wrong? The more Yassin grew, the more Arafat would shrink.104 That’s the notion Israel was operating under.
+
+In May 1974, three members of a Marxist PLO affiliate from Lebanon dressed as IDF soldiers broke into a school in the town of Maʻalot and took more than a hundred hostages, mostly kids. By the time this ended, they’d slaughtered thirty, including a four-year-old named Eliyahu. That year also saw the first split in Arafat-held Fatah. A splinter group under one Abu Nidal broke away over irreconcilable differences with Arafat, as a separate unit within the PLO umbrella. This group would go on to execute well over three hundred killings in its twenty-year span.
+
+Meanwhile, having suffered a heavy blow at the three-week Yom Kippur War, Egypt was keen on taking the practical path of peace with Israel. In 1974, leaders from both countries signed a disengagement agreement as a first step toward lasting peace. Further talks would follow over the coming years until a more substantial deal finally came through at the behest of America’s newly elected leader Jimmy Carter in 1978. On his invite that year, Egypt’s Anwar Sadat and Israel’s Menachem Begin met at the US President’s country retreat and signed the eponymously named Camp David Accords. A historic move even if not the ultimate solution. The following year, Israel withdrew from Sinai. Egypt, on its part, became the first Arab nation to formally recognize the State of Israel, a move that greatly angered the Arab world and led to Egypt being kicked out of the Arab League. Ironic, given Egypt was one of the co-founders of the organization. The suspension would last ten years. Both Begin and Sadat won the Nobel Peace for the landmark negotiation; Sadat became the world’s first Muslim Nobel Laureate. But he’d pay dearly for the recognition. His peace overtures had angered Islamist radicals in his land who wanted no such thing with Israel. Eventually, he was assassinated by a member of Egyptian Islamic Jihad, an Islamist outfit like the Muslim Brotherhood. While the latter had lately cut down on violence, the former hadn’t. Many radicals were subsequently indicted, including one Ayman al-Zawahiri, the eventual founder of al-Qaeda.
+
+In 1981, a Palestinian physician from Gaza floated his own jihadi project as an affiliate of Egyptian Islamic Jihad and named it Palestinian Islamic Jihad or PIJ. So now we have in Gaza a chapter of Muslim Brotherhood as Mujama al-Islamiya and a chapter of Egyptian Islamic Jihad as PIJ. While the former was into charity and proselytization, the latter was established with the express purpose of terrorizing Israel. In fact, during the same period, the Mujama even secured official Israeli recognition as a legitimate charity which it actually was. At least until that point. Israel simply needed a radical but nonviolent counterweight to the PLO and Mujama filled that need. But an event that year would ruin Israel’s plans—the Iranian Revolution. The Islamist revival in a faraway Iran became a strong inspiration for Yassin. Violence once again started looking attractive. Mujama al-Islamiya was about to delve into terrorism.
+
+The Maʻalot massacre was no isolated incident. Cross-border terrorism from Lebanon was now a constant nuisance. Things came to a head when Abu Nidal’s group tried to assassinate Israel’s ambassador to Britain—the final straw. The IDF invaded Lebanon in 1982. The same year, Palestinian terrorists found a new guardian angel in Iran’s Ayatollah. Under direct Iranian patronage, a new Shiʿite terror group was born with a name personally chosen by the Ayatollah—Hezbollah.
+
+At that time, the new outfit’s stated goal was to rid Southern Lebanon of Israeli occupation, with no Palestinian interest. Meanwhile, our quadriplegic friend was starting to worry Israel with his switch to militancy. In 1984, he was jailed for stockpiling weapons. Only to be released in a prisoner swap deal, the Jibril Agreement, the following year. The Lebanon War finally came to an end that year with the creation of the South Lebanon Security Zone under Israeli military occupation. Releasing Yassin would prove to be an enormous error of judgment, for he was not the Yassin who founded the Mujama anymore. This Yassin was a full-blown terrorist. Just two years after release, he founded a brand new militant wing of the Palestinian Muslim Brotherhood—the Harakat al-Muqawama al-Islamiya. Hamas for short.
+
+With the entire PLO family (Fatah, Black September, Abu Nidal, etc.) based in Lebanon, there was almost a terror vacuum in Israel. Hamas with its base in Gaza filled that vacuum and inaugurated the First Intifada toward the end of 1987. _Intifada_ is Arabic for rebellion and a euphemism for terrorism. A year in, Hamas unveiled its first official charter—the 1988 Covenant—outlining its violent, Islamist objectives right off the bat.105 Its Article 32 (there are 36 in all) even offers a reason—to counter the Zionist conspiracy “to expand from the Nile to the Euphrates.…as embodied in the Protocols of the Elders of Zion.”106
+
+In other words, the guiding constitution of Hamas based its ideology on a seventy-year-old hoax born in Russia’s pogroms. Yassin got jailed again on charges of ordering hitjobs on “Palestinian collaborators.” But the genie was already out of the bottle. Yassin being in jail didn’t soften his Intifada. If anything, it only intensified. That summer, Israel had its first suicide attack.
+
+It was on a Route 405 bus going from Tel Aviv to Jerusalem. The terrorist flagged the bus, hijacked it, and drove it off a cliff. Sixteen passengers died. The attacker, ironically, survived after being rushed to a hospital by the IDF and treated by Israeli doctors. This was PIJ, not Hamas. But Hamas would quickly rise to eclipse all other actors in the region. Its biggest breakthrough came two years later when a 25-year-old engineering graduate named Yahya Ayyash joined the group as a bombmaking consultant. They nicknamed him “Engineer.”
+
+What made Ayyash particularly useful was his knack for improvisation. Bombs are typically made with TNT. But TNT was hard, almost impossible to come by. So he improvised. He mixed acetone and common detergent to make acetone peroxide, an explosive alternative to TNT. They call it _Mother of Satan_ for its explosive qualities.107 Ayyash quickly became the backbone of Hamas’ suicide operations. Every suicide mission from that point on would employ Mother of Satan as the explosive of choice. It became a Hamas signature. Israel’s first real suicide attack, one where the attacker actually dies, would only come in 1993. Still two years away. Much would happen in this gap. Both in Israel and elsewhere. The most notable event was the First Gulf War.
+
+Remember what the Palestinians did in Jordan and Lebanon? Now it was Kuwait’s turn. The kingdom was then home to over 300,000 of those. When Saddam invaded it, Arafat and his PLO openly declared support for the invasion. Bad move.108 In light of their leadership’s open collusion with an invading enemy, the refugees were either harassed into leaving or expelled immediately after the war.109 At the time, Palestinians made up nearly a fifth of Kuwait’s population. By the end of 1992, they were all gone.
+
+[![](https://substackcdn.com/image/fetch/$s_!Glxs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0f7a2c0-a970-4650-aba2-2b6b4b95bbad_588x660.jpeg)](https://substackcdn.com/image/fetch/$s_!Glxs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0f7a2c0-a970-4650-aba2-2b6b4b95bbad_588x660.jpeg)**Fig. 19** : Yasser Arafat met Saddam Hussein and publicly expressed solidarity with his cause during the invasion of Kuwait; more than 300,000 Palestinian refugees were living in Kuwait then. [courtesy Katia Riccardi in “21 of 73, Nella foto il leader dell'Olp stringe la mano al presidente dell'Iraq, in divisa, durante la sua visita a Bagdad,” _La Repubblica_ , 29 December 2016, https://www.repubblica.it/esteri/2016/12/29/foto/saddam_hussein_timeline-155044965/1/. Accessed 24 November 2023.]
+
+The same year, another expulsion took place in Israel in December. In response to the unrelenting wave of terror (the First Intifada was still on), the IDF moved to expel more than 400 Palestinians to Southern Lebanon.110 A monumental strategic mistake. Southern Lebanon was already crawling with terrorists and sending these Palestinians there was akin to gifting manpower to one’s enemies. The deportees quickly joined Hezbollah which taught them things like rocketry and espionage.111 Hamas was about to get much stronger.
+
+The same year, the killing of a Jewish teenager in Jerusalem prompted PM Rabin to consider a security fence along Israel’s borders with Gaza and the West Bank.112 The idea was to separate Palestinian militants from Israeli civilians. This was going to be a barbed wire affair. On the Palestinian side, Hamas spun off its military activities into a separate unit for better efficiency and named it after the founder of Palestine’s first terrorist organization—Izz ad-Din al-Qassam Brigades.
+
+April 1993 brought Israel its first true suicide attack—the Mehola Junction bombing. Yahya Ayyash had rigged a Volkswagen Transporter using three large propane tanks and explosives collected from unused grenades. Hamas instantly claimed responsibility. Besides the attacker, only one individual died. Don’t forget, this was a war of attrition. The objective was to terrorize into submission with incessant low-grade attacks rather than execute just a few big ones. These suicide attacks became a routine affair. No civilian space was safe.
+
+Finally, in an attempt to cool things down, Clinton urged Rabin and Arafat to give peace another chance and they reluctantly agreed. For Rabin, Arafat was the leader of a designated terror group, so the reluctance was palpable. He couldn’t be seen platforming a terrorist. That’s why several secret meetings were held in Oslo before the final summit. Consequently, although the final summit took place in the White House, it came to be called the Oslo Accords anyway. This was the first time Israel and PLO were talking. Things looked promising. The landmark initiative landed Arafat, along with Shimon Peres and Yitzhak Rabin, the following year’s Nobel Peace. This summit birthed many historical firsts. For the first time, Israel accepted a Path to Palestinian Statehood and PLO recognized the State of Israel. The First Intifada also ended after six years of bloodletting. Peace finally seemed within grasp and a Nobel Peace to someone like Arafat, was the strongest statement of hope in that direction.
+
+But not everybody was celebrating.
+
+The accords were essentially a roadmap to a future two-state solution. Many Muslims saw this as a betrayal. As did many Jews. The most bitter contest was over the West Bank, for it comprised places sacred to both communities. But more importantly, it involved a wall. The second phase of the accord (there were two), also called Oslo II, provisioned the creation of Areas A, B, and C in the West Bank. Areas A and B were Palestinian enclaves and C, Israeli. A Palestinian Authority was also created as Palestine’s governing body. Area A was to be exclusively under Palestinian rule and C, exclusively under Israeli. B was to be jointly governed by both.
+
+[![](https://substackcdn.com/image/fetch/$s_!LJgQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e2a3a0c-8911-4e76-b4f4-72e08736fb31_620x953.jpeg)](https://substackcdn.com/image/fetch/$s_!LJgQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e2a3a0c-8911-4e76-b4f4-72e08736fb31_620x953.jpeg)**Fig. 20** : A high-level map of Areas A, B, and C in the West Bank. [courtesy Zena Tahhan in “Who’s next? Thousands of Palestinians face eviction after Khan al-Ahmar demolition,” _Middle East Eye_ , 21 November 2018, https://www.middleeasteye.net/news/whos-next-thousands-palestinians-face-eviction-after-khan-al-ahmar-demolition. Accessed 24 November 2023.]
+
+[![](https://substackcdn.com/image/fetch/$s_!znYq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b0e62d8-a030-4167-aca9-ff73c5e8217b_602x739.png)](https://substackcdn.com/image/fetch/$s_!znYq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b0e62d8-a030-4167-aca9-ff73c5e8217b_602x739.png)**Fig. 21** : A West Bank road sign announcing the entrance to an Area-A settlement; not only are Israeli citizens forbidden from entering but they’re even warned of dangerous consequences should they ignore the sign. [courtesy Megan Giovannetti in “Israeli warning signs are placed at every entrance to ‘Area A’ in the occupied West Bank,” _Al Jazeera_ , 19 December 2018, https://www.aljazeera.com/features/2018/12/19/christmas-in-bethlehem-controlling-the-narrative-through-tourism. Accessed 24 November 2023.]
+
+This didn’t go down well with the hardliners on either side, but mostly Muslims who had always rejected every hint of a two-state eventuality. To them, Arafat had injured the Palestinian cause. The accord also recognized Israel’s existing barbed-wire fence as a non-border security barrier, purely for administrative purposes. This was key. Now because many Muslims saw the Accords as a betrayal, a new wave of sectarian violence ensued. To contain the situation, Rabin ordered an upgrade to the barrier with Palestinian areas, both Gaza and West Bank. The barbed wire was to be replaced with concrete walls.
+
+This is where the apartheid rhetoric took form. Palestinians accused the Israeli government of forceful segregation whereas Israel called it a necessary inconvenience in its war against terrorism. Amidst all this chaos, Rabin and Arafat continued to fall in popularity.
+
+A prominent Israeli voice against the accord was the leader of the opposition, Benjamin Netanyahu. On the Palestinian side, Hamas and PIJ dominated the discourse. Rabin grew spectacularly unpopular among Israelis who even started calling him a Nazi. So unpopular that 1995 ended with his assassination by a Jewish terrorist. On the Palestinian front, terror attacks intensified exponentially. Four months later, Shin Bet, Israel’s internal security agency, managed to take out Hamas’ “Engineer,” Yahya Ayyash with a remote-controlled phone bomb.113 He who lived by technology, finally died by technology. Today, there are streets named after him in Arab-controlled areas.
+
+[![](https://substackcdn.com/image/fetch/$s_!QqSX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2add659-b208-4c43-82ef-d0a84e9006c5_620x846.png)](https://substackcdn.com/image/fetch/$s_!QqSX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2add659-b208-4c43-82ef-d0a84e9006c5_620x846.png)**Fig. 22** : A street in Ramallah named after Yahya Ayyash, highly regarded in terrorist circles for his bombmaking skills. [courtesy Issam Rimawi in “ANP contests with Israeli example of a road named after a controversial politician,” _O TEMPO_ , 4 May 2013, https://www.otempo.com.br/mundo/rua-com-nome-de-engenheiro-do-hamas-provoca-polemica-1.345786. Accessed 24 November 2023.]
+
+The year after, Ahmed Yassin stepped out of jail prematurely in yet another prisoner swap deal between Israel and Jordan. No more suicide attacks, he was made to promise. After Rabin’s assassination, the Prime-Ministership had gone to the Likud firebrand, Netanyahu. The same year, the Waqf of Jerusalem embarked upon an extremely controversial project that’d contribute to much unrest in the city down the line—the construction of a new mosque, the al-Marwani Mushalla, at the site of Solomon’s Stables in the al-Aqsa Mosque compound. The construction was vehemently protested but continued unabated and the mosque was thrown open later that year. Excavations continued for further renovations and constructions, over the following couple of years, resulting in thousands of tons of archaeologically rich earth from the historic esplanade.
+
+Two years into office, in 1998, Netanyahu met Arafat and signed the Wye River Memorandum. With this, he transferred even more West Bank territory to Palestinian control in an attempt to secure peace.114 Arafat wanted more than what was offered but settled. The new millennium opened with a big promise. The Israeli PM now was Ehud Barak. Clinton invited him and Arafat for talks once again—the 2000 Camp David Summit. The last time Israel was there, it was with Egypt. This summit was historic in terms of Israeli concessions.
+
+In a stunning geopolitical move, Barak offered Arafat 100% of Gaza and more than 90% of the West Bank, albeit in non-contiguous territory and with an Israeli military presence along 15% of the West Bank-Jordan border. Arafat rejected the offer without a counteroffer. Clinton openly expressed his displeasure with Arafat’s attitude by pointing out that the latter “had been here 14 days and said no to everything.”115
+
+[![](https://substackcdn.com/image/fetch/$s_!M18K!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc171e7ec-98a3-4c56-9a23-5fe1d4f8ab22_1810x2560.jpeg)](https://substackcdn.com/image/fetch/$s_!M18K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc171e7ec-98a3-4c56-9a23-5fe1d4f8ab22_1810x2560.jpeg)**Fig. 23** : Israel offered all of Gaza and 90% of the West Bank to Palestine at the 2000 Camp David Summit, but Arafat famously rejected it outright without making any counteroffer. [courtesy Shaul Arieli in “Negotiations,” _shaularieli.com_ , https://www.shaularieli.com/en/maps/negotiations/, Accessed 24 November 2023.]
+
+The same year, Ariel Sharon, the opposition leader at the time, made a controversial visit to the Temple Mount. The place was still a powderkeg and had remained in Muslim control despite Israel’s 1967 win. Jews have always found this arrangement unfair for obvious reasons. With this visit and Arafat’s rejection (rejection no. 4, by the way) commenced the Second Intifada, a deadlier iteration of the First. Terrorists tore down the wall with Gaza, also called the Iron Wall, and started infiltrating Israeli cities for suicide missions. Israeli civilians were now getting killed in restaurants, buses, and supermarkets. Terror strikes became once again a daily affair.
+
+March alone witnessed no fewer than twelve suicide attacks killing over a hundred Israelis making it the most traumatic month of 2002. The worst of those was at a Passover dinner where a Hamas operative named Abdel Basset Odeh blew himself up killing thirty Jews, some of them Holocaust survivors. This was a particularly disturbing symbolism as some of the worst Jewish pogroms in the past had taken place on this day. Pressed into action, Rabin ordered a crackdown under the name of Operation Defensive Shield. Part of the operation was the infamous siege of Palestinian facilities, both civilian and military. Even Yasser Arafat couldn’t move about. A border upgrade was also ordered. The existing barbed-wire fencing was to become a solid, hopefully impregnable, concrete wall. The objective was to keep Israel’s frontier civilians safe against terrorist incursions from Gaza. There was immense international criticism of the “segregationist” move. Over the following decades, more than 400 miles of walls would be built.
+
+Remember the thousands of tons of archaeologically rich soil removed by the Waqf during the constructions in the al-Aqsa compound? In 2004, some Jewish institutions decided to do something about it. Much could be salvaged from this debris. So, they launched a crowdsourced operation to sift the debris for archeological artifacts—the Temple Mount Sifting Project. The project continues to this day and has been a resounding success. While a number of precious relics have been recovered, of particular importance is something called Immer Bulla, a broken seal bearing the name Immer. And who’s Immer? A Biblical character, a priest at Solomon’s Temple mentioned in Jeremiah 20:1, Ezra 2:37, Nehemiah 3:29, and seven other places in the Old Testament. The seal has been paleographically dated to the First Temple period, i.e. between the seventh and sixth centuries BC.116
+
+Now, let’s revisit the question we asked long ago, about the claim that the Temple Mount is where Solomon’s Temple once stood. We know the Grand Mufti of Jerusalem had admitted the fact as undisputable in 1925, but over the years, there’s been a trend of denial among Muslim thinkers. The phenomenon even has a name—Temple denial. A famous example is when Yasser Arafat was at Camp David for the summit and told Clinton that “Solomon’s Temple was not in Jerusalem but Nablus.”117 Today, Temple denial remains a prominent feature of Muslim thought on the subject. In an ideal world, such a question would be most easy to settle with archeological excavations. But in ours, that’s unthinkable, given the extreme religious sensitivity attached to the area. Ironically, the Waqf move to build the mosque at Solomon’s Stables helped do just that. Today, Immer Bulla is just one of many incontrovertible proofs of Temple Mount being the site of Solomon’s Temple.
+
+Arafat died in November 2004. Palestine needed a new President. So elections were held two months later in which Mahmoud Abbas of PLO’s Fatah group came out on top. Hamas rejected the outcome. To reiterate the fundamental difference between Hamas and Fatah, the latter recognized the State of Israel, the former didn’t. Immediately after the election, Abbas and Sharon signed a ceasefire agreement vowing to pause all hostilities. The Intifada was effectively over.
+
+Later that year, in a sudden move, Ariel Sharon decided to withdraw from Gaza unilaterally. Do note that the place was at that time home to more than nine thousand Jews—all ordered to evacuate. Leaving behind homes, farms, greenhouses, everything. The Jewish settlements in Gaza, collectively known as Gush Katif, were highly developed urban centers with all amenities. Naturally, the evacuation was a rather unpopular call. There were fierce protests in Israel. But the order stayed. By year’s end, no Jew remained in Gaza—living or dead. That’s right, dead Jews of Gush Katif were exhumed and transported to Israel for a second funeral.118
+
+With this withdrawal, things again started looking upbeat. Peace again seemed within reach. But Hamas, by now, had built an enormous clout in Gaza. As soon as the Jews left, they began their takeover of the territory using both social outreach and violent aggression. That Fatah was seen as highly corrupt by the Gazans—Arafat died a billionaire119—only helped Hamas gain further ground politically. This optic win would come in handy only months down the line when Palestine would vote for a new PM. Meanwhile, Israel started renovating its wall with Gaza, often dubbed the “Iron Wall,” in earnest, for a Hamas-held Gaza was still an existential threat. The new wall would be equipped with high-tech security features and motion sensors and raised to twenty-two feet in height. And watch towers every two kilometers. It’d be further supplemented with both air and ground patrol. A total of $220 million would be spent on what must be the world’s most expensive border wall.
+
+[![](https://substackcdn.com/image/fetch/$s_!wuE-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F477b6436-d793-4ca5-aa7a-2824030ebffd_4971x2164.png)](https://substackcdn.com/image/fetch/$s_!wuE-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F477b6436-d793-4ca5-aa7a-2824030ebffd_4971x2164.png)**Fig. 26** : Also referred to as "the “Iron Wall,” the defensive barrier along the Israel–Gaza border is said to be the world’s most expensive and most secure. [courtesy Andrei Popoviciu and Lubna Masarwa in “Gaza: What the iron wall built by Israel means for besieged Palestinians,” _Middle East Eye_ , 11 December 2021, https://www.middleeasteye.net/news/israel-iron-wall-gaza-palestinians-siege. Accessed 24 November 2023.]
+
+Besides the wall, Israel also moved to blockade the Strip. Most movements between Gaza and Israel were restricted. Palestinians could and did still cross into Israel for work, but with permits. And permits were limited. Only humanitarian movements were allowed. Goods were subjected to intense border scrutiny and nothing that could be made into weapons was allowed. Israel still gave water and electricity, albeit heavily rationed. But it wasn’t alone in the blockade. Following suit, Egypt also blockaded its border with the Strip. The memories of what the Palestinians did on Egyptian soil through the 1970s were still too fresh.
+
+In January 2006, Palestine went to the ballots for a new PM. Thousands of domestic and international observers monitored the election process and unanimously deemed the process “festive and peaceful”120 and the outcome “free and fair.”121 It was indeed, the will of the people.
+
+Hamas won a plurality of votes and a majority of seats. Its leader Ismail Haniyeh became the new PM after much political drama. The rift between Fatah and Hamas violently spilled out into the streets of Gaza. The same year Israel elected a new PM too. As Ismail Haniyeh took office in Ramallah, Ehud Olmert took oath in Jerusalem. Remember the 28-year-old Mordechai Olmert who survived the 1947 Fajja Bus Attacks? Ehud was his son.
+
+By the way, when Fatah and Israel signed their ceasefire in 2005, Hamas too had followed and announced a unilateral ceasefire shortly. Problem is, it refused to take any responsibility for the actions of other Gaza groups not party to the ceasefire. What other groups? PIJ, for one. Clearly, the ceasefire meant little as rocket fires continued unabated from Gaza. Israel suspected Hamas of complicity in these attacks. There were direct Hamas attacks as well. So the ceasefire never really held.
+
+Now, all exceptions to cross-border movements were off the table. Meanwhile, things seemed to simmer down between Hamas and Fatah. The two even formed a unity government for a while. But that broke down by the summer of 2007 when the two clashed in a bitter fight for control over Gaza. The Battle of Gaza resulted in massive deaths and a complete and absolute control of the Strip by Hamas. The Palestinian Authority was now confined to the West Bank with a Fatah President. Despite its assumed political legitimacy in the 2006 elections, Hamas did not give up on terrorism. Whatever remained of its “ceasefire” promise with Israel, had already ended in June 2006. The blockade, however, severely reduced its military capabilities. To remedy this impediment, it built tunnels. These secret pathways became conduits for all kinds of contraband including weapons and terrorists. As the network grew, it earned a new name—Gaza Metro.
+
+[![](https://substackcdn.com/image/fetch/$s_!wZfn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54e26c5e-62d8-4351-b33d-16c76a19f773_1024x1150.png)](https://substackcdn.com/image/fetch/$s_!wZfn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54e26c5e-62d8-4351-b33d-16c76a19f773_1024x1150.png)**Fig. 27** : More than 300 miles of tunnels run under Gaza as per Hamas’ own admission in a CNN report in October 2023. [courtesy Israel Defense Forces in “Israel targets Hamas’s labyrinth of tunnels under Gaza,” _BBC News_ , 13 October 2023, https://www.bbc.com/news/world-middle-east-67097124. Accessed 24 November 2023.]
+
+Following suit, Egypt too renewed its blockade of Hamas and built its own wall along the Sinai–Gaza border. This was prompted by its fears that the Hamas-Iran nexus would bring increased Shiʿa influence in the region which wasn’t conducive to Egypt’s stability. These apprehensions weren’t unfounded either because, in 2009, Hamas’ partner-in-terrorism Hezbollah did plot attacks on Sinai.122 Interestingly but understandably, Egypt’s move to wall out Gaza and flood its tunnels would find ready endorsement from the Palestinian Authority as reported by Al Jazeera in a 2014 report.123
+
+In 2008, Israel had made yet another bid for peace and made new territorial concessions. This time, Olmert offered Abbas East Jerusalem along with 94% of the West Bank, additional Israeli territory to compensate for the 6% shortfall, and a civilian corridor between Gaza and the West Bank. On top of this, he also agreed to place the entirety of Old Jerusalem along with the Temple Mount under a five-member trust comprising Israel, the Palestinian Authority, Jordan, the United States, and Saudi Arabia.
+
+[![](https://substackcdn.com/image/fetch/$s_!8gOt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd32972e5-05d6-49db-b5c4-fd703993c3ac_528x518.png)](https://substackcdn.com/image/fetch/$s_!8gOt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd32972e5-05d6-49db-b5c4-fd703993c3ac_528x518.png)**Fig. 28** : In a 2008 proposal, Israel offered Palestine even more territory than it had the last time with Arafat; this time it also offered a civilian corridor between Gaza and the West Bank. [courtesy Adam Chandler in “Former Israeli Prime Minister Ehud Olmert's 2008 Peace Plan That Included E-1,” _Tablet Magazine_ , 3 December 2012, https://www.tabletmag.com/sections/news/articles/on-the-reactions-to-israels-e-1-plan. Accessed 24 November 2023.]
+
+As a quick aside, Israel’s wilful forfeiture of Jerusalem warrants examination. Let’s understand the city map first. For the longest time, Jerusalem was just the 250 acres enclosed within the walls first built by some Bronze Age ruler, then renovated by Suleiman the Magnificient. With time, as the population grew and surrounding areas gentrified, the city grew well beyond the walls. Today, we call the walled enclave Old Jerusalem. Within this enclave is the much smaller Temple Mount which has its own enclosing walls. When Israel lost Judea and Samaria to Jordan after the 1948 war, it also lost part of Jerusalem. The city stood divided between a western half under Israel and an eastern half under Jordan. The latter is officially called East Jerusalem and is the half that includes Old Jerusalem. In short, the territory considered the holiest of the holies by the Jews has been under Jordan ever since Israel’s independence. So central is the territory to the Jewish identity that to this day, Jews pray for a “return to Jerusalem” three times a day facing the city. _L'Shana Haba'ah B'Yerushalayim_ or “Next year in Jerusalem” is still said after every Passover feast or Seder and after the Yom Kippur concluding service or Ne'ila. The annual fast of Tisha B'Av still mourns the city’s destruction more than 2,500 years ago. To this day, a glass is ritually smashed at Jewish weddings to commemorate the city’s past destructions and _Im eshkachech Yerushalayim_ , meaning “If I forget thee Jerusalem”) is sung; the song, by the way, comes from Psalms 137 of the Old Testament. And this is what makes Olmert’s cessation of East Jerusalem for the sake of peace particularly intriguing. Did it help?
+
+Abbas rejected the offer, Palestine’s sixth. Israel’s blockade of Gaza was now already being called things like “world’s largest open-air prison.” Even though there was never any ban on strictly humanitarian movements. UN relief freely entered the Strip, with Israeli border inspection, of course. But it didn’t always reach its intended recipient. In February 2009, thousands of blankets and several hundred tons of food were looted by Hamas from a UN distribution center.124 UNRWA had to temporarily suspend all relief into Gaza as a result.
+
+The Israeli blockade extended to Gaza’s coastline too. Any ship headed to the Strip was required to dock at Ashdod where Israeli officials would inspect the payload for contraband before unloading. Following mounting international protests, both Egypt and Israel would later relax their respective blockades to allow more fluid humanitarian movements125 and let even dual-use goods into Gaza. None of this helped improve the quality of life for the average Gazan.
+
+In July 2009, the Palestinian Health Authority complained of the al-Shifa Hospital being illegally used as a Hamas facility.126 This is the largest hospital in the Gaza Strip, so the news was alarming. The world was about to learn the concept of “human shield.”
+
+In November 2012, with the intervention of Egypt and America, the warring sides finally agreed to a ceasefire.127 Hamas agreeing to a ceasefire was good news but would it hold? Of course not. Not even two years in, Hamas struck. This time in the West Bank cluster of Gush Etzion. Three Israeli teenagers were kidnapped and subsequently murdered by Palestinian terrorists in June 2014. The bodies were found more than two weeks later. Hamas leader Khaled Meshal went on record to applaud the crime.128 Israel responded first with Operation Brother’s Keeper in which hundreds of suspects were rounded up, then with Operation Protective Edge after Hamas rockets landed on Israeli soil. This second operation lasted seven weeks and claimed two thousand lives, mostly Palestinian.
+
+Restrictive as Gaza’s blockade was, it’s interesting how Hamas still managed to bring in all kinds of firepower into the so-called “open-air prison” for strikes on its neighbor.129 Either the blockade wasn’t restrictive enough (it was clearly not effective at stopping cross-border terrorism), or the claims were unfounded. Truth is more likely to be someplace between the two.
+
+An attempt at a ceasefire was made once again by Egypt on July 15. Both Palestine and Israel accepted it. But it failed to stop the fight because Hamas refused saying it was not consulted by the Palestinian Authority.130 The same day, the Washington Post carried a piece confirming an earlier allegation of the al-Shifa Hospital being the “de facto headquarters for Hamas.”131 This won’t be the last such claim.
+
+Only a week later, Libération (popularly shortened to Libé), a French left-wing daily started by Jean-Paul Sartre, carried pictures confirming the al-Shifa allegations.132 These pictures were taken by the Palestinian war correspondent Radjaa Abou Dagga. Those days he was one of the remarkably few international journalists who could still report from inside the Gaza Strip. But the very next day, the report was mysteriously removed from Libé’s website with an explanation that Dagga was threatened to “leave Gaza as soon as possible and stop working.” Of course, the only way we now know of this warning is through online archives of the page’s copy. 133 Because eventually, that page disappeared too. Today, the link leads to a generic 404 message with no reference to the removed content.
+
+The allegation was yet again confirmed only days later when an unnamed correspondent of Finland’s Helsingin Sanomat reported live from the hospital’s parking lot confirming rocket launches from the premises at two in the morning.134 Not surprisingly, that video too vanished from the channel’s YouTube account no sooner than it was out. Thankfully, copies remain on various other channels for anyone interested.135 About a year later came yet another affirmation, the most damning of all, from none other than Amnesty International which confirmed that Shifa’s outpatient clinic doubled as a Hamas torture chamber.136
+
+On the subject of human shields, it’s worth noting that Israel too has at times deployed minors in that role. The most notable instance was in 2009 when two IDF soldiers used a nine-year-old as a human shield on one of their raids in Gaza. One might thus, be tempted to start drawing parallels, but that’d be deliberately ignoring nuances that are indispensable to the discourse. The two soldiers who used the nine-year-old in their raid, for instance, were not egged on by their government and rewarded for their crime. Instead, they were duly court-martialed, downranked, suspended, and imprisoned less than two years later.137 Now one may debate the adequacy of the penalty but the fact that there was one instantly sets apart how human shields are seen by Israel and Palestine. Because, in stark contrast, Palestine not only encourages human shields but even rewards them as martyrs for the cause.
+
+There are literal cash rewards for terrorists killed in action and the funds come from all the monetary aid Palestine receives from the international community. It even has a name—Palestinian Authority Martyrs Fund. Besides this, Hamas also maintains its own corpus exclusively for Gazans. Critics of these terror doles, which include the World Bank, have called these programs “pay to slay.” A major philosophical difference between Israel and Palestine in the context of human shields, besides the fact that only Palestine has institutionalized the format, is that only Palestine uses its own citizens in the role. The IDF has never used an Israeli as a human shield and while every life matters, this distinction speaks to the difference in the two entities’ attitudes toward their own. In fact, in a 2008 press conference, Meshal is said to have quipped:138
+
+Text within this block will maintain its original spacing when published
+    
+    
+    “If you will foolishly decide to enter Gaza, we will fight you. You will face not only thousands of our combatants but also a million and a half of our population, driven by the desire to become martyrs.”
+
+In the same vein, a Hamas spokesperson had this to say on the newly launched Hamas channel named al-Aqsa TV in 2006:139
+
+Text within this block will maintain its original spacing when published
+    
+    
+    “The citizens will continue defending their pride and houses and will continue to serve as human shields until the enemy will withdraw.”
+
+It’s no insignificant distinction. In Gaza, the entire military infrastructure is designed with human shields in mind. The firing of rockets from hospitals and the stowing of ammunition in schools are just two of many illustrations on record.140
+
+In 2017, Ismail Haniyeh, the elected PM of Palestine and _de facto_ leader of Gaza, relocated to Doha leaving local affairs in the hands of Yahya Sinwar. To date, he remains in Doha, along with his predecessor Khaled Meshal, under the generous patronage of the government of Qatar. Meshal had moved to Qatar after expulsion from Syria and had earlier moved to Syria after expulsion from Jordan. In sum, Gaza is being governed and made cannon fodder by men who haven’t lived in Gaza for years now and have practically zero intention of ever returning.
+
+Meanwhile, the Strip has remained the world’s biggest aid magnet in history. In the six years between 2014 and 2023 alone, various UN agencies pumped a total of $4.5 billion in aid money to Gaza.141
+
+That’s Gaza, not Palestine. Just Gaza.
+
+But that’s far from all. Millions of dollars come from the US each year, and even more from the EU (€100 million this year).142 The latter also laid some thirty miles of water pipes to supply Gazans with clean drinking water. And yet, Gaza remains one of the world’s poorest regions. There are multiple reasons for this. We already learned how Hamas stole hundreds of tons of UNRWA relief material in 2009. This wasn’t an isolated incident. Hamas has always stolen aid packages,143 transported them through its tunnels, and sold them later at inflated prices. Earlier this year it was reported that Hamas not only smuggles contraband through its tunnels but even refuses to make its finances public to its own citizens, as would be expected in a functioning democracy.144 Much of Haniye’s and his predecessor Meshaal’s wealth (and they're both multimillionaires) is made up of a 20% illegal “tax” on all contraband transported through Hamas tunnels.145
+
+The other, more sinister reason for Gaza’s impoverishment is the diversion of resources to terror. The thirty miles of water pipes that we just spoke of? Hamas dug them out and repurposed them as rocket fuselages.146 Rockets that would then be fired at Israel’s civilians. It’s not just material resources that get diverted to terror, it’s also human resources. For example, in 2004, a 16-year-old Amer al-Fahr blew himself up in a suicide attack in Tel Aviv.147 Hamas and its allies have repeatedly refused to consider anyone aged sixteen or above as a child. Amer was one of many such child soldiers employed from time to time by the jihadists in the region. Before him, Safwat Abdel Rahman, Hamza Aref Samudi, Iyad al-Masri, Khamis Gerwan, had all died as suicide bombers in various parts of Israel.148 All just seventeen. Earlier that year Amnesty International had even put out a press release calling for a stop to the practice of hiring child soldiers for terrorism.149 We already saw what happened at al-Shifa, the Strip’s largest medical facility. Hamas has used schools, mosques, and hospitals as munition depots all the time.150 Of course, they use their tunnels for such purposes too. Many of which run right under schools and other civilian facilities.151 Fortunately, much of their activities had remained confined to Gaza. The West Bank had been relatively calm. Which brings us to 2019.
+
+March 12 that year, the Jerusalem Post quoted Netanyahu thus:152
+
+Text within this block will maintain its original spacing when published
+    
+    
+    “Whoever is against a Palestinian state should be for transferring the funds to Gaza, because maintaining a separation between…West Bank and…Gaza helps prevent the establishment of [Palestine].”
+
+While this stunned many, the nexus between Netanyahu and Hamas has been written on for quite a while now. A big player in the equation is Qatar which sends in millions of dollars every month as aid to Gaza, aid being a euphemism for whatever Hamas does. Earlier all this money would get channeled through the official Palestinian government, the Palestinian Authority in Ramallah. Netanyahu, being a fierce opponent of the two-state solution, just like Hamas, saw value in keeping the latter alive and fed. So he plugged Israel into the money trail. Now Qatar was electronically transferring dollars to Israel, and UN and US officials were then carrying cash in suitcases to Gaza.153 On paper, money was going to needy Gazans but the _de facto_ recipient was Hamas.
+
+So long as Hamas remained strong, Gaza remained off-limits to the Palestinian Authority. And so long as Gaza remained off limits to the Palestinian Authority, the Oslo Accords remained unimplemented. Consequently, a unified Gaza–West Bank entity would remain a pipe dream. But Netanyahu was flirting with the Devil and would find out the hard way in 2023.
+
+Passover is a Jewish festival that involves sacrifice, typically a lamb—Paschal lamb. Christians don’t do this because for them Christ’s crucifixion satisfied that requirement for all mankind. Back in the day, this sacrifice was performed at the big Temple in Jerusalem. But since the Temple hasn’t been around for a while now, no lambs are sacrificed at the Mount anymore. As we already know the Halakhic rules forbid Jews from even worshipping at the Mount. Besides, doing that now after so many years would spark riots with Muslims. That’s sort of what happened on the first day of Passover in 2023.
+
+Rumors circulated that Jews were planning a sacrifice on the Mount. Not just anywhere on the Mount but specifically in the al-Aqsa Mosque compound. Muslims had reasons to be incensed. Things were further complicated by the fact that this year Passover coincided with Ramadan. So Muslims gathered at the Mount in large numbers to prevent the rumored sacrifice. Israel has some very strict rules around human presence in this space. There’s a limit on how many can visit and there’s also a limit on how long they can stay. Overnight stays are strictly prohibited. Except for Muslims during the last ten days of Ramadan. This gathering was well outside that window, hence already illegal.
+
+The gathering began in the final week of March because the rumored sacrifice was on April 4. However, the permissible window for overnight stays would only open on April 11. April 3 turned particularly tense with hundreds of Muslims barricading themselves inside the al-Aqsa Mosque. When nothing worked, and they refused to leave, riot police had to be brought in. In the scuffle that followed, some 400 Muslims were arrested and fifty injured.
+
+There was no Paschal sacrifice, but the rumor had done its job. Rocket fires intensified from both Lebanon and Gaza. The civilians at large were still relatively safe. There was a wall. There was the Iron Dome. Plus there was the ceasefire of 2014 between Israel and Palestine (despite Hamas’ refusal).
+
+Then came October 7.
+
+## Further Reading
+
+  1. Pringle, Denys. _Pilgrimage to Jerusalem and the Holy Land, 1187–1291_. USA, Routledge, 2016.
+
+  2. Shragai, Nadav. _Al-Aqsa Terror: From Blood Libel to Bloodshed_. Israel, Jerusalem Center for Public Affairs, 2020.
+
+  3. Becker, Jillian. _The PLO: The Rise and Fall of the Palestine Liberation Organization_. USA, AuthorHouse, 2014.
+
+  4. Alexander, Yonah. _Palestinian Religious Terrorism: Hamas and Islamic Jihad_ , USA, Transnational Publishers, 2002.
+
+  5. Aday, Sean, et al. _Hybrid Threats: A Strategic Communications Perspective_ , NATO Strategic Communications Centre of Excellence, Latvia, 2019.
+
+
+
+
+## References
+
+1
+
+Noll, K. L. “5. The Late Bronze Age.” _Canaan and Israel in Antiquity: An Introduction_ , Sheffield Academic Press, USA, 2001, pp. 124–26.
+
+2
+
+Lange, Hans Ostenfeldt. “Der Magische Papyrus Harris.” _Historisk-Filosofiske Meddelelser_ [German], vol. 14, no. 2, 1927, p. 15.
+
+3
+
+Galil, Gershon. “A Re-Arrangement of the Fragments of the Tel Dan Inscription and the Relations Between Israel and Aram.” _Palestine Exploration Quarterly_ , vol. 133, no. 1, 2001, pp. 16–21, https://doi.org/10.1179/peq.2001.133.1.16.
+
+4
+
+Biran, Avraham, and Joseph Naveh. “An Aramaic Stele Fragment from Tel Dan.” _Israel Exploration Journal_ , vol. 43, no. 2/3, 1993, pp. 90–93.
+
+5
+
+Younger, K. Lawson, Jr. “Summary Inscription 7 (2.117D).” _The Context of Scripture_ , edited by William W. Hallo, vol. II, Brill, Netherlands, 2003, p. 289.
+
+6
+
+Grayson, A. K. “Chronicle Concerning the Early Years of Nebuchadnezzar II.” _Texts from Cuneiform Sources_ , edited by A. Leo Oppenheim, vol. V, J. J. Augustin Publisher, USA, 1975, p. 100.
+
+7
+
+Feldman, Michael, et al. “Ancient DNA Sheds Light on the Genetic Origins of Early Iron Age Philistines.” _Science Advances_ , vol. 5, no. 7, July 2019, p. 6.
+
+8
+
+Grayson, _op. cit._ , p. 102.
+
+9
+
+Crotty, Robert. “2.6 Judah in the Persian World.” _The Christian Survivor: How Roman Christianity Defeated Its Early Competitors_ , 1st ed. 2017, Springer, Singapore, 2017, p. 25n4.
+
+10
+
+Schaudig, Hanspeter. “The Text of the Cyrus Cylinder.” _Cyrus the Great: Life and Lore_ , edited by M. Rahim Shayegan, Ilex Foundation, USA, 2018, pp. 23–24.
+
+11
+
+Herodotus. “Book VII Polymnia: Catalogue of the Ships.” _The Histories of Herodotus_ , translated by Henry Cary, D. Appleton and Company, New York, USA, 1904, p. 395.
+
+12
+
+Herodotus, _op. cit._ , “Book II Euterpe: Sesostris,” p. 120.
+
+13
+
+Aristotle. “Book II.” _Meteorologica_ , edited by E. W. Webster, vol. III, The Clarendon Press, UK, 1923, p. 358b.
+
+14
+
+“Hoard of Silver Coins From Maccabean Revolt Found in Israel.” _Sci.News_ , 26 Dec. 2022, www.sci.news/archaeology/maccabean-revolt-coins-11512.html.
+
+15
+
+Weisberger, Mindy. “Evidence of Hanukkah’s Maccabee Rebellion Unearthed in Israel.” _Live Science_ , 23 November 2021, www.livescience.com/hanukkah-fort-maccabee-rebellion-israel.
+
+16
+
+Patrich, Joseph, and Marcos Edelcopp. “Four Stages in the Evolution of the Temple Mount.” _Revue Biblique_ , vol. 120, no. 3, July 2013, pp. 338–39.
+
+17
+
+Wright, Wilmer Cave, translator. “Letters 1–58 with Dates.” _The Works of the Emperor Julian_ , vol. III, Harvard University Press, USA, 1953, pp. 177–81.
+
+18
+
+Evetts, B. T. A., translator. “Account of Mark Ibn Al-Kanbar.” _Churches and Monastries of Europe and Some Neighbouring Countries_ , The Clarendon Press, Oxford, UK, 1895, p. 39n1.
+
+19
+
+el-Awaisi, abd-al Fattah. “Umar’s Assurance of Aman to the People of Aelia (Bayt al-Maqdis—Islamic Jerusalem): A Critical Analytical Study of al-Tabari’s Version.” _Journal Al-Tamaddun_ , vol. 13, no. 2, 2018, p. 73, https://doi.org/10.22452/JAT.vol13no2.6.
+
+20
+
+Haylamaz, Reşit, and Fatih Harpcı. “A New Era.” _Prophet Muhammad: The Sultan of Hearts_ , vol. I, Tughra Books, USA, 2020, pp. 451-53 (footnotes 539, 540).
+
+21
+
+Meehan, Denis, editor. “Adamnani de Locis Sanctis.” _Adamnan’s De Locis Sanctis_ , The Dublin Institute for Advanced Studies, Ireland, 1958, pp. 42–43.
+
+22
+
+O’Laughlin, Thomas. “The Occasion of De Locis Sanctis.” _Adomnán and the Holy Places_ , T&T Clark, UK, 2007, pp. 61–63.
+
+23
+
+Kessler, Christel. “ʿAbd Al-Malik’s Inscription In The Dome Of The Rock: A Reconsideration.” _The Journal of the Royal Asiatic Society of Great Britain and Ireland_ , no. 1, 1970, pp. 2–14.
+
+24
+
+Milwright, Marcus. “Initial Description of the Mosaic Inscriptions.” _The Dome of the Rock and Its Umayyad Mosaic Inscriptions_ , Edinburgh University Press, UK, 2016, pp. 67–71.
+
+25
+
+Milwright, _op. cit._ , “Conclusion,” p. 256.
+
+26
+
+“Episode 13: No Proof of Muhammad on The Dome of the Rock.” _YouTube_ , uploaded by CIRA International, 2 Jun. 2021, 
+
+27
+
+Milwright, _op. cit._ , “Initial Description of the Mosaic Inscriptions,” p. 79.
+
+28
+
+Ibn Ishaq. “Introduction.” _The Life of Muhammad: A Translation of Ishaq’s Sirat Rasul Allah_ , edited & translated by A. Guillaume, 17th ed., Oxford University Press, Pakistan, 2004, p. xvii.
+
+29
+
+ _Ibid._ , xix.
+
+30
+
+“Teshuvot HaRadbaz Volume 2 691:2.” _Sefaria_ , www.sefaria.org/Teshuvot_HaRadbaz_Volume_2.691.2?lang=bi. Accessed 20 November 2023.
+
+31
+
+Doğan, Nejla. “Limits of Tolerance: Legal Relations between Early Ottoman Jews and Central Authorities (15th -18th Centuries).” _Ortadoğu Etütleri_ , vol. 13, no. 3, 2021, pp. 451–52, https://doi.org/10.47932/ortetut.936829.
+
+32
+
+ _Ibid._ , 454.
+
+33
+
+ _Ibid._ , 455.
+
+34
+
+ _Ibid._ , 457.
+
+35
+
+ _Ibid._ , 458.
+
+36
+
+ _Ibid._ , 455.
+
+37
+
+ _Ibid._ , 457.
+
+38
+
+Loewenberg, F. M. “Outlawed Visitors on Al-Haram Al-Sharif: Jews on the Temple Mount during the Ottoman and British Rule of Jerusalem, 1517–1967.” _Hakirah: The Flatbush Journal of Jewish Law and Thought_ , vol. 28, Spring 2020, pp. 289–90.
+
+39
+
+ _Ibid._ , 290.
+
+40
+
+ _Ibid._ , 291.
+
+41
+
+Rayburn, Joel Dawson. _The Greatest Diaster: The Failure of Great Britain’s Ottoman Empire Policy, 1914_. 2002. Texas A&M University, Master’s Thesis, pp. 9–10, https://apps.dtic.mil/sti/tr/pdf/ADA400652.pdf.
+
+42
+
+Morgenstern, Arie. “Belief in 5600 (1840) as the Year of Redemption.” _Hastening Redemption: Messianism and the Resettlement of the Land of Israel_ , translated by Joel A. Linsider, Oxford University Press, UK, 2006, p. 24.
+
+43
+
+Perry, Yaron. “John Steinbeck’s Roots in Nineteenth-Century Palestine.” _Steinbeck Studies_ , vol. 14, no. 1, Spring 2004, pp. 59–64, https://doi.org/10.1353/stn.2004.0018.
+
+44
+
+Malul, Chen. “Mark Twain in Palestine – ‘A Hopeless, Dreary, Heart-Broken Land.’” _The Librarians_ , 11 May 2018, https://blog.nli.org.il/en/mark-twain-in-palestine.
+
+45
+
+Clemens, Samuel. “Chapter LIII.” _The Innocents Abroad, or the New Pilgrims’ Progress_ , American Publishing Co., Connecticut, USA, 1869, p. 560.
+
+46
+
+Clemens, _op. cit._ , “Chapter LVI,” p. 606.
+
+47
+
+Morris, Benny. “The Beginning of the Conflict: Jews and Arabs in Palestine, 1881–1914.” _Righteous Victims: A History of the Zionist-Arab Conflict, 1881–1999_ , 1st ed, Vintage Books, USA, 1999, p. 49.
+
+48
+
+ _Ibid._ , 50.
+
+49
+
+Photo Department, Whiting, J. D., Larsson, L. & Matson, G. E., photographer. “Gen. Allenby's Proclamation [of Martial Law in Jerusalem], 1917. LC-DIG-ppmsca-13291-00041 (digital file from original, page 15, no. 41).” _Library of Congress_ , https://www.loc.gov/resource/ppmsca.13291/?sp=41.
+
+50
+
+Ridpath, John Clark. “Chapter XXXVII. Redemption of the Holy Land.” _The New Complete History of the United States of America_ , vol. XVI, The Jones Bros. Publishing Co., Cincinnati, OH, USA, 1918, pp. 507–08.
+
+51
+
+Secretary of State for the Colonies. “Chapter III. Detailed Narrative of Recent Events.” _Report of the Commission of the Palestine Disturbances of August, 1929_ , His Majesty’s Stationary Office, London, UK, 1930, p. 27.
+
+52
+
+“Minutes of a Meeting of the War Cabinet held at 10, Downing Street, S.W., ref. CAB 23/4/51 [microform].” National Archives, 19 November 1917, London, UK, p. 187
+
+53
+
+Cohen, Aharon. “The British Mandatory Period.” _Israel and the Arab World_ , Abridged ed., Beacon Press, USA, 1976, pp. 13–14.
+
+54
+
+ _Ibid._ , 13.
+
+55
+
+ _Ibid._ , 14.
+
+56
+
+The United Press. “Moslem Sages Ask Holy War As Duty to Bar Palestine Split.” _The New York Times_ , 3 Dec. 1947, p. 1. Accessed 23 November 2023.
+
+57
+
+Gil-Har, Yitzhak. “The Separation of Trans-Jordan from Palestine.” _The Jerusalem Cathedra_ , edited by Lee I. Levine, Yad Izhak Ben-Zvi Institute, Israel, 1981, p. 306.
+
+58
+
+Morris, _op. cit._ , “World War I,” p. 110.
+
+59
+
+“A Historical Sketch.” _A Brief Guide to Al-Haram Al-Sharif_ , Supreme Moslem Council, Jerusalem, 1925, p. 4.
+
+60
+
+Secretary of State for the Colonies, _op. cit._ , pp. 28–29.
+
+61
+
+Campos, Michelle. “Remembering Jewish-Arab Contact and Conflict.” _Reapproaching Borders: New Perspectives on the Study of Israel-Palestine_ , edited by Sandra M. Sufian and Mark LeVine, Rowman & Littlefield Publishers, USA, 2007, pp. 54–55.
+
+62
+
+Segev, Tom. “14. Hebron, 1929.” _One Palestine, Complete: Jews and Arabs under the Mandate_ , 1st American ed, Metropolitan Books, USA, 2000, p. 320.
+
+63
+
+Gottheil, Fred M. _Arab Immigration into Pre-State Israel: 1922–1931_. 1971. College of Commerce and Business Administration, University of Illinois, Faculty Working Papers, p. 11.
+
+64
+
+ _Ibid._ , 10.
+
+65
+
+ _Ibid_.
+
+66
+
+Hershlag, Z. Y. “The Economy of the Mandated Territories (Syria, Lebanon, Iraq and Transjordan) between the Two World Wars.” _Introduction to the Modern Economic History of the Middle East_ , E. J. Brill, Netherlands, 1964, p. 237.
+
+67
+
+Szereszewski, Robert. “Estimates of the Capital Stock of the Jewish Economy of Palestine: 1922–47.” _Essays on the Structure of the Jewish Economy in Palestine and Israel_ , The Maurice Falk Institute for Economic Research in Israel, Israel, 1968, p. 82.
+
+68
+
+Gervasi, Frank. “Chapter VI: Progress.” _To Whom Palestine?_ , D. Appleton-Century Company, USA, 1946, p. 104.
+
+69
+
+Gottheil, _op. cit._ , p. 13–14.
+
+70
+
+Cohen, Hillel. “Unity Ends.” _Army of Shadows: Palestinian Collaboration with Zionism, 1917–1948_ , translated by Haim Watzman, University of California Press, USA, 2008, p. 128.
+
+71
+
+Mallmann, Klaus-Michael, and Martin Cüppers. “II. Nazi Sympathies: Middle East Supporters of the Third Reich.” _Nazi Palestine: The Plans for the Extermination of the Jews in Palestine_ , translated by Krista Smith, First English edition, Enigma Books, USA, 2010, pp. 30–31.
+
+72
+
+Aglion, Raoul. “12. Saving the Middle East.” _The Fighting French_ , Henry Holt and Company, USA, 1943, p. 217.
+
+73
+
+Mallmann, _op. cit._ , p. 31.
+
+74
+
+Hitler, Adolf. “XIV. Eastern Orientation or Eastern Policy.” _Mein Kampf_ , translated by Ralph Manheim, Houghton Mifflin, USA, 2001, pp. 658–59.
+
+75
+
+Wild, Stefan. “National Socialism in the Arab Near East between 1933 and 1939.” _Die Welt Des Islams_ , vol. 25, no. 1/4, 1985, p. 139, https://doi.org/10.2307/1571079.
+
+76
+
+Mallmann, _op. cit._ , p. 33.
+
+77
+
+Wild, _op. cit._ , p. 136
+
+78
+
+ _Ibid_.
+
+79
+
+Mallmann, _op. cit._ , p. 39.
+
+80
+
+ _Ibid_.
+
+81
+
+Shlaim, Avi. “7. On the Brink.” _Collusion across the Jordan: King Abdullah, the Zionist Movement, and the Partition of Palestine_ , Columbia University Press, USA, 1988, pp. 227–28.
+
+82
+
+Karsh, Efraim. “Chapter 10. The Scramble for Palestine.” _Palestine Betrayed_ , Yale University Press, USA, 2011, p. 209.
+
+83
+
+Morris, Benny. “2. The United Nations Steps In: UNSCOP and the Partition Resolution.” _1948: A History of the First Arab-Israeli War_ , Yale University Press, USA, 2008, p. 50.
+
+84
+
+“The Declaration of Independence.” _Israel State Archives_ , catalog.archives.gov.il/en/chapter/the-declaration-of-independence. Accessed 21 November 2023.
+
+85
+
+Browne, Mallory. “Jews in Grave Danger in All Moslem Lands; Nine Hundred Thousand in Africa and Asia Face Wrath of Their Foes.” _The New York Times_ , 16 May 1948, p. 4.
+
+86
+
+Schmidt, Dana Adams. “High Arabs Spurn Bernadotte Plan; Azzam Pasha Pledges League Fight in U.N.” _The New York Times_ , 22 Sept. 1948, p. 3.
+
+87
+
+Bernadotte, Folke. “On Rhodes Again: 18th–30th June.” _To Jerusalem_ , translated by Joan Bulman, Hodder and Stoughton, UK, 1976, p. 113.
+
+88
+
+Morris, _op. cit._ , “11. Some Conclusions,” p. 409.
+
+89
+
+ _Ibid_.
+
+90
+
+Azaryahu, Maoz, and Arnon Golan. “Photography, Memory and Ethnic Cleansing: The Fate of the Jewish Quarter of Jerusalem, 1948—John Phillips’ Pictorial Record.” _Israel Studies_ , vol. 17, no. 2, Summer 2012, p. 63, https://doi.org/10.2979/israelstudies.17.2.62.
+
+91
+
+Morris, _op. cit._ , p. 405.
+
+92
+
+Pipes, Daniel. “The Muslim Claim to Jerusalem.” _Nothing Abides: Perspectives on the Middle East and Islam_ , Transaction Publishers, USA, 2015, pp. 22–23.
+
+93
+
+ _Ibid_.
+
+94
+
+Anis, Emilia, et al. “The Reemergence of Malaria in Israel?” _Harefuah_ , vol. 143, no. 11, November 2004, p. 815.
+
+95
+
+Ross, Albion. “Abdullah, Jordan King, Slain By an Arab in Old Jerusalem.” _The New York Times_ , 21 July 1951, p. 1.
+
+96
+
+Al-Hout, Shafiq. “The Birth of the Palestine Liberation Organization.” _My Life in the PLO: The Inside Story of the Palestinian Struggle_ , edited by Jean Said Makdisi and Martin Asser, translated by Hader al-Hout and Laila Othman, Pluto Press, USA, 2011, pp. 49–54.
+
+97
+
+Ma’oz, Moshe. “Chapter 9. The Lion of Greater Syria.” _Asad: The Sphinx of Damascus_ , Grove Weidenfeld, USA, 1988, p. 114.
+
+98
+
+Dorsey, James. “Wij zijn alleen Palestijn om politieke reden.” _Trouw_ [Dutch], 31 Mar. 1977. Accessed 27 November 2023.
+
+99
+
+“Syria Says in U.N. Palestine Is Hers; History Cited by El-Shukairy – Eban Derides Arguments and Sees Bid for Israel.” _The New York Times_ , 1 June 1956, p. 3. Accessed 27 November 2023.
+
+100
+
+Bell, Abraham, and Eugene Kontorovich. “Palestine, Uti Possidetis Juris, and the Borders of Israel.” _Arizona Law Review_ , vol. 58, no. 663, 2016, pp. 649–50.
+
+101
+
+ _Ibid._ , 654–55.
+
+102
+
+Ben Gad, Yitschak. “Syria—Fanaticism as a Policy against Israel.” _Politics, Lies, and Videotape: 3,000 Questions and Answers on the Mideast Crisis_ , Shapolsky Publishers, USA, 1991, pp. 366–67.
+
+103
+
+Obaid, Nawaf E. “4. The Muslim Brotherhood in the Levant.” _The Failure of the Muslim Brotherhood in the Arab World_ , Praeger Security International, USA, 2020, p. 86.
+
+104
+
+ _Ibid_.
+
+105
+
+Maqdsi, Muhammad. “Charter of the Islamic Resistance Movement (Hamas) of Palestine.” _Journal of Palestine Studies_ , vol. 22, no. 4, Summer 1993, p. 123.
+
+106
+
+ _Ibid._ , 132.
+
+107
+
+Eichler, Gabriel. “Inside Israel’s Hunt for Arch Terrorists: How Shin Bet Always Gets Its Man.” _The Algemeiner_ , 21 November 2012, https://www.algemeiner.com/2012/11/21/inside-israels-hunt-for-arch-terrorists-how-shin-bet-always-gets-its-man/. Accessed 21 November 2023.
+
+108
+
+Brinkley, Joel. “In Hussein, the Palestinians Have an Ally and a Curse.” _The New York Times_ , 2 Sept. 1990, p. 2.
+
+109
+
+H. Cushman, Jr., John. “Under Harassment, Many Palestinians in Kuwait See No Choice but to Leave.” _The New York Times_ , 9 June 1991, p. 3.
+
+110
+
+Amnesty International. _Israel / South Lebanon: Deportation / Fear for Safety: Over 400 Palestinians_ , MDE 15/032/1992. 21 Dec. 1992. Accessed 21 November 2023.
+
+111
+
+Nakjhoul, Samia. “How Hamas Secretly Built a ‘Mini-Army’ to Fight Israel.” _Reuters_ , 16 Oct. 2023, https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13.
+
+112
+
+Makovsky, David. “How to Build a Fence.” _Foreign Affairs_ , vol. 83, no. 2, 2004, p. 52. _DOI.org (Crossref)_ , https://doi.org/10.2307/20033902.
+
+113
+
+Katz, Samuel M. “Chapter 7. Payback.” _The Hunt for the Engineer: How Israeli Agents Tracked the Hamas Master Bomber_ , Fromm International, USA, 1999, pp. 260–61.
+
+114
+
+“Israel-Palestine Liberation Organization: Wye River Memorandum (Interim Agreement).” _International Legal Materials_ , vol. 37, no. 6, 1998, pp. 1251–1257., https://doi.org/10.1017/S0020782900012237.
+
+115
+
+Sipress, Alan. “Adviser: Clinton Exasperated With Barak During Talks.” _The Washington Post_ , 18 July 2001, https://www.washingtonpost.com/archive/politics/2001/07/18/adviser-clinton-exasperated-with-barak-during-talks/1b58f476-6f8e-4de4-bf66-89094f439493/. Accessed 22 November 2023.
+
+116
+
+Barkay, Gabriel, and Zachi Dvira. “Relics in Rubble: The Temple Mount Sifting Project.” _Biblical Archaeology Review_ , vol. 42, no. 6, Dec. 2016, pp. 51–52. Accessed 22 November 2023.
+
+117
+
+Ross, Dennis. “Chapter 24. The Camp David Summit.” _The Missing Peace: The inside Story of the Fight for Middle East Peace_ , Farrar, Straus and Giroux, USA, 2005, p. 694.
+
+118
+
+Harnden, Toby. “Gaza’s Settlers Prepare to Exhume Their Dead before the Withdrawal.” _The Telegraph_ , 13 Mar. 2015, https://www.telegraph.co.uk/news/worldnews/middleeast/1485555/Gazas-settlers-prepare-to-exhume-their-dead-before-the-withdrawal.html. Accessed 22 November 2023.
+
+119
+
+McDermott, Tricia. “Arafat’s Billions.” _CBS News_ , 7 November 2003, https://cbsnews.com/news/arafats-billions. Accessed 22 November 2023.
+
+120
+
+National Democratic Institute. _Final Report on the Palestinian Legislative Council Elections, January 25, 2006_. National Democratic Institute, 2006, p. 2, https://www.ndi.org/sites/default/files/2068_ps_elect_012506_5.pdf.
+
+121
+
+Pina, Aaron D. _Palestinian Elections_. CRS Report for Congress, RL33269, Congressional Research Service, 9 Feb. 2006, p. 10, https://sgp.fas.org/crs/mideast/RL33269.pdf.
+
+122
+
+Schenker, David. “The Pharaoh Strikes Back: Egypt vs. Hezbollah.” _The Washington Institute for Near East Policy_ , 11 May 2009, https://www.washingtoninstitute.org/policy-analysis/pharaoh-strikes-back-egypt-vs-hezbollah. Accessed 22 November 2023.
+
+123
+
+“Abbas ‘Supports’ Egypt Action on Gaza Tunnels.” _Al Jazeera_ , 12 December 2014, https://www.aljazeera.com/news/2014/12/12/abbas-supports-egypt-action-on-gaza-tunnels. Accessed 22 November 2023.
+
+124
+
+UNISPAL. “UN Suspends Aid Operation after Second Hamas-Linked Theft of Supplies.” _United Nations_ , 6 Feb. 2009, https://www.un.org/unispal/document/auto-insert-209885. Accessed 22 November 2023.
+
+125
+
+Federman, Josef. “Israel, Egypt Ease Gaza Blockade.” _NBC News_ , 1 June 2010, https://www.nbcnews.com/id/wbna37442104. Accessed 22 November 2023.
+
+126
+
+Nahmias, Roee. “PA: Hamas Converts Hospitals into Jails.” _Ynetnews_ , 7 Feb. 2009, https://www.ynetnews.com/articles/0,7340,L-3668018,00.html. Accessed 22 November 2023.
+
+127
+
+Kirkpatrick, David D., and Jodi Rudoren. “Israel and Hamas Agree to a Cease-Fire, After a U.S.-Egypt Push.” _The New York Times_ , Middle East, 21 November 2012, https://www.nytimes.com/2012/11/22/world/middleeast/israel-gaza-conflict.html. Accessed 22 November 2023.
+
+128
+
+Khoury, Jack. “Hamas Chief Lauds Abductors of Israeli Teens, Says Has No New Information.” _Haaretz_ , 23 June 2014, https://www.haaretz.com/2014-06-23/ty-article/hamas-meshal-lauds-abductors-of-israeli-teens/0000017f-db73-df62-a9ff-dff70cef0000. Accessed 22 November 2023.
+
+129
+
+Segell, Glen. “Introduction.” _Israel, Gaza and Hamas 2014: Operation Protective Edge_ , London Institute of Security Policy, UK, 2015, p. 2.
+
+130
+
+“Israel and Hamas to Observe Brief Gaza Truce.” _Al Jazeera_ , 17 July 2014, https://www.aljazeera.com/news/2014/7/17/israel-and-hamas-to-observe-brief-gaza-truce. Accessed 22 November 2023.
+
+131
+
+Booth, William. “While Israel Held Its Fire, the Militant Group Hamas Did Not.” _The Washington Post_ , 15 July 2014, https://www.washingtonpost.com/world/middle_east/while-israel-held-its-fire-the-militant-group-hamas-did-not/2014/07/15/116fd3d7-3c0f-4413-94a9-2ab16af1445d_story.html. Accessed 22 November 2023.
+
+132
+
+Frum, David. “Photographs as Weapons of War in the Middle East.” _The Atlantic_ , 2 Aug. 2014, https://www.theatlantic.com/international/archive/2014/08/photographs-as-weapons-of-war-in-the-middle-east/375492/. Accessed 22 November 2023.
+
+133
+
+“Tu dois quitter Gaza au plus vite et arrêter de travailler.” _Internet Archive Wayback Machine_ , 24 July 2014, https://web.archive.org/web/20151117074825/https://www.liberation.fr/planete/2014/07/24/tu-dois-quitter-gaza-au-plus-vite-et-arreter-de-travailler_1069701. Accessed 22 November 2023.
+
+134
+
+Levitt, Joshua. “Finnish TV Reporter at Gaza’s Al Shifa Hospital: ‘It’s True That Rockets Are Launched Here From the Gazan Side Into Israel’ (VIDEO).” _The Algemeiner_ , 1 Aug. 2014, https://www.algemeiner.com/2014/08/01/finnish-tv-reporter-at-gazas-al-shifa-hospital-its-true-that-rockets-are-launched-here-from-the-gazan-side-into-israel-video/. Accessed 22 November 2023.
+
+135
+
+“Helsingin Sanomat Correspondent Admits Hamas Launched Rockets from Shifa Hospital.” _YouTube_ , uploaded by Tundra Tabloids, 1 Aug. 2014, www.youtube.com/watch?v=Nu-e5qWXx-k. Accessed 22 November 2023.
+
+136
+
+“Gaza: Palestinians Tortured, Summarily Killed by Hamas Forces during 2014 Conflict.” _Amnesty International_ , 27 May 2015, https://www.amnesty.org/en/latest/news/2015/05/gaza-palestinians-tortured-summarily-killed-by-hamas-forces-during-2014-conflict/. Accessed 22 November 2023.
+
+137
+
+Sherwood, Harriet. “Israeli Soldiers Who Used Palestinian Boy, 9, as a Human Shield Avoid Jail.” _The Guardian_ , 21 November 2010, https://www.theguardian.com/world/2010/nov/21/israeli-soldiers-human-shield-avoid-jail. Accessed 6 December 2023.
+
+138
+
+Aday, Sean, et al. “Hamas’ Use of Human Shields in Gaza.” _Hybrid Threats: A Strategic Communications Perspective_ , NATO Strategic Communications Centre of Excellence, Latvia, 2019, p. 155.
+
+139
+
+ _Ibid._ , 154.
+
+140
+
+ _Ibid._ , 152.
+
+141
+
+“A Look at the Billions of Dollars in Foreign Aid to Gaza.” _Associated Press News_ , 20 Dec. 2021, https://apnews.com/article/business-middle-east-israel-foreign-aid-gaza-strip-611b2b90c3a211f21185d59f4fae6a90. Accessed 22 November 2023.
+
+142
+
+“EU Increases Humanitarian Aid to Gaza by €25 Million.” _European Commission_ , 6 November 2023, https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-increases-humanitarian-aid-gaza-eu25-million-2023-11-06_en. Accessed 22 November 2023.
+
+143
+
+Knell, Yolande. “Israel Palestinians: Court Finds Gaza Aid Worker Guilty of Diverting Funds to Hamas.” _BBC News_ , 15 June 2022, https://www.bbc.com/news/world-middle-east-61808619. Accessed 22 November 2023.
+
+144
+
+Jalal, Rasha Aboul. “Anger at Hamas Brews as Taxes Increase in Gaza.” _Al-Monitor_ , 6 May 2023, https://www.al-monitor.com/originals/2023/05/anger-hamas-brews-taxes-increase-gaza. Accessed 22 November 2023.
+
+145
+
+“Who Is Ismail Haniyeh? Senior Hamas Leader Who Leads a Lavish Lifestyle in Qatar.” _The Economic Times_ , 12 Oct. 2023, https://economictimes.indiatimes.com/news/international/us/who-is-ismail-haniyeh-senior-hamas-leader-who-leads-a-lavish-lifestyle-in-qatar/articleshow/104347525.cms. Accessed 22 November 2023.
+
+146
+
+Barnes, Joe. _EU Funded Water Pipelines despite Hamas Boast It Could Turn Them into Rockets_. 10 Oct. 2023, https://www.telegraph.co.uk/world-news/2023/10/10/eu-funded-water-pipelines-hamas-rockets/. Accessed 22 November 2023.
+
+147
+
+“Child Suicide Attacks ‘Must Stop.’” _BBC News_ , 3 November 2004, http://news.bbc.co.uk/2/hi/middle_east/3979887.stm. Accessed 22 November 2023.
+
+148
+
+“Occupied Territories: Stop Use of Children in Suicide Bombings.” _Human Rights Watch_ , 1 November 2004, https://www.hrw.org/news/2004/11/01/occupied-territories-stop-use-children-suicide-bombings. Accessed 22 November 2023.
+
+149
+
+“Israel/Occupied Territories: Children must not be used by armed groups.” _Amnesty International_ , 24 Mar. 2004, www.un.org/press/en/2020/sc14383.doc.htm. Press release. Accessed 22 November 2023.
+
+150
+
+McCoy, Terrence. _Why Hamas Stores Its Weapons inside Hospitals, Mosques and Schools_. 31 July 2014, https://www.washingtonpost.com/news/morning-mix/wp/2014/07/31/why-hamas-stores-its-weapons-inside-hospitals-mosques-and-schools/. Accessed 22 November 2023.
+
+151
+
+Nanu, Maighna. “Hamas Tunnel Found Hidden underneath Child’s Bed in Gaza.” _The Telegraph_ , 10 November 2023, https://www.telegraph.co.uk/world-news/2023/11/10/hamas-tunnel-under-childs-bed-gaza-israel/. Accessed 22 November 2023.
+
+152
+
+Harkov, Lahav. “Netanyahu: Money to Hamas Part of Strategy to Keep Palestinians Divided.” _The Jerusalem Post_ , 12 Mar. 2019, https://www.jpost.com/arab-israeli-conflict/netanyahu-money-to-hamas-part-of-strategy-to-keep-palestinians-divided-583082. Accessed 22 November 2023.
+
+153
+
+al Sayegh, Hadeel, et al. “Who Funds Hamas? A Global Network of Crypto, Cash and Charities.” _Reuters_ , 16 Oct. 2023, https://www.reuters.com/world/middle-east/hamas-cash-to-crypto-global-finance-maze-israels-sights-2023-10-16/. Accessed 22 November 2023.

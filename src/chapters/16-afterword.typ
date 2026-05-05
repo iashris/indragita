@@ -15,7 +15,7 @@ So what would such a civilization actually look like?
 
 At its foundation: the right of every person to author their own life. To look at their circumstances and say "this is my starting position, not my destiny." To want things without apology and to bear the full weight of the consequences.
 
-Sincerity over performance. Say what you want. Mean what you say. Sophisticated evasion would be recognized for what it is: cowardice wearing philosophy's clothes.
+Sincerity over performance. Say what you want. Mean what you say. The gap between the word and the act, that old and very human temptation, would be named for what it is, and the tradition itself would be the first to name it.
 
 The entrepreneur, the artist, the builder, none of them would be told to seek liberation instead. Ambition would carry no apology. Build, and when you are done, build more.
 
@@ -35,25 +35,21 @@ Indra does not claim his path is for everyone. Some need the peace Krishna offer
 
 That path exists. It has produced saints. It has offered comfort to billions.
 
-This book is for the ones it did not comfort. The ones who read the Gita and felt caged. The ones who were told to stop wanting and could not.
+This book is for the ones it did not quite reach. The ones who read the Gita and felt that something in them had still not been spoken to. The ones whose calling was to want, to build, to love fiercely, to remain in the world.
 
-For them, Indra offers an alternative. Not a replacement. An alternative.
+For them, Indra offers a complement. Not a replacement. A second hymn in the same raga.
 
 #v(1.5em)
 
-The Indragita is finished. But ideas are arrows that never stop flying.
+The Indragita is finished. But ideas, as the Vedas knew, are arrows that never stop flying.
 
-If something in these pages made you uncomfortable, good. Examine the discomfort. It may be the sound of a cage you did not know you were in.
+If something in these pages unsettled you, sit with it. Old questions often come dressed in new discomforts; that, too, is part of the tradition. The rishis welcomed the unsettling question as the beginning of inquiry.
 
-If something in these pages made you feel recognized, better. You are not alone. You never were.
+If something in these pages felt like a recognition, like a name finally given to a familiar thing, then you have met an older relative. You are not alone. You never were.
 
-The fire is old. It has been burning since before the Vedas were composed. It will burn after this book is forgotten.
+The fire is old. It has been burning since before the Vedas were composed. It will burn after this book is forgotten. May we tend it well in our own time.
 
-Your only question is whether you will warm yourself by it, or spend your life explaining why fire is dangerous.
-
-Read the Gita. Read this. Choose.
-
-Or better yet: read both, and build something new from the collision.
+Read the Gita. Read this. Hold them together. Let them speak to each other in you, the way Krishna and Indra have spoken to each other on this beach. Out of that conversation, build the life that is yours to build.
 
 #v(2em)
 #align(center)[#text(style: "italic", size: 10pt)[End of Text]]
