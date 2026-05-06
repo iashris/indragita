@@ -1,0 +1,444 @@
+[
+  {
+    "name": "",
+    "value": "testcookie",
+    "domain": "dialog.filestackapi.com",
+    "path": "/dialog/comm_iframe",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "",
+    "value": "testcookie",
+    "domain": "www.filestackapi.com",
+    "path": "/dialog/comm_iframe",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sk_19zyzh2k_access",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJ1c2VyIiwiaWF0IjoxNzc4MDcxMjg4LCJqdGkiOiI1NmZlMjJlNS01Mzc3LTQxMWEtYTA5Ni0yNzU2N2UzOGQyMjgiLCJpc3MiOiJza18xOXp5emgyayIsInN1YiI6ImYyNjkwZTViLWM4NDUtNDJiZC1iY2RhLTIwZjZiY2M5YWE4MyJ9.N5T1sCoXH48jGx4lr1SbsWutZanR7fb0zhEVsauhw7Y",
+    "domain": "sso.teachable.com",
+    "path": "/secure/306231/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sk_19zyzh2k_refresh",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJyZW1lbWJlcl9tZSIsImlhdCI6MTc3ODA3MTI4OCwiaXNzIjoic2tfMTl6eXpoMmsiLCJqdGkiOiIxZTEwYWM2Ny0wZDg5LTQ2ZDAtYThlMi0zYThiNTY0NjE3OTUiLCJzdWIiOiJmMjY5MGU1Yi1jODQ1LTQyYmQtYmNkYS0yMGY2YmNjOWFhODMifQ.s9VaicP0uxWbV-jvbqRXpggrEwbRFejTrKA53N6AzFg",
+    "domain": "sso.teachable.com",
+    "path": "/secure/306231/",
+    "expires": 1812631288.996045,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ahoy_visitor",
+    "value": "7bbea097-87f9-464a-abd3-fab2541f5f4a",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631248.211266,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ahoy_visit",
+    "value": "7ae386fc-0e64-4cb5-8f95-307e56ae5bb0",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1778085696.739248,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ahoy_track",
+    "value": "true",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_afid",
+    "value": "7bbea097-87f9-464a-abd3-fab2541f5f4a",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607247.212348,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "aid",
+    "value": "7bbea097-87f9-464a-abd3-fab2541f5f4a",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607247.212373,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_session_id",
+    "value": "8dd2651fce0ab69ecdad0ba1d65d8853",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1780663296.776596,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "aid",
+    "value": "7bbea097-87f9-464a-abd3-fab2541f5f4a",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607296.361733,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.2029898148.1778071249",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631295.912745,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607295,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%2294602fbe-0e5d-4358-a3f6-de7700f72c07%22",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607249,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1778071249469.387019899476262323",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1785847295,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__ssid",
+    "value": "5a223195-8796-46ac-ae0c-c82e6ead595d",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631250.381717,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "m",
+    "value": "a076704f-372f-48f5-a7ba-779f62528850324a2d",
+    "domain": "m.stripe.com",
+    "path": "/",
+    "expires": 1812631297.305306,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__stripe_mid",
+    "value": "53e126fd-04c3-48c6-890f-b04f0b26f45c352beb",
+    "domain": ".learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607297,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "__stripe_sid",
+    "value": "fdbd9602-a5fb-4729-889c-fc318f4a977cddf210",
+    "domain": ".learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1778073097,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_hp2_ses_props.318805607",
+    "value": "%7B%22ts%22%3A1778071249221%2C%22d%22%3A%22learn.makeartnotcontent.com%22%2C%22h%22%3A%22%2Fcourses%2F465756%2Flectures%2F41878133%22%7D",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1778073096,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ahoy_visitor",
+    "value": "42222e3a-8581-46e2-b7ad-382df05231ca",
+    "domain": "sso.teachable.com",
+    "path": "/",
+    "expires": 1812631252.501821,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ahoy_visit",
+    "value": "db631218-f0e4-4f59-bada-0fe8946096a0",
+    "domain": "sso.teachable.com",
+    "path": "/",
+    "expires": 1778085688.995705,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ahoy_track",
+    "value": "true",
+    "domain": "sso.teachable.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_afid",
+    "value": "42222e3a-8581-46e2-b7ad-382df05231ca",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607253.437389,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "aid",
+    "value": "42222e3a-8581-46e2-b7ad-382df05231ca",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607253.437429,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "7iPKdUSDmqUG2pq00SmBgA725zXwN5fn9PPHXwVwmJg-1778071251.8918016-1.0.1.1-7pANl014Ci_DSb7EKS5aHo94phE.I8syclaE7BA6n0s",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_session_id",
+    "value": "2b106d90d51eab6701c2080a64bbf986",
+    "domain": "sso.teachable.com",
+    "path": "/",
+    "expires": 1780663288.996265,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "null",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607253,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607253,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%223efee24a-0b9f-44d1-b726-206d5a73447c%22",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607253,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cf_clearance",
+    "value": "H9vowwU5BMPIjC.w9X9zG5LvlMQXnbomTG0oSF5tbCM-1778071254-1.2.1.1-CefCYJDM0oI3EniA1ajBb3.dx4vsOp_Yjdw3hHGBgwoDNSnqsEcFS.WZoxjuaJwFQAFt1PK21QHL_wudpuxT2H.knoiW5.W2_sFesAmFvMC4dchpOCl1eszOZiI8O9hP6ruqSo0au9WECcwsHHwVcdHpUvroKz6h4W98gIAmCg1HqUbDfoPPl5SS4WA_uMuetL0h.uxUMusl1k8taN5c74Qzt2aio_xwj1T8tqa3kg5vb8OcKHo0zdsUPMZf5DZWfEaS5jbQ4GWeUGfnRgb0.e8okvcavsrZTry6n6WMiC1gJlSKgJWUOMhZxCiB6sy1gdNG8CfmpHbuqebUuCzBDw",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1809607254.472256,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://teachable.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "__cf_bm",
+    "value": "j7rOspjzFpRBqo29dJHd3nHlG4DzC5xMyrTM6cXsRM8-1778071254.4387522-1.0.1.1-m5Qx3E98CF8zrID9sPQT7jHAmumqMU.HvTdz186x0R9m3qkNRSupmo6rZLXHAE3eWahX68_cbVz0aYFc9XmtpMRG2SlcEOU7ugvIJvCIBJ0bBAXQJDDKjIBE8eJH3OFg",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1778073054.472556,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hp2_props.318805607",
+    "value": "%7B%22school_id%22%3A%22306231%22%7D",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1812148854,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hp2_id.318805607",
+    "value": "%7B%22userId%22%3A%225311562491992393%22%2C%22pageviewId%22%3A%222905956856996861%22%2C%22sessionId%22%3A%22809075597397831%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1812148854,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hp2_ses_props.318805607",
+    "value": "%7B%22r%22%3A%22https%3A%2F%2Flearn.makeartnotcontent.com%2F%22%2C%22ts%22%3A1778071254483%2C%22d%22%3A%22sso.teachable.com%22%2C%22h%22%3A%22%2Fsecure%2F306231%2Fidentity%2Flogin%2Fotp%22%7D",
+    "domain": ".teachable.com",
+    "path": "/",
+    "expires": 1778073055,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sk_19zyzh2k_access",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJ1c2VyIiwiaWF0IjoxNzc4MDcxMjg5LCJqdGkiOiIwMDYyMzUwOS1lMjEzLTRiMDctYmMxNi1iM2RkNmZiZmUyNmEiLCJpc3MiOiJza18xOXp5emgyayIsInN1YiI6ImYyNjkwZTViLWM4NDUtNDJiZC1iY2RhLTIwZjZiY2M5YWE4MyJ9.KriQcxzyg9mnPhEwIc8hJQKxSIR3-tOWIwx_dSQpQdQ",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sk_19zyzh2k_remember_me",
+    "value": "1",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631289.972094,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "signed_in",
+    "value": "true",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "site_preview",
+    "value": "logged_in",
+    "domain": "learn.makeartnotcontent.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hp2_props.318805607",
+    "value": "%7B%22schoolId%22%3A%22306231%22%7D",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812148893,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_799VDWV8BS",
+    "value": "GS2.1.s1778071249$o1$g1$t1778071295$j14$l0$h0",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631295.898109,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_SL8LSCXHSV",
+    "value": "GS2.1.s1778071249$o1$g1$t1778071295$j14$l0$h0",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812631295.916111,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "%2287135069%22",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1809607296,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hp2_id.318805607",
+    "value": "%7B%22userId%22%3A%222347345103436907%22%2C%22pageviewId%22%3A%223067807940242966%22%2C%22sessionId%22%3A%225007112176704487%22%2C%22identity%22%3A%2287135069%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D",
+    "domain": ".makeartnotcontent.com",
+    "path": "/",
+    "expires": 1812148896,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
